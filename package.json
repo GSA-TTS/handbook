@@ -22,7 +22,7 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^3.1.8",
     "@uswds/uswds": "^3.11.0",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.21",
     "eleventy-plugin-svg-sprite": "^2.4.2",
     "esbuild": "^0.19.12",
     "esbuild-sass-plugin": "^2.16.1",

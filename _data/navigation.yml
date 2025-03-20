@@ -543,7 +543,7 @@ primary:
                 url: leadership-selection/
               - text: Leadership candidate guide
                 url: leadership-candidate-guide/
-              - text: Doing research at 18F
+              - text: Doing research at TTS
                 url: research-guidelines/
                 internal: true
               - text: Accessing DoD systems
@@ -643,9 +643,6 @@ primary:
             Internal: true
       - text: Network
         children:
-          - text: VirtualBox (hypervisor)
-            url: https://engineering.18f.gov/browser-testing/#windows
-            internal: false
           - text: Citrix (Workspace)
             url: virtual-desktop/
             internal: true
@@ -708,7 +705,7 @@ primary:
 
 footer:
   - text: File an issue
-    href: https://github.com/18F/handbook/issues/
+    href: https://github.com/GSA-TTS/handbook/issues/
     external: true
   - text: Contributing
     href: /contributing/

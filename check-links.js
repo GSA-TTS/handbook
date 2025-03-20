@@ -99,7 +99,7 @@ const run = async () => {
 
     for (const link of links) {
       if (link.startsWith("/")) {
-        const url = new URL(link, "https://18f.gov");
+        const url = new URL(link, "https://tts.gsa.gov");
         const pathComponents = [SITE_ROOT];
 
         // if(/^\/(images|))

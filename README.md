@@ -1,9 +1,10 @@
-# TTS Handbook [![CircleCI](https://circleci.com/gh/18F/handbook.svg?style=svg)](https://circleci.com/gh/18F/handbook)
+# TTS Handbook 
+![Build](https://github.com/gsa-tts/handbook/actions/workflows/pull-request.yml/badge.svg)
 
 The [TTS Handbook](https://handbook.tts.gsa.gov) documents the mission, values,
 structures, policies, tools, and guides that shape our team. This is a _living_
 document and is updated regularly. If you have questions, comments, or
-suggestions, please [open an issue](https://github.com/18F/handbook/issues). If
+suggestions, please [open an issue](https://github.com/gsa-tts/handbook/issues). If
 you want to add content to the Handbook, please submit a pull request or ask in
 [#tts-handbook](https://gsa-tts.slack.com/messages/tts-handbook).
 
@@ -75,3 +76,5 @@ This project is in the worldwide [public domain](LICENSE.md). As stated in
 > All contributions to this project will be released under the CC0 dedication.
 > By submitting a pull request, you are agreeing to comply with this waiver of
 > copyright interest.
+
+# Update any links or references to the repository URL here

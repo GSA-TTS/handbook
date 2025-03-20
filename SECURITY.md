@@ -25,7 +25,7 @@ Certain GSA/TTS programs have bug bounties that are not discussed at the above l
 * cloud.gov
 * search.gov
 * usa.gov
-* 18f.gov
+* tts.gsa.gov
 * fedramp.gov
 * login.gov
 * vote.gov

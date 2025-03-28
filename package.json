@@ -10,11 +10,18 @@
     "pages": "npm run build",
     "serve": "npm run start",
     "start": "eleventy --serve --incremental",
-    "test": "npm run test:prefixed-links && npm run test:internal-links && npm run test:html-validation && npm run test:spelling",
+    "test": "npm run test:prefixed-links && npm run test:internal-links && npm run test:html-validation && npm run test:spelling && npm run test:deps",
     "test:html-validation": "html-validate _site/**/*.html",
     "test:internal-links": "node check-links.js",
     "test:prefixed-links": "! (grep -Erl \"\\]\\(/|href=['\\\"]/\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
-    "test:spelling": "cspell --config ./cSpell.json \"pages/**/*.md\" --no-progress"
+    "test:spelling": "cspell --config ./cSpell.json \"pages/**/*.md\" --no-progress",
+    "test:deps": "node check-dependencies.js",
+    "podman:build": "podman-compose -f docker-compose.yml build",
+    "docker:build": "docker-compose build",
+    "podman:start": "podman-compose -f docker-compose.yml up",
+    "docker:start": "docker-compose up",
+    "docker:clean": "docker-compose down -v",
+    "podman:clean": "podman-compose -f docker-compose.yml down -v"
   },
   "author": "",
   "license": "CC0-1.0",
@@ -45,5 +52,8 @@
     "html-validate": "^7.16.0",
     "prettier": "^2.8.8"
   },
-  "prettier": {}
+  "prettier": {},
+  "engines": {
+    "node": ">=20.0.0"
+  }
 }

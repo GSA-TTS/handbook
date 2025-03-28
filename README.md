@@ -14,13 +14,16 @@ can keep the handbook, new hire messages, and checklists up to date.
 
 ## Development
 
-### Docker
+### Container
 
 1. Clone this repo
-2. Run `docker compose up`
-3. Open http://localhost:8080
+1. Run `docker compose up` or `podman-compose -f docker-compose.yml up` from the repo directory
+1. or using NPM `npm run docker:start` or `npm run podman:start` runs those same commands and provides cleanup with `npm run docker:clean` or `npm run podman:clean`
+1. Open http://localhost:8080
 
-### Not Docker
+>Note: If you are using `podman` instead of `docker`. Review [Podman Rootless Tutorial](https://github.com/containers/podman/blob/main/docs/tutorials/rootless_tutorial.md).
+
+### Locally
 
 To run the site locally:
 

@@ -1,11 +1,20 @@
-version: "3"
+version: "3.8"
 
 services:
   handbook:
-    build: ./
+    build: 
+      context: .
+      dockerfile: Dockerfile
     working_dir: /src
+    user: "${UID:-1000}:${GID:-1000}" # podman requires user UID and GID to be set
     volumes:
-      - ./:/src
-      - /src/node_modules
+      - handbook-node-modules:/src/node_modules
     ports:
-      - 8080:8080
+      - "8080:8080"
+    environment:
+      - NODE_ENV=development
+      - HOME=/tmp
+
+volumes:
+  handbook-node-modules:
+    driver: local

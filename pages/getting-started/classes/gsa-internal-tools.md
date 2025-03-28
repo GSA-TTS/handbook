@@ -23,7 +23,8 @@ to scroll down the page):
 | [BookIT!](#bookit)                            | To reserve a desk or meeting room in GSA buildings                                                                                                         | ENT username and password              |
 | [Concur](https://travel.gsa.gov)              | To book travel. Learn more in [Travel 101]({% page "/travel-101/" %}).                                                                                     | ENT username and password              |
 | [Employee Express](#employee-express)         | To view your paystub, change your direct deposit, update your tax withholdings, or change your address                                                     | Employee Express username and password |
-| [HR Links](#hr-links)                         | To request/document leave and access your personnel file online                                                                                            | ENT on GSA Wireless              |
+| [RightFax](#rightfax)                         | To send or receive a fax                                                                                                                                   | Gmail account                          |
+| [HR Links](#hr-links)                         | To request/document leave and access your personnel file online                                                                                            | ENT on GSA Wireless                    |
 | [IT Service Desk](#it-service-desk)           | General IT questions about Employee Express and other passwords (Note: They may not support requests for Macs, but will support requests for GSA websites) | ENT username and password              |
 | [Self Service](#self-service)                 | Used to install desktop software on Macs                                                                                                                   | ENT username and password              |
 | [Online University (OLU)]({% page "/olu/" %}) | To take mandatory trainings for federal employees                                                                                                          | ENT username and password              |
@@ -111,6 +112,23 @@ Portfolio]({% page "/office-of-solutions/tech-operations/#questions" %}).
 
 If you need to reset your ENT password, follow [these
 instructions]({% page "/getting-started/how-to-log-in/#changing-your-ent-password" %}).
+
+## RightFax
+
+<a href="https://gmail.com/">RightFax</a> is what you'll
+use to send or receive a fax. RightFax has been bundled with Google for all GSA users.
+
+To request an inbound fax number:
+1. Send an email to edistat@gsa.gov including your email address/group email address
+2. You will receive a random inbound fax number, pulled from a pool of numbers
+3. Any faxes sent to this number will be received in your Gmail inbox
+
+To send an outbound fax:
+1. Compose a new email to /fax=0000000000@fax.gsa.gov, substituting the actual fax number for the 0s
+2. Include area code, but not country code in your fax number
+3. Write in the body of the email if you’d like to send a plain text fax, or attach
+files to the email to be faxed
+4. Current allowed attachments size limit is 25 MB
 
 ## Self Service
 

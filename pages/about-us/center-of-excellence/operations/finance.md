@@ -2,13 +2,13 @@
 title: Organanizational financial management
 ---
 
-TTSC is part of the Federal Acquisition Service (FAS). FAS manages a revolving fund called the Acquisition Services Fund (ASF) and TTSC is funded through ASF.
+TTS is part of the Federal Acquisition Service (FAS). FAS manages a revolving fund called the Acquisition Services Fund (ASF) and TTS is funded through ASF.
 
 In contrast to appropriated funds, which are provided by Congress through the annual budget process, a revolving fund like ASF is designed to be replenished through reimbursements. This is why we must charge our partners for our actual time and material costs, plus a fixed overhead amount.
 
-## What does good financial health look like for TTSC?
+## What does good financial health look like for TTS?
 
-The primary indicator of financial stability for TTSC is *cost recovery*. It’s the process by which we recoup the costs of providing our services to partner agencies. The organization aims to cover its direct costs, which are largely staff salaries and benefits.
+The primary indicator of financial stability for TTS is *cost recovery*. It’s the process by which we recoup the costs of providing our services to partner agencies. The organization aims to cover its direct costs, which are largely staff salaries and benefits.
 
 The metric we use to gauge progress toward cost recovery is *utilization rate*. An overly simple explanation of how we calculate utilization rate is:
 
@@ -16,7 +16,7 @@ The metric we use to gauge progress toward cost recovery is *utilization rate*. 
 
 The [actual formula](https://docs.google.com/document/d/1R1Z1gf8JtOiBkcff4Chc3XKkKNgNSbYgdOLQLENIYlc/edit) takes into account individuals who are on partial or fully reimbursable details, extended out of office, those who start or leave during the fiscal year, AWS schedules, overtime, etc.
 
-Every month, utilization rates are shared with TTSC and with TTS leadership. These include a four-week rolling average and year-to-date average for each 18F chapter and CoE center.
+Every month, utilization rates are shared with TTS and with TTS leadership. These include a four-week rolling average and year-to-date average for each TTS chapter and CoE center.
 
 ## How do we balance our budget?
 
@@ -24,7 +24,7 @@ Like any budget, the aim is to find balance between revenue and expenses. We hav
 
 Income:
 
-- **Maintain a robust business development pipeline:** TTSC always needs to be planning for the next piece of work.
+- **Maintain a robust business development pipeline:** TTS always needs to be planning for the next piece of work.
 - **Start projects promptly**: This includes moving agreements through signature efficiently and staffing quickly so teams can start billing and individuals have minimal time between engagements.
 - **Adjusting our rates**: This can increase revenue, but a higher price for our services could also diminish demand for them.
 
@@ -34,9 +34,9 @@ Expenses:
 - **Overhead from TTS and GSA**: This is a large portion of our expenses, but it’s allocated and not under our control.
 - **Training and travel** not directly related to a project: These costs make up a small portion of our expenses. We can control this.
 
-## Who manages TTSC’s finances?
+## Who manages TTS’s finances?
 
-Everyone has a role in keeping TTSC financially viable.
+Everyone has a role in keeping TTS financially viable.
 
 Individuals help by:
 
@@ -50,7 +50,7 @@ Supervisors help by:
 - Keeping their direct reports utilized
 - Charging partners for time spent doing quality assurance work with staff
 
-TTSC leadership helps by:
+TTS leadership helps by:
 
 - Monitoring utilization rates
 - Weighing capacity projections in pipeline and hiring decisions
@@ -58,4 +58,4 @@ TTSC leadership helps by:
 TTS Office of Operations helps by:
 
 - Meeting weekly with Director of Operations and Director of Account Management to check in on agreements going through the signature process
-- Meeting regularly with TTSC representatives to troubleshoot billing issues, and develop new tools and processes
+- Meeting regularly with TTS representatives to troubleshoot billing issues, and develop new tools and processes

@@ -32,7 +32,3 @@ The Handbook should always aim to be:
 - **Living**: Content is expected to change over time. Specifically, it should
   be kept up-to-date with TTS’s processes and policies.
 
-We wrote a
-[blog post](https://18f.gsa.gov/2021/07/27/the_tts_handbook_a_21st-century_approach_to_internal_documentation/)
-about the Handbook's principles and history -- check it out if you're
-interested!

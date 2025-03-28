@@ -5,77 +5,77 @@
 # their content.
 #
 # The format for ownership assignments goes like:
-# <FILES>                                                                 @18F/<TEAM>
+# <FILES>                                                                 @gsa-tts/<TEAM>
 #
 # Where <FILES> represents a pattern to match one or more files and <TEAM>
-# represents a team within the 18F GitHub organization that "owns" <FILES>. 
-# A list of the teams can be found [here](https://github.com/orgs/18F/teams).
+# represents a team within the gsa-tts GitHub organization that "owns" <FILES>. 
+# A list of the teams can be found [here](https://github.com/orgs/gsa-tts/teams).
 ###########################################################################
 
 # Any changes to ownership should be approved by the Handbook owners.
-CODEOWNERS                                                                @18F/handbook-owners
+CODEOWNERS                                                                @gsa-tts/handbook-owners
 
 # Every change that doesn't have a designated code owner should, by default,
 # be reviewed by one of the Handbook owners.
-*                                                                         @18F/handbook-owners
+*                                                                         @gsa-tts/handbook-owners
 
 ###########################################################################
 # TTS Offices
 ###########################################################################
 ## Office of Operations
-pages/office-of-operations/outreach.md                                   @18F/outreach
-pages/office-of-operations/blogging.md                                   @18F/outreach
-pages/office-of-operations/talent.md                                     @18F/team-talent
-_data/jobs.json                                                          @18F/team-talent
+pages/office-of-operations/outreach.md                                   @gsa-tts/outreach
+pages/office-of-operations/blogging.md                                   @gsa-tts/outreach
+pages/office-of-operations/talent.md                                     @gsa-tts/team-talent
+_data/jobs.json                                                          @gsa-tts/team-talent
 
 ## Office of Acquisition
-pages/office-of-acquisition/*                                            @18F/tts-office-of-acqusition
+pages/office-of-acquisition/*                                            @gsa-tts/tts-office-of-acqusition
 
-## 18F
-pages/18f/*                                                              @18F/18f-handbook-owners
+## gsa-tts
+pages/gsa-tts/*                                                              @gsa-tts/gsa-tts-handbook-owners
 
 ## Solutions
-pages/office-of-solutions/*                                              @18F/solutions-handbook-owners
+pages/office-of-solutions/*                                              @gsa-tts/solutions-handbook-owners
 
 ## Centers of Excellence (CoE)
-pages/centers-of-excellence/*                                            @18F/coes
+pages/centers-of-excellence/*                                            @gsa-tts/coes
 
 ###########################################################################
 # Guilds, working groups, and councils
 ###########################################################################
-pages/about-us/digital-council.md                                        @18F/digital-council
+pages/about-us/digital-council.md                                        @gsa-tts/digital-council
 
 ###########################################################################
 # Classes
 ###########################################################################
-pages/getting-started/classes/accessibility.md                           @18F/guild-accessibility
-pages/getting-started/classes/intro-to-TTS-Tech-Operations.md            @18F/tts-tech-operations
-pages/getting-started/classes/meetings-and-meeting-tools.md              @18F/tts-tech-operations
-pages/getting-started/classes/gsa-internal-tools.md                      @18F/tts-tech-operations
-pages/getting-started/classes/travel-101.md                              @18F/people-ops
-pages/getting-started/classes/benefits.md                                @18F/people-ops
-pages/getting-started/classes/writing-lab.md                             @18F/guild-content
+pages/getting-started/classes/accessibility.md                           @gsa-tts/guild-accessibility
+pages/getting-started/classes/intro-to-TTS-Tech-Operations.md            @gsa-tts/tts-tech-operations
+pages/getting-started/classes/meetings-and-meeting-tools.md              @gsa-tts/tts-tech-operations
+pages/getting-started/classes/gsa-internal-tools.md                      @gsa-tts/tts-tech-operations
+pages/getting-started/classes/travel-101.md                              @gsa-tts/people-ops
+pages/getting-started/classes/benefits.md                                @gsa-tts/people-ops
+pages/getting-started/classes/writing-lab.md                             @gsa-tts/guild-content
 
 ###########################################################################
 # People Ops
 ###########################################################################
-pages/performance-management/*                                           @18F/people-ops
-pages/getting-started/*                                                  @18F/people-ops
-pages/travel-and-leave/*                                                 @18F/people-ops
-pages/hiring-staying-or-changing-jobs/*                                  @18F/team-talent
-pages/training-and-development/*                                         @18F/people-ops
+pages/performance-management/*                                           @gsa-tts/people-ops
+pages/getting-started/*                                                  @gsa-tts/people-ops
+pages/travel-and-leave/*                                                 @gsa-tts/people-ops
+pages/hiring-staying-or-changing-jobs/*                                  @gsa-tts/team-talent
+pages/training-and-development/*                                         @gsa-tts/people-ops
 
 ###########################################################################
 # General information and policies
 ###########################################################################
-pages/about-us/*                                                         @18F/handbook-owners
-pages/general-information-and-resources/employee-resources-policies      @18f/people-ops
-pages/general-information-and-resources/tech-policies                    @18f/tts-tech-operations
-pages/general-information-and-resources/*                                @18f/handbook-owners
+pages/about-us/*                                                         @gsa-tts/handbook-owners
+pages/general-information-and-resources/employee-resources-policies      @gsa-tts/people-ops
+pages/general-information-and-resources/tech-policies                    @gsa-tts/tts-tech-operations
+pages/general-information-and-resources/*                                @gsa-tts/handbook-owners
 
 ###########################################################################
 # Tech Operations
 ###########################################################################
-pages/launching-software/*                                               @18F/tts-tech-operations
-pages/tools/*                                                            @18F/tts-tech-operations
-pages/training-and-development/intro-to-github.md                        @18F/tts-tech-operations
+pages/launching-software/*                                               @gsa-tts/tts-tech-operations
+pages/tools/*                                                            @gsa-tts/tts-tech-operations
+pages/training-and-development/intro-to-github.md                        @gsa-tts/tts-tech-operations

@@ -4,7 +4,7 @@ title: Records management
 
 A “record” is any information — stored in any physical or digital format — that documents the agency’s organization, decisions, functions, activities, and commitments.
 
-At TTSC, records may include emails, contracts, presentations, reports, files in Google Drive, Slack posts, etc. Common records include:
+At TTS, records may include emails, contracts, presentations, reports, files in Google Drive, Slack posts, etc. Common records include:
 
 - IAA agreements with partners
 - Business development pipeline notes
@@ -28,11 +28,9 @@ For more information on records management policy and general guidance, please r
 
 ## Who is responsible for records management?
 
-All TTSC staff are responsible for records management.
+All TTS staff are responsible for records management.
 
 On projects, AMs, PLs, and ELs are accountable for ensuring records for their projects are properly managed and archived.
-
-For 18F, the 18F Folder is owned by the 18F Director and the Director of Operations.
 
 For CoE, the CoE Drive is owned by CoE Front Office and CoE Management Team google groups are both owners.
 

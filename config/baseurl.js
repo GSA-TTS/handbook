@@ -2,9 +2,9 @@
 // Especially when it turns out it's a little more complex than I thought it
 // was, and resulted in these issues:
 //
-// https://github.com/18F/handbook/issues/3615
-// https://github.com/18F/handbook/issues/3623
-// https://github.com/18F/handbook/issues/3630
+// https://github.com/gsa-tts/handbook/issues/3615
+// https://github.com/gsa-tts/handbook/issues/3623
+// https://github.com/gsa-tts/handbook/issues/3630
 
 if (!process.env.BASEURL) {
   // If the BASEURL set is falsey, then our actual baseurl is the root.

@@ -20,9 +20,9 @@ Tock is a different tool than [HRLinks](https://hrlinks.gsa.gov/). Here is a qui
   Timecards for the current week should be available no later than Monday at 9AM PST.
 {% endalert %}
 
-TTSC employees are expected to bill a certain amount of hours towards assigned billable projects each week. TTSC does not penalize employees for lower utilization if they haven’t been assigned billable work.
+TTS employees are expected to bill a certain amount of hours towards assigned billable projects each week. TTS does not penalize employees for lower utilization if they haven’t been assigned billable work.
 
-- **All TTSC employees** are expected to Tock weekly by COB (close of business) each Friday, and submit HRLinks timesheets every two weeks.
+- **All TTS employees** are expected to Tock weekly by COB (close of business) each Friday, and submit HRLinks timesheets every two weeks.
 - **Supervisors** are responsible for [checking hours logged by their direct reports in Tock](#supervisor-review), including billable and nonbillable time. They also approve HRLinks timesheets every two weeks.
 - **AM/EL/EMTs** review and approve time billed to engagements on a monthly basis via the engagement Tock report.
 
@@ -64,18 +64,7 @@ You must bill all time that is a direct cost to a project. This includes:
 - Conferences, training and meetings that are in service of project work
 - Coordinating staffing for projects with a signed IAA
 
-Sometimes internal TTSC meetings provide direct value to your engagement and can be billed — for example, a discussion with your supervisor about a deliverable, attending a guild session where you learn tips for your current ATO process, or getting feedback in a critique group. Talk to your supervisor if you’re unsure if an activity is billable or not billable.
-
-##### Billable TTSC Tock codes
-
-We are in the process of consolidating nonbillable codes across TTSC, but for now please continue to use the appropriate codes for your team:
-
-| Work type | CoE feds | 18F |
-|-----------|----------|-----|
-| **Work for a partner** by folks staffed to the engagement. | Ask EL | Ask AM |
-| **Engagement support or deliverable review.** Use this code if you are not staffed to the engagement. | Ask EL | Ask AM |
-| **Fully reimbursable details.** If a detail is not fully reimbursable, talk to leadership first. | ? | 1995 |
-| **Helping TTS/GSA.** If you are asked to assist with any hiring or support activities outside of 18F/CoE, please talk to your supervisor. They can advise you on the proper code and billability. | Ask supervisor | Ask supervisor |
+Sometimes internal TTS meetings provide direct value to your engagement and can be billed — for example, a discussion with your supervisor about a deliverable, attending a guild session where you learn tips for your current ATO process, or getting feedback in a critique group. Talk to your supervisor if you’re unsure if an activity is billable or not billable.
 
 #### Nonbillable time
 
@@ -93,31 +82,6 @@ You must not bill for the following activities because these are indirect costs 
 - Hiring activities, including interviews, resume reviews, stand-ups
 - Performance reviews
 - New hire onboarding
-
-##### Common nonbillable TTSC Tock codes
-
-We are in the process of consolidating nonbillable codes across TTSC, but for now please continue to use the appropriate codes for your team:
-
-| Work type | CoE feds | 18F |
-|-----------|----------|-----|
-| TTSC change management work | 1947 | 1976 |
-| Business development | 1434 | 1811 |
-| Administrative & supervisory | 2080 | 1814 |
-| TLC Crew | *NA* | 1813 |
-| Hiring & onboarding (18F) | *NA* | 1241 |
-| Tock maintenance and development | *NA* | 1109 |
-| Staffing | *NA* | 1812 |
-| Front office (CoE) | 1112 | *NA* |
-| GSA-mandated | 1347 | *NA* |
-| CAP (Corrective Action Plan) | 1946 | *NA* |
-| External outreach and communications | 1437 | *NA* |
-| COR duties (nonbillable) | 1874 | *NA* |
-| Nonbillable hours | 1145 | *NA* |
-| Professional development | ? | *NA* |
-| **Out of office** (under 3 weeks) | ? | 670 |
-| **Extended out of office** (more than 3 weeks) | ? | 1810 |
-| **Non-reimbursable details.** Talk to leadership before taking non-reimbursable details and for guidance on how to report the time. | Ask leadership | Ask leadership |
-| **Helping TTS/GSA.** If you are asked to assist with any hiring or support activities outside of 18F/CoE, please talk to your supervisor. They can advise you on the proper code and billability. | Ask supervisor | Ask supervisor |
 
 ### Where do I go for guidance on specific Tocking activity?
 
@@ -169,7 +133,7 @@ No. Please don’t “save” hours or avoid billing for time you’ve worked in
 There are several mechanisms and processes in place to make sure engagements don’t go over budget:
 
 - We build a risk reserve within each engagement to ensure we have extra hours for needs that arise during the engagement.
-- Engagement Leads closely monitor engagement burns on a weekly basis and communicate that to TTSC Leadership and Front Office.
+- Engagement Leads closely monitor engagement burns on a weekly basis and communicate that to TTS Leadership and Front Office.
 
 In short, we need to know if our scoping is accurate and understand the cadence of work throughout an engagement. We’d rather be over budget and have our teams deliver value than be under budget and hide how many hours it truly takes to deliver on our engagements.
 
@@ -189,14 +153,12 @@ Example:
 
 Supervisors should regularly review the hours their direct reports are logging.
 
-From the [View users](https://tock.18f.gov/employees/) tab in Tock, search the list of users lists of users, then click and open the report to review their recent Tocks. Check:
+Check:
 
 - Overall utilization rate
 - Out of office time accounted for (including holidays and any administrative leave granted)
 - Correct Tock lines (including details and extended out of office)
 - Correct billable expectation
-
-18F supervisors are expected to complete the [Weekly Supervisor Data Check](https://airtable.com/app1anoO5i5d3RJRA/pagYbQmUcGgPS4lEt/form).
 
 ## Technical difficulties? Questions?
 

@@ -15,6 +15,7 @@ dap:
 
 ga:
   ua: UA-48605964-19
+  sri: sha384-Mf/zSo9fB7jruHEQ2uzHvxb/nC3QFrIH8Xn5jJYIavYHHAdDVoh3mZNFLXuPvmP
 
 # How long of a word count before showing in page nav
 inpagenavwordcount: 300

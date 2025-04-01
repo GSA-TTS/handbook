@@ -397,56 +397,56 @@ primary:
             url: contractors/
             internal: true
       - text: TTS Centers of Excellence
-        main-file-path: /about-us/center-of-excellence/
+        main-file-path: /about-us/centers-of-excellence/
         use_section_menu: true
         children:
           - text: About TTS Centers of Excellence
-            main-file-path: /about-us/center-of-excellence/about/
+            main-file-path: /about-us/centers-of-excellence/about/
             children:
               - text: Mission, approach, and history
-                url: about-us/center-of-excellence/about/mission/
+                url: about-us/centers-of-excellence/about/mission/
               - text: Success measures
-                url: about-us/center-of-excellence/about/planning/
+                url: about-us/centers-of-excellence/about/planning/
               - text: About the TTS Centers of Excellence Handbook
-                url: about-us/center-of-excellence/about/handbook/
+                url: about-us/centers-of-excellence/about/handbook/
           - text: Engagements
-            main-file-path: /about-us/center-of-excellence/engagements/
+            main-file-path: /about-us/centers-of-excellence/engagements/
             children:
               - text: Engagement overview
-                url: about-us/center-of-excellence/engagements/
+                url: about-us/centers-of-excellence/engagements/
           - text: Operations
-            main-file-path: /about-us/center-of-excellence/operations/
+            main-file-path: /about-us/centers-of-excellence/operations/
             children:
               - text: "New folks: start here"
-                url: about-us/center-of-excellence/operations/welcome/
+                url: about-us/centers-of-excellence/operations/welcome/
               - text: Onboarding new staff
-                url: about-us/center-of-excellence/operations/onboarding/
+                url: about-us/centers-of-excellence/operations/onboarding/
               - text: Laws and regulations
-                url: about-us/center-of-excellence/operations/regulations/
+                url: about-us/centers-of-excellence/operations/regulations/
               - text: Terminology and glossaries
-                url: about-us/center-of-excellence/operations/glossary/
+                url: about-us/centers-of-excellence/operations/glossary/
               - text: Organization structure and leadership
-                url: about-us/center-of-excellence/operations/org-chart/
+                url: about-us/centers-of-excellence/operations/org-chart/
               - text: Tracking your time and Tock
-                url: about-us/center-of-excellence/operations/tock/
+                url: about-us/centers-of-excellence/operations/tock/
               - text: Records management
-                url: about-us/center-of-excellence/operations/records/
+                url: about-us/centers-of-excellence/operations/records/
               - text: Conduct and norms
-                url: about-us/center-of-excellence/operations/conduct-and-norms/
+                url: about-us/centers-of-excellence/operations/conduct-and-norms/
               - text: Internal communications
-                url: about-us/center-of-excellence/operations/internal-communications/
+                url: about-us/centers-of-excellence/operations/internal-communications/
               - text: Performance management
-                url: about-us/center-of-excellence/operations/performance/
+                url: about-us/centers-of-excellence/operations/performance/
               - text: Organizational financial management
-                url: about-us/center-of-excellence/operations/finance/
+                url: about-us/centers-of-excellence/operations/finance/
               - text: Brand management
-                url: about-us/center-of-excellence/operations/brand/
+                url: about-us/centers-of-excellence/operations/brand/
               - text: Training and professional development
-                url: about-us/center-of-excellence/operations/training/
+                url: about-us/centers-of-excellence/operations/training/
               - text: Operational initiatives and maintenance support
-                url: about-us/center-of-excellence/operations/delivery-assurance/
+                url: about-us/centers-of-excellence/operations/delivery-assurance/
               - text: Supervisor responsibilities
-                url: about-us/center-of-excellence/operations/supervisor-responsibilities/
+                url: about-us/centers-of-excellence/operations/supervisor-responsibilities/
       - text: TTS Solutions
         children:
           - text: About TTS Solutions

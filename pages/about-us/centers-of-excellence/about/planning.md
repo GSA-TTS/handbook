@@ -34,7 +34,7 @@ Do our deliverables represent our standard operating procedures? Does our work h
 How we measure delivery quality:
 
 - **Deliverables are consistent with the standard operating procedures in this handbook.** We’ve been helping modernize government for over ten years and know what approaches are likely to be successful. If your engagement needs to deviate from the SOPs in the handbook, you must be prepared to explain why.
-  - See: [Engagements]({% page "about-us/center-of-excellence/engagements/" %})
+  - See: [Engagements]({% page "about-us/centers-of-excellence/engagements/" %})
 
 - **Engagement impact assessment.** At every phase of an engagement, we should be assessing its potential for impact on the public or federal employees. Annually, TTS also reviews overall impact and highlights.
   - See: {% comment %}the [process to evaluate engagement success and impact](#TODO) and {% endcomment %}past impact reports:
@@ -63,4 +63,4 @@ Are we covering the direct costs of our office?
 How we measure financial stability:
 
 - **The organization aims to cover its direct costs,** which include staff labor. The metric we use to gauge progress towards cost recovery is utilization rate.
-  - See: [Organizational financial management]({% page "about-us/center-of-excellence/operations/finance/" %})
+  - See: [Organizational financial management]({% page "about-us/centers-of-excellence/operations/finance/" %})

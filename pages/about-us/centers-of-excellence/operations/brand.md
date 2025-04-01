@@ -4,7 +4,7 @@ title: Brand management
 
 Brand management means presenting our organization consistently and professionally so that we can build and maintain a recognizable brand. A recognizable brand supports business and partnership development. {% comment %}TODO: Link "business and partnership development" to Engagements section.{% endcomment %}
 
-It involves [our mission and values]({% page "about-us/center-of-excellence/about/mission/" %}), and design elements that reflect them.
+It involves [our mission and values]({% page "about-us/centers-of-excellence/about/mission/" %}), and design elements that reflect them.
 
 ## Who does this work?
 

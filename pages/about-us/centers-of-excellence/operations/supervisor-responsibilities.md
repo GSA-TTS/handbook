@@ -2,7 +2,7 @@
 title: Supervisor responsibilities
 ---
 
-Supervisor responsibilities are generally outlined in the [TTS New Supervisor Playbook]({% page "supervisor-resources/new-supervisor-playbook/" %}) and the [TTS Supervisors Guide](https://docs.google.com/document/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit#heading=h.5m4e2v6ntbj1). [Performance plans]({% page "about-us/center-of-excellence/operations/performance/" %}) also lay out specific expectations for TTS supervisors.
+Supervisor responsibilities are generally outlined in the [TTS New Supervisor Playbook]({% page "supervisor-resources/new-supervisor-playbook/" %}) and the [TTS Supervisors Guide](https://docs.google.com/document/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit#heading=h.5m4e2v6ntbj1). [Performance plans]({% page "about-us/centers-of-excellence/operations/performance/" %}) also lay out specific expectations for TTS supervisors.
 
 At a high-level, TTS supervisors are expected to provide their direct reports with:
 
@@ -23,7 +23,7 @@ TTS supervisors are also responsible for regularly conducting the following admi
 
 ## Weekly
 
-- Check that your direct reports are [Tocking correctly]({% page "about-us/center-of-excellence/operations/tock/#supervisor-review" %}).
+- Check that your direct reports are [Tocking correctly]({% page "about-us/centers-of-excellence/operations/tock/#supervisor-review" %}).
 - CoE: Attend “CoE Management Weekly” meetings
 
 ## Fortnightly

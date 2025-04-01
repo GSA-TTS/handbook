@@ -2,7 +2,7 @@
 title: Laws and regulations
 ---
 
-As federal employees, we must comply with various laws and regulations. You will receive training from GSA on several of these topics. As pertinent new regulations or executive orders are issued, GSA or TTS leadership will communicate new expectations. Employees are expected to adhere to [codes of conduct]({% page "about-us/center-of-excellence/operations/conduct-and-norms/" %}).
+As federal employees, we must comply with various laws and regulations. You will receive training from GSA on several of these topics. As pertinent new regulations or executive orders are issued, GSA or TTS leadership will communicate new expectations. Employees are expected to adhere to [codes of conduct]({% page "about-us/centers-of-excellence/operations/conduct-and-norms/" %}).
 
 Below summarizes a few of the regulations most relevant to TTS’s work.
 

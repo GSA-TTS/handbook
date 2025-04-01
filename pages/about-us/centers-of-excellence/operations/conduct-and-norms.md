@@ -80,4 +80,4 @@ In discussion-based meetings, pay attention to whose voices dominate. If you not
 - Silent writing time in a shared document (such as a Google Doc or Mural), provides a way for participants to contribute without speaking out loud.
 - Explicitly inviting input from specific individuals — either in the meeting (“Herbert, what do you think? I know you have expertise in this area”) or privately (by DMing them to say that you would value their opinion) — can encourage quieter team members to share their ideas.
 
-For information about meeting platforms, see [internal communications]({% page "about-us/center-of-excellence/operations/internal-communications/" %}).
+For information about meeting platforms, see [internal communications]({% page "about-us/centers-of-excellence/operations/internal-communications/" %}).

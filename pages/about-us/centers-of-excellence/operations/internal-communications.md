@@ -17,8 +17,8 @@ TTS uses several practices and tools to support clear and frequent internal comm
 
 TTS-specific groups of note:
 
-- [All TTS staff](https://groups.google.com/a/gsa.gov/g/center-of-excellence-Team)
-- [TTS leadership](https://groups.google.com/a/gsa.gov/g/center-of-excellence-Leadership)
+- [All TTS staff](https://groups.google.com/a/gsa.gov/g/centers-of-excellence-Team)
+- [TTS leadership](https://groups.google.com/a/gsa.gov/g/centers-of-excellence-Leadership)
 - [All CoE staff](https://groups.google.com/a/gsa.gov/g/coe-leads)
 
   - All new engineering chapter members should be added by their supervisor. If for some reason you didn't get automatically added, give a shout in {% slack_channel "#dev" %} and someone there will get you set up.
@@ -31,7 +31,7 @@ Slack is a primary communication space across TTS.
 ### Conduct and norms
 
 - [TTS guidance]({% page "tools/slack/" %})
-- [TTS Slack Code of Conduct]({% page "about-us/center-of-excellence/operations/conduct-and-norms/#interacting-on-slack" %})
+- [TTS Slack Code of Conduct]({% page "about-us/centers-of-excellence/operations/conduct-and-norms/#interacting-on-slack" %})
 
 ### Channels especially relevant to TTS
 
@@ -67,7 +67,7 @@ Slack is a primary communication space across TTS.
 
 ### Conduct and norms
 
-See the handbook section on [interacting in meetings]({% page "about-us/center-of-excellence/operations/conduct-and-norms/#interacting-in-meetings" %}).
+See the handbook section on [interacting in meetings]({% page "about-us/centers-of-excellence/operations/conduct-and-norms/#interacting-in-meetings" %}).
 
 ### Scheduling meetings
 

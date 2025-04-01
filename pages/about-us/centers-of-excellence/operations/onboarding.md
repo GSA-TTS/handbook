@@ -94,7 +94,7 @@ The outline below suggests topics to cover with new employees in their first two
 
 - Explain the different layers of the organization: GSA > FAS > TTS > CoE.
   - Suggest correspondence codes as a way to place individuals within the reporting structure.
-- Review the [org charts]({% page "about-us/center-of-excellence/operations/org-chart/" %}) and project roles. Explain: {% comment %}TODO: Link "project roles" to relevant sections in the handbook {% endcomment %}
+- Review the [org charts]({% page "about-us/centers-of-excellence/operations/org-chart/" %}) and project roles. Explain: {% comment %}TODO: Link "project roles" to relevant sections in the handbook {% endcomment %}
   - What different chapters or centers do
   - What teams can look like
   - That we are a matrixed organization (“You’ll report to me, your functional manager. You’ll also have a project or engagement lead who will oversee day to day work.”)
@@ -104,11 +104,11 @@ The outline below suggests topics to cover with new employees in their first two
 #### Schedules and hours
 
 - Emphasize that the new employee should not work more than 40 hours per week.
-- Discuss TTS [norms around scheduling]({% page "about-us/center-of-excellence/operations/internal-communications/#scheduling-meetings" %}).
+- Discuss TTS [norms around scheduling]({% page "about-us/centers-of-excellence/operations/internal-communications/#scheduling-meetings" %}).
 
 #### Payroll and tracking time in Tock
 
-- Review [Tock guidance]({% page "about-us/center-of-excellence/operations/tock/" %}), especially what is billable vs non-billable work.
+- Review [Tock guidance]({% page "about-us/centers-of-excellence/operations/tock/" %}), especially what is billable vs non-billable work.
 - Offer to demonstrate how to use Tock, what Tock entries can look like with time off or multiple projects, and how to submit a change request.
 - Link them to the [GSA payroll calendars](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars) so they know when they will get their first paycheck.
 
@@ -131,11 +131,11 @@ The outline below suggests topics to cover with new employees in their first two
 
 #### Project expectations
 
-- Review the [project delivery section]({% page "about-us/center-of-excellence/engagements/" %}) of this handbook.
+- Review the [project delivery section]({% page "about-us/centers-of-excellence/engagements/" %}) of this handbook.
 
 #### Organizational context
 
-- Orient the new employee to [TTS mission and goals and history]({% page "about-us/center-of-excellence/about/mission/" %}).
+- Orient the new employee to [TTS mission and goals and history]({% page "about-us/centers-of-excellence/about/mission/" %}).
 - Walk through how to know what’s in the business development pipeline.{% comment %}TODO: Link to BD pipeline section of engagements pages{% endcomment %}
 - Discuss TTS’s approach to working with partners.{% comment %}TODO: Link to partner approach section of engagements pages{% endcomment %}
 
@@ -168,7 +168,7 @@ Onboarding buddies are one of the first points of contact for a new employee at 
 - [TTS Onboarding Buddies Overview](https://docs.google.com/document/d/1rO4TRcqYM-j70cHC1y8Vabfwp9TWwp5WFF7BraSUxLk/edit#heading=h.87p1j88vrkez) explains what the role is and is not and what an onboarding buddy does.
 - [\[MAKE A COPY\] TTS Onboarding Buddy Checklist](https://docs.google.com/spreadsheets/d/1JPcm7QE6eF5Y82DGRl4DUMMlBza26FPxmkq3fybum5U/edit#gid=238273324) outlines all the tasks an onboarding buddy should do before and after the new employee arrives. Make a copy for yourself.
 - [How to be a great CoE onboarding buddy!](https://docs.google.com/document/d/12ykZHVH5O182dN7Hm6-6C9z-H3seKGZzDzaUqqo0OxI/edit?tab=t.0#heading=h.4oq35vyptb97) provides additional suggestions for onboarding buddies. Some portions of this document may be out of date.
-- Refer to the [handbook section on time tracking]({% page "about-us/center-of-excellence/operations/tock/" %}) for instructions on how to bill your time as an onboarding buddy.
+- Refer to the [handbook section on time tracking]({% page "about-us/centers-of-excellence/operations/tock/" %}) for instructions on how to bill your time as an onboarding buddy.
 - Relevant Slack channels for onboarding buddies include:
   - {% slack_channel "wg-onboarding" %}
   - {% slack_channel "newemployees-[startdate]" %}: This is the new employee’s cohort channel, which a TTS onboarding lead will create and invite them to join. Onboarding buddies can also join this channel.

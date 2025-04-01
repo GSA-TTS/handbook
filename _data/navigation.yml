@@ -483,14 +483,6 @@ primary:
               - text: 10x
                 url: https://10x.gsa.gov
                 internal: false
-      - text: Centers of Excellence (CoE)
-        children:
-          - text: Overview of CoE
-            url: center-of-excellence/
-            internal: true
-          - text: CoE website
-            url: https://coe.gsa.gov/
-            internal: false
       - text: Presidential Innovation Fellows (PIF)
         children:
           - text: PIF website

@@ -216,8 +216,12 @@ You should only enter the number of hours actually used, i.e. if you need less t
 
 You are also able to receive 4 hours of Administrative Leave per leave year to serve as a non-partisan poll worker or to participate in non-partisan observer activities. You can volunteer in an election at any level, as listed above. This leave is in addition to any administrative leave you use to vote.
 
+OPM Fact Sheet:
+
+* [Administrative Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/administrative-leave/)
+
 OPM Memorandum:
-* [Executive Order on Promoting Access to Voting](https://chcoc.gov/content/executive-order-promoting-access-voting)
+* [Executive Order on Promoting Access to Voting](https://www.chcoc.gov/sites/default/files/Voting%20Admin%20Leave%20Memo%20CPM%202022-05_508_0.pdf)
 
 #### Blood, bone marrow, and organ donation
 

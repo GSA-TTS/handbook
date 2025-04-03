@@ -21,10 +21,10 @@ If the task is for a partner project, Tock to the appropriate engagement code.
 
 ## TTS Operations support services {#tts-operations-support-services}
 
-The TTS Office of Operations is tasked with supporting business functions in the various TTS Delivery units including TTS. They are organized into divisions including Acquisitions, Business Operations, Outreach & Marketing, Market Development & Partnerships, and Talent.
+The TTS Office of Operations is tasked with supporting business functions in the various TTS Delivery units including TTS CoE. They are organized into divisions including Acquisitions, Business Operations and Outreach & Marketing.
 
 For help with hiring, HR, benefits, finances, agreements, travel, coaching, etc, follow these steps:
 
-1. Consult the main TTS Handbook. It is the primary source of information about support services and operational functions managed at the TTS level, including Talent, Business Ops, People Ops, benefits, etc.
+1. Consult the main TTS Handbook. It is the primary source of information about support services and operational functions managed at the TTS level, including Talent, Business Ops, benefits, etc.
 2. Ask your supervisor.
 3. Reach out to your [support contact for TTS employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) for the specific service.

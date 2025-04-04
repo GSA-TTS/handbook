@@ -35,7 +35,7 @@ cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten,Smar,WMATA
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           TTS is located on the 6th floor, 4th wing (6400 rooms, in the infill). It is shared with other FAS colleagues (hi friends!).
+           As of 4/4/25, TTS's location in the building is TBD. <a href="https://insite.gsa.gov/employee-resources/return-to-office-information/1800-f-restacking-plans">See Insite</a> for the latest maps and look for the space(s) listed for FAS.
         </td>
       </tr>
       <tr>
@@ -102,8 +102,7 @@ Line to Farragut West. Exit the Metro on the 18th Street side and walk south on
 at the middle of the building on F Street, between 18th and 19th Street.
 
 If this is your first time visiting D.C., you can create a SmarTrip card ahead of
-time on your phone. See the [WMATA website]
-(https://wmata.com/fares/mobilepay/) for details. Or, get a physical SmarTrip
+time on your phone. See the [WMATA website](https://wmata.com/fares/mobilepay/) for details. Or, get a physical SmarTrip
 card from any Metro station.
 
 ### Parking
@@ -117,6 +116,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21
 for the second hour to a full day.
 
 ### Once inside GSA
+_Note: As of April 4, 2025 — TTS space at 1800F is TBD._
 
 TTS is located on the 6th floor, in the 4th wing. When entering from the F
 Street entrance, go straight back once you pass through security. Walk down the
@@ -163,6 +163,7 @@ The location of onboarding differs based on how many people are coming into GSA.
 You will find out the exact location once you arrive at orientation.
 
 ### Work from the office
+_Note: As of April 4, 2025 — TTS space at 1800F is TBD._
 
 The TTS space is in the 6400 wing, sometimes referred to as the infill. 6400
 is the 4th wing on the 6th floor, located between wings 1 and 2. See
@@ -190,8 +191,7 @@ Please note that the building closes at 6 pm, a GSA badge is required for after 
 
 ### Book rooms for meetings
 
-Use [BookIt](https://bookit.gsa.gov) to reserve rooms. The TTS space is in the
-6400 wing, so meeting rooms in 6400, 6100, or 6200 are closest.
+Use [BookIt](https://bookit.gsa.gov) to reserve rooms. 
 
 ### Receive visitors
 
@@ -246,7 +246,7 @@ into any room on Slack and the current password will pop up. If the password
 is out of date, the current password is available in person from the IT Help
 Desk. See [Get IT help](#get-it-help) for directions.
 
-### Get IT help
+### Get IT help or loaner equipment (e.g. laptop chargers)
 
 The IT Help Desk is located on the first floor in wing 2, near the E St. lobby
 staircase. The IT team may direct you elsewhere in the building for Mac-specific
@@ -258,8 +258,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-Gendered bathrooms are located around the corner 6140 wing. A
-single-occupancy, wheelchair-accessible all-gender bathroom is located on the
+A single-occupancy, wheelchair-accessible all-gender bathroom is located on the
 third floor in wing three (room 3355).
 
 ### Nursing/Pumping rooms

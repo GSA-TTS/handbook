@@ -35,7 +35,7 @@ cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten,Smar,WMATA
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           As of 4/4/25, TTS's location in the building is TBD. <a href="https://insite.gsa.gov/employee-resources/return-to-office-information/1800-f-restacking-plans">See Insite</a> for the latest maps and look for the space(s) listed for FAS.
+           As of 4/4/25, TTS location in the building is TBD. <a href="https://insite.gsa.gov/employee-resources/return-to-office-information/1800-f-restacking-plans">See Insite</a> for the latest maps and look for the space(s) listed for FAS.
         </td>
       </tr>
       <tr>
@@ -246,7 +246,9 @@ into any room on Slack and the current password will pop up. If the password
 is out of date, the current password is available in person from the IT Help
 Desk. See [Get IT help](#get-it-help) for directions.
 
-### Get IT help or loaner equipment (e.g. laptop chargers)
+### Get IT help
+
+- loaner equipment (e.g. laptop chargers)
 
 The IT Help Desk is located on the first floor in wing 2, near the E St. lobby
 staircase. The IT team may direct you elsewhere in the building for Mac-specific

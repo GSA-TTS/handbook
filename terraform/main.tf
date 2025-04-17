@@ -40,6 +40,13 @@ resource "github_team" "q2a0a" {
   parent_team_id = github_team.q2.id
 }
 
+# Define the parent handbook_owners team
+resource "github_team" "handbook_owners" {
+  name        = "handbook-owners"
+  description = "Handbook owners with elevated permissions"
+  privacy     = "closed"
+}
+
 # others in TTS are periodically added to this team to collaboratively manage the Handbook reviews
 resource "github_team" "gsa_tts_handbook_owners" {
   name        = "GSA-TTS-Handbook-Owners"

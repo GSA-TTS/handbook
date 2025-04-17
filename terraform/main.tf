@@ -9,6 +9,11 @@ terraform {
   }
 }
 
+# Configure the GitHub Provider to use the organization
+provider "github" {
+  owner = var.github_organization
+}
+
 # Variables
 variable "github_organization" {
   description = "GitHub organization name"

@@ -13,46 +13,38 @@
 ###########################################################################
 
 # Any changes to ownership should be approved by the Handbook owners.
-CODEOWNERS                                                               
-@gsa-tts/GSA-TTS-Handbook-Owners
+CODEOWNERS                                                               @gsa-tts/GSA-TTS-Handbook-Owners
 
 # Every change that doesn't have a designated code owner should, by default,
 # be reviewed by one of the Handbook owners.
-*                                                                         
-@gsa-tts/GSA-TTS-Handbook-Owners
+*                                                                        @gsa-tts/GSA-TTS-Handbook-Owners
 
 ####################################################################
 # Terraform & Infrastructure
 ####################################################################
-/terraform/*                                                              
-@gsa-tts/GSA-TTS-Handbook-Owners
-.github/workflows/**                                         
-/@gsa-tts/GSA-TTS-Handbook-Owners
+/terraform/*                                                             @gsa-tts/GSA-TTS-Handbook-Owners
+.github/workflows/*                                                      @gsa-tts/GSA-TTS-Handbook-Owners
 
 ##################################################################
 # TTS Offices
 ################################################################
 ## Office of Operations
-pages/office-of-operations/*                                           
-@gsa-tts/Outreach-and-Marketing-Division
+pages/office-of-operations/*                                             @gsa-tts/Outreach-and-Marketing-Division
 
 ## Office of Acquisition
 pages/office-of-acquisition/*                                            @gsa-tts/Acquisition-Division
 
-## Solutions
-pages/office-of-solutions/*                                              @gsa-tts/Outreach-and-Marketing-Division
+## Office of Solutions
+pages/office-of-solutions/*                                              @gsa-tts/Office-of-Solutions
 
 ## Centers of Excellence (CoE)
 pages/centers-of-excellence/*                                            @gsa-tts/Centers-of-Excellence-Division
 
-## Technology Services
-pages/tools/*                                            
-@gsa-tts/Technology-Operations-Division
+## Tools
+pages/tools/*                                                            @gsa-tts/Technology-Operations-Division
 
 # Training
-pages/training-and-development/*
-@gsa-tts/Business-Operations-Division
+pages/training-and-development/*                                         @gsa-tts/Business-Operations-Division
 
 # Travel and Leave
-pages/travel-and-leave/* 
-@gsa-tts/Business-Operations-Division
+pages/travel-and-leave/*                                                 @gsa-tts/Business-Operations-Division

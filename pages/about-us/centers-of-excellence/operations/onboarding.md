@@ -94,7 +94,7 @@ The outline below suggests topics to cover with new employees in their first two
 
 - Explain the different layers of the organization: GSA > FAS > TTS > CoE.
   - Suggest correspondence codes as a way to place individuals within the reporting structure.
-- Review the [org charts]({% page "about-us/centers-of-excellence/operations/org-chart/" %}) and project roles. Explain: {% comment %}TODO: Link "project roles" to relevant sections in the handbook {% endcomment %}
+- Explain: {% comment %}TODO: Link "project roles" to relevant sections in the handbook {% endcomment %}
   - What different chapters or centers do
   - What teams can look like
   - That we are a matrixed organization (“You’ll report to me, your functional manager. You’ll also have a project or engagement lead who will oversee day to day work.”)

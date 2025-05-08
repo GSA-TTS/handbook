@@ -42,7 +42,7 @@ to use a desktop file editor. Doing it directly in GitHub is a bit more
 complicated.
 
 - After editing your first file as described above, navigate to the
-  [list of branches](https://github.com/18F/handbook/branches), find the one you
+  [list of branches](https://github.com/GSA-TTS/handbook/branches), find the one you
   created above, and click it. This will display a list of all files in the
   Handbook, but as they exist on your branch.
 - Browse the file tree to find the ones you want to edit. Click a filename to

@@ -169,7 +169,7 @@ styles, go back to the file and make sure it ends with the .md file extension.
 ### 5. Practice in GitHub
 
 When you’re ready to start practicing with GitHub, the
-[TTS Handbook repository](https://github.com/18F/handbook) is a good place to
+[TTS Handbook repository](https://github.com/GSA-TTS/handbook) is a good place to
 start. If you see something in the Handbook that is out of date or there is at
 typo that needs to be fixed, you can create a pull request and make the changes.
 At least one review is required for it to be merged into the Handbook, so

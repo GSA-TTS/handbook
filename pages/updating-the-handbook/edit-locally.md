@@ -20,7 +20,7 @@ text editor of your choice. From there, you can make changes as described in the
 [making your updates section]({% page
   "updating-the-handbook/#making-your-updates" %}). When you're satisfied with your
 changes, commit them to a new branch and push that branch to GitHub. Then browse
-to the [Handbook GitHub repo](https://github.com/18F/handbook/pulls) and open a new
+to the [Handbook GitHub repo](https://github.com/GSA-TTS/handbook/pulls) and open a new
 pull request from your branch.
 
 ## Running the Handbook

@@ -23,7 +23,7 @@ You do not need to take all 12 weeks at once; you can space the leave out for up
 
 #### Other paid leave
 
-You can also use annual, award, and sick leave for parental leave reasons. This includes advanced annual and sick leave, as well as the [Voluntary Leave Transfer Program (VLTP)](https://handbook.tts.gsa.gov/travel-and-leave/voluntary-leave-transfer-program/). We highly recommend you talk with your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) about recommended ways to combine leave types.
+You can also use annual, award, and sick leave for parental leave reasons. This includes advanced annual and sick leave, as well as the [Voluntary Leave Transfer Program (VLTP)]({% page "/travel-and-leave/voluntary-leave-transfer-program" %}). We highly recommend you talk with your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) about recommended ways to combine leave types.
 
 #### Unpaid leave
 
@@ -37,7 +37,7 @@ To request PPL, you’ll need to email the following items to your [Workforce Re
 
 1. The [Paid Parental Leave Request and the Paid Parental Leave Service Agreement form PDFs](https://drive.google.com/file/d/1PRdoXhC594Y0OqmDQS7MSMoA7aIDCv-S/view).  
    1. You can use [Docusign templates]({% page "/tools/digital-signatures#use-docusign-templates-to-complete-forms" %}) for Paid Parental Leave to fill out the forms and request the right signatures.
-2. A [timesheet report](https://handbook.tts.gsa.gov/travel-and-leave/leave/#pulling-a-time-sheet-report) for the last 12 months.
+2. A [timesheet report]({% page "/tools/hrlinks/#pulling-a-timesheet-report" %}) for the last 12 months.
 
 Your Workforce Relations HR Specialist reviews your forms and may request more information. 
 

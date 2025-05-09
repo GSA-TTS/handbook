@@ -153,7 +153,7 @@ recommendations. This page is specifically security-focused.
 | Ruby       | [GitHub][github-alerts]<sup>\*</sup>         | [Code Climate](https://docs.codeclimate.com/v1.0/docs/brakeman) or [Hakiri](https://hakiri.io/) - _Rails only_                                                                                                                                                              |
 
 \* Enabled automatically for repositories in
-[TTS GitHub organizations](https://handbook.tts.gsa.gov/github/#organizations)
+[TTS GitHub organizations]({% page "/github/#organizations" %})
 through [`ghad`](https://github.com/18F/ghad).
 
 ### Dependency analysis

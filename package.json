@@ -13,7 +13,7 @@
     "test": "npm run test:prefixed-links && npm run test:internal-links && npm run test:html-validation && npm run test:spelling && npm run test:deps",
     "test:html-validation": "html-validate _site/**/*.html",
     "test:internal-links": "node check-links.js",
-    "test:prefixed-links": "! (grep -Erl \"\\]\\(/|href=['\\\"]/\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
+    "test:prefixed-links": "! (grep -Erl \"(?:\\]\\()\\s*(?:/|href=['\\\"]\/|https:\/\/handbook\\.tts\\.gsa\\.gov)\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
     "test:spelling": "cspell --config ./cSpell.json \"pages/**/*.md\" --no-progress",
     "test:deps": "node check-dependencies.js",
     "podman:build": "podman-compose -f docker-compose.yml build",

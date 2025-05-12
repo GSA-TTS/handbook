@@ -77,6 +77,8 @@ To learn how to connect to the GSA network on campus and remotely, take a look
 at the
 [GSA Insite Telework Guide](https://insite.gsa.gov/employee-resources/information-technology/telework).
 
+If you're having trouble connecting with a Mac, you may have to use the GSA Guest Wi-Fi. Check the [Insite Telework Guide](https://insite.gsa.gov/employee-resources/information-technology/telework/enterprise-wifi#guestwifi) under Guest Wi-Fi "How to connect an Apple device."
+
 ---
 
 #### Still have questions?

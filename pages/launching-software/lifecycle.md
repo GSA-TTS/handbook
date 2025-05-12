@@ -301,7 +301,7 @@ access can be
 
 ## Signing in
 
-1. [Get on the GSA network](https://handbook.18f.gov/how-to-log-in/#connecting-to-gsa-networks)
+1. [Get on the GSA network](https://handbook.tts.gsa.gov/getting-started/how-to-log-in/#connecting-to-gsa-networks)
 1. Visit [archer.gsa.gov](https://archer.gsa.gov)
 1. Sign in with your ENT credentials
 1. Check your email for the one-time password

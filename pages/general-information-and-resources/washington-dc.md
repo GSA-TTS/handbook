@@ -35,7 +35,7 @@ cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten,Smar,WMATA
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           As of 4/4/25, TTS location in the building is TBD. <a href="https://insite.gsa.gov/employee-resources/return-to-office-information/1800-f-restacking-plans">See Insite</a> for the latest maps and look for the space(s) listed for FAS.
+           As of 5/18/25, TTS is located in the G100 wing. <a href="https://insite.gsa.gov/employee-resources/return-to-office-information/1800-f-restacking-plans">See Insite</a> for the latest maps and look for the space(s) listed for FAS.
         </td>
       </tr>
       <tr>
@@ -116,13 +116,10 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21
 for the second hour to a full day.
 
 ### Once inside GSA
-_Note: As of April 4, 2025 — TTS space at 1800F is TBD._
+TTS is located on the ground floor, in the 1st wing. When entering from the F
+Street entrance, turn left once you pass through security. Walk down the
+hallway towards 18th St and take the stairs down to the ground floor. Turn left coming out of the stairs and look for the Mac workstations marked "TTS only."
 
-TTS is located on the 6th floor, in the 4th wing. When entering from the F
-Street entrance, go straight back once you pass through security. Walk down the
-hallway towards the back lobby. Right before reaching the end of the hall, take
-the elevators to your left to the 6th floor. Once exiting the elevator lobby, turn
-right and make your first right towards 6400.
 
 ## How do I...
 
@@ -163,26 +160,17 @@ The location of onboarding differs based on how many people are coming into GSA.
 You will find out the exact location once you arrive at orientation.
 
 ### Work from the office
-_Note: As of April 4, 2025 — TTS space at 1800F is TBD._
 
-The TTS space is in the 6400 wing, sometimes referred to as the infill. 6400
-is the 4th wing on the 6th floor, located between wings 1 and 2. See
-[Once inside GSA](#once-inside-gsa) for directions.
+The TTS space is in the G100 wing. See [Once inside GSA](#once-inside-gsa) for directions.
 
-The space is shared with other GSA offices, including PBS and FAS. Most
-workstations are "hot desks" available for use without booking. The space has
-monitors compatible with Macs and Windows PCs.
-
-The 6th and 7th floor have a small number of phone booths which may also be
-used without a reservation. The 7400 space also has solo or group working
-areas available without a reservation.
+G100 is shared with other FAS offices. The workstations with Macs are "hot desks" for TTS employees to use without booking; TTS employees may use BookIt to reserve workstations compatible with PCs that are available for use by all FAS employees. G100 has a small number of reservable conference rooms.
 
 ### Mail something to the office
 
 Send mail to:
 
 > (you can add "ATTN: Name" at top if desired) <br> General Services
-> Administration <br> 1800 F ST NW <br> Rm 3100 <br> Washington, DC 20405-0001
+> Administration <br> 1800 F ST NW <br> Rm G100 <br> Washington, DC 20405-0001
 
 ### Access the building after hours
 
@@ -197,7 +185,7 @@ Use [BookIt](https://bookit.gsa.gov) to reserve rooms.
 
 If you're expecting a small group of US citizens (fewer than 15 or so), no
 advance action is required on your part. Let your guest(s) know to bring ID;
-they'll give your name and the TTS room number (6400) at the security desk.
+they'll give your name and the TTS room number (G100) at the security desk.
 You'll have to escort visitors from security.
 
 If you're expecting a large group, or if the group includes non-US citizens, you

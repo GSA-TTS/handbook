@@ -10,13 +10,13 @@ process, whether you are moving across the street or to a new state.
 
 ## Short-term relocation
 
-If you are relocating for 120 days or less, you do not need to notify PeopleOps
-or update GSA systems.
+If you are relocating for 120 days or less, you do not need to update GSA systems.
 
 ## Moving
 
-If you plan to permanently move or relocate for longer than 120 days, email
-[TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov) and copy your supervisor as soon as you are thinking about moving. There may be implications to your move you might not be aware of or would like to confirm - such as a change in pay. Please provide the following information:
+**Note: Employees should not move/relocate without formal approval by GSA HR.**
+
+If you plan to permanently move or relocate for longer than 120 days, email your supervisor as soon as you are thinking about moving. There may be implications to your move you might not be aware of or would like to confirm - such as a change in pay. Please provide the following information:
 
 - The city, county, state, ZIP code that you are moving to (if you know it).
   - If you are staying in the same city, county, state, or ZIP code, make a note
@@ -28,15 +28,13 @@ If you plan to permanently move or relocate for longer than 120 days, email
   Teleworker (onsite flexible: you go into an office two times or more per pay
   period). If you don’t know your status, tell us that.
 
-After receiving your information, PeopleOps will provide step-by-step guidance on how to proceed. They may need to process a Personnel Action Request (PAR) for you, depending on your unique situation. If your pay is changing as a
-result of your move, you will need to complete a new [Remote Work Analysis Tool](https://drive.google.com/file/d/1iTpdAzn5Jqi4DDk6o-C-hki7Fp-daK3R/view).
-PeopleOps will provide instructions. Your new pay rate will not be effective until your new Remote Work Analysis Tool is approved and the PAR is processed; this can take a few weeks.
+After receiving your information, your supervisor will work with TTS leadership on how to proceed. A Personnel Action Request (PAR) may need to be processed for you, depending on your unique situation. If applicable, your new pay rate will not be effective until your move is approved and the PAR is processed; this can take a few weeks.
 
 Below are a few key things to know.
 
 ## Updating your address & notifying benefits companies
 
-PeopleOps will advise when you should change your home address in HR Links; you
+Once your move is approved, you should change your home address in HR Links; you
 can follow this
 [step-by-step guide](https://drive.google.com/file/d/1CgfHaW3s_LvKvlnyzHb2BycfELGWotaj/view?usp=sharing)
 to make that change. You'll also need to
@@ -80,7 +78,7 @@ completed withholding form to
 After one or two pay periods at your new address, we **strongly recommend** you
 check your paystub in [Employee Express](https://www.employeeexpress.gov/) as
 well as the address your insurance companies and TSP have on file. You are
-responsible for reporting any errors to PeopleOps and GSA.
+responsible for reporting any errors to GSA HR.
 
 ## Change your Slack location
 
@@ -95,4 +93,3 @@ and update the letters after your last name.
 ## Questions?
 
 - {% slack_channel "people-ops" %}
-- [TTS-PeopleOps@gsa.gov](mailto:TTS-PeopleOps@gsa.gov)

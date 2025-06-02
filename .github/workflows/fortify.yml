@@ -27,7 +27,7 @@ jobs:
       actions: read
       contents: read
       security-events: write
-    uses: GSA/ise-appsec/.github/workflows/github-fortify-src.yml@main
+    uses: GSA/ise-appsec/.github/workflows/github-fortify-src2.yml@main
     with:
       PACKAGE_EXTRA_OPTS: ''
       # To copy existing release attributes, scan settings, and issue details when creating a new release, uncomment the COPY_FROM_RELEASE input.

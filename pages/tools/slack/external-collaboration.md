@@ -36,7 +36,7 @@ most or full-time) can be added as full members using their GSA emails. Other
 collaborators should be added as single or multi-channel guests** as
 appropriate. See [contractors]({% page "/contractors/" %}) for general
 information.
-[Request guest access through GSA IT](https://gsa.servicenowservices.com/sp?id=sc_category&sys_id=f9874e76db5003400dc9ff621f96190d&catalog_id=e0d08b13c3330100c8b837659bba8fb4).
+[Request GSA guest access via ServiceNow](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=7205fbef1b276014b1f620eae54bcb49&sysparm_category=f9874e76db5003400dc9ff621f96190d).
 
 TTS collaborators within GSA may be added as full Slack members. Examples might
 include the Chief Information Officer or FAS Commissioner. If you'd like to add
@@ -55,8 +55,7 @@ that end with `-partners`.
    if an existing channel doesn't meet your needs.
 1. Add partners to the channel through one of these methods:
    - Slack Connect (preferred; see below)
-   - Individually, through a
-     [GSA IT request](https://gsa.servicenowservices.com/sp?id%3Dsc_category%26sys_id%3Df9874e76db5003400dc9ff621f96190d%26catalog_id%3De0d08b13c3330100c8b837659bba8fb4&sa=D&source=editors&ust=1646321611843286&usg=AOvVaw3UU70sD9y4ZuftnI4AvkfY)
+   - Individually, through a ["Slack platform changes" ServiceNow ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=3891c4f31b6b6014b1f620eae54bcbc1&sysparm_category=f9874e76db5003400dc9ff621f96190d).
 
 ### Shared channels
 
@@ -68,7 +67,7 @@ There are two options for sharing channels with partners who use Slack.
 
 - Use
   [**Slack Connect**](https://slack.com/help/articles/115004151203-Guide-to-sharing-channels-with-external-organizations)
-  to share channels with partners outside of GSA.
+  to share channels with partners outside of GSA. You will likely need to request approval for Slack Connect additions via a ["Slack platform changes" ServiceNow ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=3891c4f31b6b6014b1f620eae54bcbc1&sysparm_category=f9874e76db5003400dc9ff621f96190d).
 
 Slack Connect is preferred over adding partners as guests.
 
@@ -90,8 +89,7 @@ when we say "public channels" on this page, we mean channels open to all members
 of the public.)
 
 Friends with `.gov`/`.mil` email addresses who aren't collaborating on a project
-can be invited into public channels. Request this through
-[GSA IT](https://gsa.servicenowservices.com/sp?id%3Dsc_category%26sys_id%3Df9874e76db5003400dc9ff621f96190d%26catalog_id%3De0d08b13c3330100c8b837659bba8fb4&sa=D&source=editors&ust=1646322071630282&usg=AOvVaw1yztj9UbjcyxJDbmOR_uMO).
+can be invited into public channels. Request this through a ["Slack platform changes" ServiceNow ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=3891c4f31b6b6014b1f620eae54bcbc1&sysparm_category=f9874e76db5003400dc9ff621f96190d).
 
 Treat these public channels like you would a livestreamed event on GSA's YouTube
 page or other type of public meeting open to guests. Materials and documents
@@ -101,11 +99,6 @@ public channels so that access to Slack isn't required to see the information.
 
 Members of the public must also comply with GSA standards and the [TTS Code of
 Conduct]({% page "/code-of-conduct" %}).
-
-To invite people to a public Slack channel, send them to
-[chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate
-channel from the drop-down. Note that these users are added as
-[**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
 
 ### Add a new public channel
 

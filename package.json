@@ -43,7 +43,7 @@
     "postcss-cli": "^10.0.0"
   },
   "devDependencies": {
-    "cheerio": "^1.1.0",
+    "cheerio": "^1.1.2",
     "cspell": "^6.31.3",
     "eslint": "^8.57.1",
     "eslint-config-airbnb-base": "^15.0.0",

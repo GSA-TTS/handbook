@@ -1,4 +1,4 @@
-FROM node:20.19.4-bookworm-slim
+FROM node:20-slim
 
 WORKDIR /src
 

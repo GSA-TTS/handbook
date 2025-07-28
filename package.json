@@ -30,7 +30,7 @@
     "@11ty/eleventy-img": "^3.1.8",
     "@uswds/uswds": "^3.12.0",
     "autoprefixer": "^10.4.21",
-    "eleventy-plugin-svg-sprite": "^2.4.4",
+    "eleventy-plugin-svg-sprite": "^2.4.5",
     "esbuild": "^0.25.6",
     "esbuild-sass-plugin": "^3.3.1",
     "glob": "^9.3.5",
@@ -43,11 +43,11 @@
     "postcss-cli": "^10.0.0"
   },
   "devDependencies": {
-    "cheerio": "^1.1.0",
+    "cheerio": "^1.1.2",
     "cspell": "^6.31.3",
     "eslint": "^8.57.1",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-prettier": "^8.10.0",
+    "eslint-config-prettier": "^8.10.2",
     "eslint-plugin-import": "^2.32.0",
     "html-validate": "^7.16.0",
     "prettier": "^2.8.8"

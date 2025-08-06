@@ -20,11 +20,11 @@ Here are a few ways you can contribute toward a Merit Systems Principles focused
   make “gut” decisions that could be colored by bias.
 
 - **Stick to data-based assessments of a candidate’s abilities rather than those
-  based on factors like age, gender, race, etc.**
+  based on factors like age, sex, race, etc.**
 
 - **Don’t check out the candidate on social media, or Google them.** A person’s
   public profile almost certainly won’t have anything relevant to work, and
-  might instead reveal all sorts of irrelevant information (age, gender,
+  might instead reveal all sorts of irrelevant information (age, sex,
   political affiliation, race, etc.). If the candidate application/resume links
   to a personal website, LinkedIn, or GitHub you can check those out — these are
   more work-focused, and we can assume a candidate has put what they want an

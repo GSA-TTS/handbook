@@ -248,7 +248,7 @@ There are maps of the D.C. office in every elevator lobby.
 
 ### Bathrooms
 
-A single-occupancy, wheelchair-accessible all-gender bathroom is located on the
+A single-occupancy, wheelchair-accessible all-sex bathroom is located on the
 third floor in wing three (room 3355).
 
 ### Nursing/Pumping rooms

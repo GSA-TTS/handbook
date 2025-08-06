@@ -287,13 +287,13 @@ Men's and women’s bathrooms are just down the hall from the TTS office — wal
 away from the elevator bays of the building, the men’s room is on the left, and
 for the women’s keep going down the hall to just past the stairwell on the left.
 
-There is an all-gender bathroom in the Nimitz Suite on the third floor (room
+There is an all-sex bathroom in the Nimitz Suite on the third floor (room
 3198),
 [at the southwest corner of the third floor map here](https://insite.gsa.gov/portal/category/532018).
 The Nimitz Suite is
 [a set of conference rooms named after an admiral](https://gsablogs.gsa.gov/gsablog/2014/05/16/a-closer-look-the-nimitz-suite/).
 
-An all-gender bathroom is also available for limited hours on Tuesday through
+An all-sex bathroom is also available for limited hours on Tuesday through
 Thursday in the Health Unit, which is in the basement. See the
 <a href="#health-center">health center</a> section for further details.
 
@@ -390,7 +390,7 @@ The health unit is located in the basement. Hours are:
 You can receive basic first aid, screenings, and flu shots. The phone number for
 the health unit is 415-556-2766.
 
-The Health Unit also includes an all-gender bathroom.
+The Health Unit also includes an all-sex bathroom.
 
 ### Bike parking
 

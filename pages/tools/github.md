@@ -88,8 +88,8 @@ You may also want to take a look at
 ### 4. Join a GSA/TTS organization
 
 Have a current team member request an invitation to the
-[GSA or TTS Organization](#organizations) you need in the
-{% slack_channel "admins-github" %} channel.
+[GSA-TTS Organization](#organizations) you need in the
+{% slack_channel "admins-github" %} channel.  Or, to join the `GSA` organization, email gsa-github.support@gsa.gov and include the GSA email address associated with the user to be added.  
 
 An admin will add you, after which you'll need to accept their invitation from
 the email or by going to the

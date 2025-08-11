@@ -102,10 +102,7 @@ public channels so that access to Slack isn't required to see the information.
 Members of the public must also comply with GSA standards and the [TTS Code of
 Conduct]({% page "/code-of-conduct" %}).
 
-To invite people to a public Slack channel, send them to
-[chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate
-channel from the drop-down. Note that these users are added as
-[**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
+To invite people to a public Slack channel, request access for them via the appropriate ServiceNow ticket. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
 
 ### Add a new public channel
 
@@ -130,3 +127,5 @@ your **GSA email address**. If you're invited to Slack workspaces [in your
 personal
 capacity]({% page "/office-of-operations/fas-speaker-guide/#professional-vs-personal-capacity" %}),
 you must join those workspaces with a personal email address.
+
+**Important:** To add external collaborators (including for Slack Connect), submit a ["Slack platform changes" ServiceNow ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=3891c4f31b6b6014b1f620eae54bcbc1&sysparm_category=f9874e76db5003400dc9ff621f96190d). Do _not_ use the ["Add Slack guest member" ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=7205fbef1b276014b1f620eae54bcb49&sysparm_category=f9874e76db5003400dc9ff621f96190d), which is only for guests with GSA emails.

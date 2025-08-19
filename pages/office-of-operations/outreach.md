@@ -1,19 +1,18 @@
 ---
-title: TTS Outreach
+title: Operations Outreach
 redirect_from:
   - /outreach/
 cSpell: ignore Vanamali,Dahianna,Sigritz
 ---
 
-TTS Outreach is responsible for the TTS brand with audiences both internal and
-external to the government. It exists to drive demand for TTS services in
-support of the overall mission to improve the public’s experience with the
 government by helping agencies build, buy, and share technology that allows them
 to better serve the public.
 
-The team works closely with the GSA Office of Strategic Communication to ensure
-all communications meet GSA standards and align with GSA’s mission. Outreach
-achieves its goals through:
+Operations Outreach is responsible for the TTS brand with audiences both internal and external to the government. It exists to drive demand for TTS services in support of the overall mission to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public.
+
+
+The team works closely with the GSA Office of Strategic Communication to ensure all communications meet GSA standards and align with GSA’s mission. Operations Outreach achieves its goals through:
+
 
 - Brand management
 - Online presence (web, social, etc.) strategy
@@ -22,42 +21,31 @@ achieves its goals through:
 - Demand generation efforts
 - Constituent education
 
+
 ## Services
 
-Outreach is part of TTS Clients & Markets and is funded by the TTS business
-units. Come talk to the Outreach team if you’d like help with:
+Come talk to the Outreach Stakeholder Engagement Advisor team if you’d like help with:
 
-- Reviewing and approving public content, including marketing materials and
-  websites
+
+- Reviewing and approving public content, including marketing materials and websites
 - Learning about emerging technology communications and training tools
 - Creating a communication and social engagement strategy
 - Writing a conference talk
-- Connecting with the Office of Strategic Communication regarding press
-  requests, GSA communication channels, or approvals
-- Editing TTS content on InSite or GSA.gov
+- Connecting with the Office of Strategic Communication regarding press requests, GSA communication channels, or approvals
+- Editing TTS content on JoSite or GSA.gov
 
-If you're contacted by a journalist or member of the press, please forward the
-message to press@gsa.gov without responding. All press interactions are handled
-by the Office of Strategic Communication.
+
+If you're contacted by a journalist or member of the press, please forward the message to press@gsa.gov without responding. All press interactions are handled by the Office of Strategic Communication.
+
 
 ## Team
 
-The Outreach team has a point person for each of the main business units, and
-they should be your first point of contact when looking for Outreach services.
+For specific marketing, outreach, or stakeholder engagement matters, you can also reach the whole team at tts-outreach@gsa.gov.
 
-- Director - Star Vanamali
-- 18F - Dahianna Salazar Foreman
-- Solutions - Kristina Britt
-- PIF - Vacant
-- COE - Andrea Sigritz
-
-You can also reach the whole team at tts-outreach@gsa.gov.
 
 ## Slack channels
 
-- {% slack_channel "outreach" %} is for all general inquiries including helping
-  you promote things, members of the press asking you questions, guidance on
-  getting content approved etc.
+- {% slack_channel "outreach" %} is for all general inquiries including helping you promote things, members of the press asking you questions, guidance on getting content approved, etc.
 - {% slack_channel "tweet-this" %} is where we coordinate activity for TTS
   Twitter accounts. Hop in here if you’d like an official account to tweet
   something or respond to a tweet.

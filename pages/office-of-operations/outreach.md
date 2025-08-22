@@ -1,5 +1,5 @@
 ---
-title: TTS Outreach & Stakeholder Engagement
+title: TTS Outreach
 redirect_from:
   - /outreach/
 cSpell: ignore Vanamali,Dahianna,Sigritz
@@ -8,10 +8,12 @@ cSpell: ignore Vanamali,Dahianna,Sigritz
 government by helping agencies build, buy, and share technology that allows them
 to better serve the public.
 
-TTS Outreach & Stakeholder Engagement is responsible for the TTS brand with audiences both internal and external to the government. It exists to drive demand for TTS services in support of the overall mission to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public.
+
+TTS Outreach is responsible for the TTS brand with audiences both internal and external to the government. It exists to drive demand for TTS services in support of the overall mission to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public.
 
 
-The team works closely with the GSA Office of Strategic Communication to ensure all communications meet GSA standards and align with GSA’s mission. Operations Outreach achieves its goals through:
+
+The team works closely with the GSA Office of Strategic Communication to ensure all communications meet GSA standards and align with GSA’s mission. TTS Outreach achieves its goals through:
 
 
 - Brand management
@@ -24,14 +26,14 @@ The team works closely with the GSA Office of Strategic Communication to ensure 
 
 ## Services
 
-Come talk to the Outreach Stakeholder Engagement Advisor team if you’d like help with:
+Come talk to the Outreach team if you’d like help with:
 
 - Reviewing and approving public content, including marketing materials and websites
 - Learning about emerging technology communications and training tools
 - Creating a communication and social engagement strategy
 - Writing a conference talk
 - Connecting with the Office of Strategic Communication regarding press requests, GSA communication channels, or approvals
-- Editing TTS content on JoSite or GSA.gov
+- Editing TTS content on InSite or GSA.gov
 
 If you're contacted by a journalist or member of the press, please forward the message to [press@gsa.gov](mailto:press@gsa.gov) without responding. All press interactions are handled by the Office of Strategic Communication.
 

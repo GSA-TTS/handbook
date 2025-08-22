@@ -561,7 +561,7 @@ primary:
             url: github/
             internal: true
           - text: Infrastructure (cloud.gov, AWS, etc.)
-            url: https://before-you-ship.18f.gov/infrastructure/
+            url: infrastructure/
             internal: false
           - text: Mural (collaborative whiteboard tool)
             url: tools/mural/
@@ -570,7 +570,7 @@ primary:
             url: qualtrics/
             internal: true
           - text: Security scanning
-            url: https://before-you-ship.18f.gov/security/scanning/
+            url: launching-software/security/
             internal: false
           - text: Smartsheet
             url: tools/smartsheet/

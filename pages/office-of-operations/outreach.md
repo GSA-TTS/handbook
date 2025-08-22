@@ -47,7 +47,7 @@ You can also reach the whole team at [tts-outreach@gsa.gov](mailto:tts-outreach@
 - {% slack_channel "tweet-this" %} is where we coordinate activity for TTS accounts. Hop in here if you’d like an official account to tweet
   something or respond to a tweet.
 - {% slack_channel "press" %} is for collecting press mentions of TTS. If you see something inaccurate in a story posted in press, you can contact our team to see if we can get it corrected.
-- {% slack_channel "training-conferences" %}: This channel is where you go if you’ve been asked to speak at an event, or if you want to speak at an event and may need approval. Our team canhelp you with content for a talk, but the Governance and Compliance team
+ - {% slack_channel "training-conferences" %}: This channel is where you go if you’ve been asked to speak at an event, or if you want to speak at an event and may need approval. Our team can help you with content for a talk, but the Governance and Compliance team
   handles approvals.
 
 ## How to make TTS-wide announcements

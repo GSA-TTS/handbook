@@ -161,7 +161,7 @@ You will find out the exact location once you arrive at orientation.
 
 The TTS space is in the 2400 wing. See [Once inside GSA](#once-inside-gsa) for directions.
 
-The 2400 wing has workstations with both Macs and PCs that are loosely assigned by TTS business unit. 2400 has six small, reservable conference rooms and two unreservable phone booths.
+The 2400 wing has workstations with both Macs and PCs that are loosely assigned by TTS business unit. 2400 has six small, reservable conference rooms and two phone booths that cannot be reserved.
 
 You can reference the latest [2400 seating layout](https://docs.google.com/presentation/d/17fEVTVZBBSnq_p3PZ4IFtNz81DFd-dIGDZkNcIjlWio/edit?slide=id.g3789f611d41_1_0#slide=id.g3789f611d41_1_0) and this [1800F RTO Info document](https://docs.google.com/document/d/1JgP13xg19n6MdIRWXRwxQx8R-EpaiCPndv5CiJyOpbc/edit?tab=t.0#heading=h.ysxik8tpdylu) specific to TTS. 
 

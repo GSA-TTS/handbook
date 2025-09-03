@@ -1,5 +1,5 @@
 ---
-title: Working groups, guilds, and other communities
+title: Working Groups, Guilds, and other Communities of Practice
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/

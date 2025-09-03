@@ -1,5 +1,5 @@
 ---
-title: Affinity groups, working groups, guilds, and other communities
+title: Working groups, guilds, and other communities
 redirect_from:
   - /general-contacts-and-listservs/
   - /working-groups-and-guilds-101/

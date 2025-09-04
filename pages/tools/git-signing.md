@@ -11,7 +11,7 @@ TTS strongly encourages all git commits to be cryptographically signed. A crypto
 
 ## Signing requirements
 
-GitHub repositories throughout TTS are monitored by a configuration-management tool called [Allstar]({%link "https://github.com/18F/.allstar" %}). If your team's repository is managed by Allstar, it will _require_ commit signing.
+GitHub repositories throughout TTS are monitored by a configuration-management tool called [Allstar]({%link "https://github.com/GSA-TTS/.allstar" %}). If your team's repository is managed by Allstar, it will _require_ commit signing.
 
 ### Managing your keys
 

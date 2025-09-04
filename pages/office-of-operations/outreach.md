@@ -5,16 +5,9 @@ redirect_from:
 cSpell: ignore Vanamali,Dahianna,Sigritz
 ---
 
-government by helping agencies build, buy, and share technology that allows them
-to better serve the public.
-
-
 TTS Outreach is responsible for the TTS brand with audiences both internal and external to the government. It exists to drive demand for TTS services in support of the overall mission to improve the public’s experience with the government by helping agencies build, buy, and share technology that allows them to better serve the public.
 
-
-
 The team works closely with the GSA Office of Strategic Communication to ensure all communications meet GSA standards and align with GSA’s mission. TTS Outreach achieves its goals through:
-
 
 - Brand management
 - Online presence (web, social, etc.) strategy
@@ -22,7 +15,6 @@ The team works closely with the GSA Office of Strategic Communication to ensure 
 - Customer engagement
 - Demand generation efforts
 - Constituent education
-
 
 ## Services
 

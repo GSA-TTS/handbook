@@ -92,7 +92,7 @@ document.
 - Make sure that you aren't the superuser, sole owner, approver, admin, etc. for
   Tock, important calendars, Google Groups, critical documents, or processes.
   - Move Google Drive files to shared folders, when appropriate.
-  - [Invision instructions]({% page "/tools/invision/#offboarding" %})
+  - Invision offboarding instructions are currently unavailable.
 - Move all calendar invites off your calendar. Nothing worse than an orphaned
   meeting!
 - Log your final Tock hours.

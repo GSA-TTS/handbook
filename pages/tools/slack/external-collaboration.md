@@ -102,8 +102,7 @@ Conduct]({% page "/code-of-conduct" %}).
 
 ### Add a new public channel
 
-See
-[the instructions for creating a new public channel](https://github.com/18F/chat#adding-new-public-channels).
+Submit a ["Slack platform changes" ServiceNow ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=3891c4f31b6b6014b1f620eae54bcbc1&sysparm_category=f9874e76db5003400dc9ff621f96190d)
 
 ## Archive a Slack channel
 

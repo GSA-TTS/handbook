@@ -11,7 +11,7 @@ cSpell: ignore Ahearn,Bollinger,Cloyd,Derosena,Dussault,Jediny,Hirsch,Horwitz,Ma
 </style>
 
 TTS has a collection of communities that connect employees based on shared
-interests or identities.
+interests.
 
 These groups are a valued part of TTS (and in some cases, across government!).
 They:
@@ -185,13 +185,13 @@ upcoming event.
 Do say:
 
 > This Friday, the Accessibility Guild welcomes Jane Doe, who will present how
-> research frameworks can help implement Inclusive Design in our digital
+> research frameworks can help implement universal design principles in our digital
 > projects...
 
 Don't say:
 
 > This Friday, the Accessibility Guild welcomes Jane Doe, author of my favorite
-> book _ABCD Framework for Inclusive Design_. Everyone should read it!
+> book _ABCD Framework for universal design_. Everyone should read it!
 
 We also avoid giving an unfair advantage to someone involved in a bid in
 progress with GSA. To avoid any ethical or legal conflict, please check with the

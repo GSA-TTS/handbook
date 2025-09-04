@@ -30,8 +30,6 @@ Before you make your contribution, there are a few things to remember:
   first.
 - Avoid "click here" links. Follow the
   [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
-- We follow the structure outlined in the
-  [18F Content Guide](https://content-guide.18f.gov/our-approach/structure-the-content/).
 
 There is also some information that should **not** be included in the Handbook:
 
@@ -171,15 +169,12 @@ If you're not sure, ask for a second opinion in
 
 ## Content and accessibility
 
-The handbook follows the [18F content guide](https://content-guide.18f.gov), and
-all content should follow web accessibility best practices. Remember to use
-[descriptive link text](https://content-guide.18f.gov/urls-and-filenames/#link-text).
+The handbook aims to follow [GSA's Accessibility Program](https://www.gsa.gov/website-information/accessibility-statement)
 
 ## File/folder structure
 
 New files should be created in the `pages` directory and in the sub-directory
-that makes the most sense for your content. For example, a new page on an 18F
-process should go in the `pages/18f` directory.
+that makes the most sense for your content. For example, a new page on an `topic` should go in the `pages/topic` directory.
 
 Images that should appear in the Handbook should be placed in the `_img`
 directory. You can create addition subdirectories and nest them however you need

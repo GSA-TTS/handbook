@@ -119,7 +119,7 @@ I propose the following:
       have to do these non-technical interviews once. Hiring managers will be
       able to share notes and talk to the interviewers. This helps preserve
       candidate experience; we shouldn’t expect candidates to do a separate core
-      values interview for COE, Login, and 18F, for example. Experienced
+      values interview for COE, and Login for example. Experienced
       interviewers will conduct these interviews because they have a deep bench
       of experience evaluating candidate responses, specifically around core
       values.

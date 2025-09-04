@@ -33,21 +33,21 @@ Information you might need for filling out GSA forms:
 
 - Join TTS: [jointts@gsa.gov](mailto:jointts@gsa.gov)
 
-### 18F
+### Technology Transformation Services
 
-- General inbox: [18f@gsa.gov](mailto:18f@gsa.gov)
-- 18F supervisors: [18f-supervisors@gsa.gov](mailto:18f-supervisors@gsa.gov)
-- Agencies inquiring about working with 18F:
-  [inquiries18f@gsa.gov](mailto:inquiries18f@gsa.gov)
-- Development team: [18fdev@gsa.gov](mailto:18fdev@gsa.gov)
-- Experience Design team: [18f-xd@gsa.gov](mailto:18f-xd@gsa.gov)
-- Product team: [18f-product@gsa.gov](mailto:18f-product@gsa.gov)
+- General inbox: [tts@gsa.gov](mailto:tts@gsa.gov)
+- Supervisors: [tts-supervisors@gsa.gov](mailto:tts-supervisors@gsa.gov)
+- Agencies inquiring about working with Technology Transformation Services:
+  [inquiries.tts@gsa.gov](mailto:inquiries.tts@gsa.gov)
+- Development team: [ttsdev@gsa.gov](mailto:ttsdev@gsa.gov)
+- Experience Design team: [tts-xd@gsa.gov](mailto:tts-xd@gsa.gov)
+- Product team: [tts-product@gsa.gov](mailto:tts-product@gsa.gov)
 
 #### Offices
 
-- New York City: [18f-nyc@gsa.gov](mailto:18f-nyc@gsa.gov)
-- San Francisco: [18f-sf@gsa.gov](mailto:18f-sf@gsa.gov)
-- Washington D.C.: [18f-dc@gsa.gov](mailto:18f-dc@gsa.gov)
+- New York City: [tts-nyc@gsa.gov](mailto:tts-nyc@gsa.gov)
+- San Francisco: [tts-sf@gsa.gov](mailto:tts-sf@gsa.gov)
+- Washington D.C.: [tts-dc@gsa.gov](mailto:tts-dc@gsa.gov)
 
 ### Business Inquiries
 
@@ -58,9 +58,9 @@ Information you might need for filling out GSA forms:
 ### Business Units
 
 - Custom Partner Solutions:
-  [18f-partnersolutions@gsa.gov](mailto:18f-partnersolutions@gsa.gov)
+  [tts-partnersolutions@gsa.gov](mailto:tts-partnersolutions@gsa.gov)
 - Products and Platforms:
-  [18f-productsplatforms@gsa.gov](mailto:18f-productsplatforms@gsa.gov)
+  [tts-productsplatforms@gsa.gov](mailto:tts-productsplatforms@gsa.gov)
 
 ### PIF
 

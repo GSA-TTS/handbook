@@ -14,8 +14,7 @@ Anything that would make our systems vulnerable or would impact the privacy of
 others if it fell into the wrong hands. See also:
 [the GSA Controlled Unclassified Information (CUI) Guide](https://insite.gsa.gov/employee-resources/information-technology/security-and-privacy/controlled-unclassified-information-cui/cui-guide).
 
-Here are some
-[examples of sensitive information](https://github.com/18F/aws-admin/issues/92#issuecomment-768332113):
+Here are some examples of sensitive information:
 
 - passwords
 - API Keys
@@ -91,10 +90,7 @@ information in code and TTS systems:
   directions on the [incident response handbook
   page]({% page "/security-incidents" %}). If you're unsure how to protect this
   information, consult with Infrastructure on GitHub or in the
-  {% slack_channel "admins-github" %} channel in Slack. Some projects use
-  [Citadel](https://github.com/poise/citadel) to store secrets. Also refer to
-  the [Engineering Guide's guidance](https://engineering.18f.gov/workflow/) on
-  protecting information in Git and GitHub.
+  {% slack_channel "admins-github" %} channel in Slack. 
 - [Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
   is a helpful resource for protecting sensitive information in CI/CD.
 

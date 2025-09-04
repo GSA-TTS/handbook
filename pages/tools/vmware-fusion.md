@@ -1,6 +1,6 @@
 ---
 title: VMware Fusion
-redirect_to: https://engineering.18f.gov/browser-testing/#windows
+redirect_to: https://insite.gsa.gov/employee-resources/information-technology/apps-software/getting-software
 redirect_from:
   - /vmware-fusion/
 ---

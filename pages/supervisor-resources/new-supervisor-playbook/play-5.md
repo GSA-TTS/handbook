@@ -33,10 +33,6 @@ anything you learn about the team members you will be responsible for as well as
 your own observations. This will greatly help come performance review time or
 handling any situations that may require personnel actions.
 
-When creating documentation, be mindful of
-[Inclusive Language principles](https://content-guide.18f.gov/our-style/inclusive-language)
-as well as
-[phrases flagged by Inclusion Bot](https://docs.google.com/document/d/1iQT7Gy0iQa7sopBP0vB3CZ56GhyYrDNUzLdoWOowSHs/edit).
 Be specific about what is happening, refraining from vague personal opinions.
 For example: if someone is struggling to complete a task, avoid phrases such as
 “I don’t think this person is a good fit for the team.” Instead, write ‘They

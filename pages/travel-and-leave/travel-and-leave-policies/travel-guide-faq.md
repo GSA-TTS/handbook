@@ -279,11 +279,11 @@ go to the **General** tab and see the fields that are presented below:
 **Trip name:** Identify the budget of your trip here, based on the type of
 project you are traveling for:
 
-- _Billable projects:_ for 18F and CoE, include the exact name and number of the
-  project as it appears in [Tock](https://tock.18f.gov/projects). For PIF
+- _Billable projects:_ for TTS and CoE, include the exact name and number of the
+  project as it appears in [Tock](https://tock.tts.gsa.gov/projects). For PIF
   billable travel, simply indicate the project is billable.
 - _All other projects:_ the fiscal year, division/organization name, and name of the event
-  must be listed (i.e. FY25 18F KubeCon); (a list of options for the division/organization name is in cell C5 of the
+  must be listed (i.e. FY25 TTS KubeCon); (a list of options for the division/organization name is in cell C5 of the
   [TTS Budget and Accounting Lookup](https://docs.google.com/spreadsheets/d/1twEX5wrriQ3Tbn25wN4n8rZPF9h5NqRQWIskkW6xQpY/edit#gid=0)
 
 **\*Note:** If you are traveling for multiple projects (whether billable or
@@ -292,11 +292,11 @@ appropriate.
 
 Examples:
 
-- `BILLABLE: 18F / HHS / CMS FY19 #997`
+- `BILLABLE: TTS / HHS / CMS FY19 #997`
 - `BILLABLE: CoE / USDA Phase 2 / Cloud Adoption #980`
 - `BILLABLE: PIF - DHS`
 - `NONBILLABLE: OPP Smarter IT Solutions Division (QXD)`
-- `NONBILLABLE: 18F Strategy Branch (QEAD)`
+- `NONBILLABLE: TTS Strategy Branch (QEAD)`
 - `NONBILLABLE: Cloud Adoption CoE`
 
 **Type Code:** "SINGLE TRIP". **Trip Purpose:** “Mission (Operational)” in most
@@ -459,7 +459,7 @@ If your travel is **billable**, you will need to have the Account Manager of the
 
 The following list provides **Concur approvers** for billable travel:
 
-- 18F: 1st Line Supervisor (verify with the project's Account Manager first per instructions above) 
+- TTS: 1st Line Supervisor (verify with the project's Account Manager first per instructions above) 
 - 10x: Nico Papafil
 - cloud.gov: Ashley Mahan until a new cloud.gov director is selected
 - login.gov: Dan Lopez

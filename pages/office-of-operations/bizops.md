@@ -54,19 +54,7 @@ The Business Operations division works with GSA’s Office of Human Resource Man
   - [moving to a new duty station]({% page "/moving/" %})
 - [Leave & Time Management]({% page "/leave/" %})
 - [Benefits help]({% page "/benefits/" %})
-
-## Talent
-
-The Talent team is dedicated to finding the best and the brightest. We partner
-closely with our leaders and managers, helping them to make better decisions and
-to solve their strategic talent acquisition issues. We will deliver an
-incredible candidate experience from the first time a candidate sees a job
-posting through their days onboarding at TTS.
-
 - Contact: jointts@gsa.gov; {% slack_channel "hiring" %}
-
-### Talent Areas of Focus
-
 - [Hiring]({% page "/hiring/" %})
   - [Refer
     someone]({% page "/office-of-operations/talent/#referring-a-person" %})

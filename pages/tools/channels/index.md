@@ -11,7 +11,6 @@ title: Channels
 
 - Teams
 
-  - 18F - {% slack_channel "news-18f" %} for all 18F-level announcements
   - {% slack_channel "solutions" "Solutions" %}
   - {% slack_channel "pifs" "PIFs" %}
   - {% slack_channel "tts-oa" "Office of Acquisition" %}

@@ -32,7 +32,7 @@ Except where noted here, all fields will need to be correctly filled out:
 - Box 2-3: Your name and title
 - Box 4: Pegasys vendor code: not required
 - Box 5: Your home address
-- Box 6A: Your division within TTS (18F, OPP, etc.)
+- Box 6A: Your division within TTS
 - Box 6B: Look this up
   [here](https://docs.google.com/spreadsheets/d/1WLVv2x7GauLo0-waK3FqeVxN7UCZmXw_t2E745Gfmug/edit#gid=600166428)
 - Boxes 7-8: Your regular work location and contact number.

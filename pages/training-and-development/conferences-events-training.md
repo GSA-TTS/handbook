@@ -21,11 +21,6 @@ please forward the email or reach out to [press@gsa.gov](mailto:press@gsa.gov)
 and CC [your team's Outreach
 liaison]({% page "/office-of-operations/outreach/#team" %}).
 
-For 18F, you can view the
-[18F FY23 Training plan](https://docs.google.com/document/d/1P36Q_RF_78SRLcKcz3O3nuA6Nw-Y6MfRR7NB290M5qI/edit).
-The plan includes strategic development priorities for team-wide trainings and
-notes on the process for allocating 18F training funds.
-
 ## Getting approval for a conference, event, or training
 
 1. Submit

@@ -37,10 +37,6 @@ code.
   available [here](https://digital.gov/resources/an-introduction-github#how-do-i-use-github) and course
   materials are
   [here](https://docs.google.com/document/d/18b-4VPTcuqat-enGQSVzivGH2CsqdQVG0K0eToRM39I/edit).
-- [How to use GitHub, the terminal, and the 18F site](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) -
-  This tutorial from Melody Kramer and Greg Boone walks you through using GitHub
-  to contribute to our blog. It's intended for beginners, but includes tips for
-  intermediate GitHub users, too.
 - [“Git what?” Extolling GitHub’s virtues to non-coders](https://medium.com/nyc-planning-digital/git-what-extolling-githubs-virtues-to-non-coders-6cc11f1a5fd2) -
   In this article, learn from a high level view how GitHub works. It’s a great
   article for those of you worried about how complicated GitHub can be and
@@ -64,10 +60,10 @@ by different categories. Read the ones that will be most useful to you.
 ### 1. Repository Basics
 
 - **Repo** is short for repository, or a project on GitHub. Anybody at TTS can
-  create repos in the 18F organization and you should _always_ create new
-  projects as 18F, not as yourself. You can create new repos in GitHub by
+  create repos in the GSA-TTS organization and you should _always_ create new
+  projects as GSA-TTS, not as yourself. You can create new repos in GitHub by
   clicking the + next to your profile picture. Then, choose New Repository and
-  change the owner to 18F.
+  change the owner to GSA-TTS.
 - The **license** on every repo must be Creative Commons 0, or CC0. That's
   shorthand for Public Domain. TTS is not only committed to working in the
   public domain by our own policies, but is also committed
@@ -76,11 +72,9 @@ by different categories. Read the ones that will be most useful to you.
   check with {% slack_channel "admins-github" %} and
   {% slack_channel "wg-opensource" %} before putting any license _other_ than
   CC0 on your project. For more details about licensing, see our
-  [open source policy](https://github.com/18F/open-source-policy),
-  [our blog posts about open source](https://18f.gsa.gov/tags/open-source/), and
-  the [Open Source Style guide](https://pages.18f.gov/open-source-guide/).
+  [open source policy](https://github.com/18F/open-source-policy).
 
-Once you're a member of the 18F organization, you'll have access to many of our
+Once you're a member of the GSA-TTS organization, you'll have access to many of our
 repos. You'll also have at least read-only access to a few of our private
 repositories. Check with your team on how to interact with a project. In some
 cases, the repos themselves have information in a `CONTRIBUTING.md` file for
@@ -96,7 +90,7 @@ starts you out on understanding repositories.
 
 Developer, designer, editor, manager: Whatever your role is, you’ll want to get
 used to filing issues on GitHub. Issues are a common way of submitting feedback
-on projects at 18F. For example, if you want to write a blog post, you’ll be
+on projects at GSA-TTS. For example, if you want to write a blog post, you’ll be
 asked to submit an issue to the blog repo. If filing an issue seems more
 difficult for some reason, head to Slack. Or vice versa.
 
@@ -128,7 +122,7 @@ and not directly in `master` or `main`.
 is a longer video that will teach you how to file issues and issue pull
 requests.
 
-A fork is a copy of the main project that is fully separate from 18F’s. You
+A fork is a copy of the main project that is fully separate from GSA-TTS’s. You
 might be asked to fork a repo and work off your own copy, or you might be asked
 to commit directly to your team’s original repo. This is the kind of thing you
 should ask your teammates about — don’t make assumptions!
@@ -138,13 +132,13 @@ changes to a project through a pull request. A pull request, or PR, is a way of
 saying “here are some changes I’d like to contribute “ and letting the repo’s
 owner decide whether to accept (or merge) them or give feedback. Sometimes your
 pull request will go from your fork to the main project, sometimes from a
-branch. Again, make sure you understand your team’s Git workflow. On #18f-site,
+branch. Again, make sure you understand your team’s Git workflow. On [Handbook](https://github.com/gsa-tts/handbook),
 nobody forks and everybody works off of branches; we submit pull requests to the
-staging branch.
+`main` branch.
 
 A few clarifying definitions:
 
-- A **fork** is a copy of the main project that is fully separate from 18F's.
+- A **fork** is a copy of the main project that is fully separate from GSA-TTS's.
   You might be asked to fork a repo and work off your own copy, or you might be
   asked to commit directly to your team's original repo. This is the kind of
   thing you should ask your teammates about — don't make assumptions!
@@ -154,8 +148,8 @@ A few clarifying definitions:
   letting the repo's owner decide whether to accept (or merge) them or give
   feedback. Sometimes your pull request will go from your fork to the main
   project, sometimes from a _branch._ Again, make sure you understand your
-  team's Git workflow. On [\#18f-site](), nobody forks and everybody works off
-  of branches; we submit pull requests to the staging branch.
+  team's Git workflow. On [Handbook](https://github.com/gsa-tts/handbook), nobody forks and everybody works off
+  of branches; we submit pull requests to the `main` branch.
 
 ### 4. Mastering Markdown
 
@@ -192,7 +186,7 @@ through hoops? Can they even access it from their agency computers? These are
 the kinds of things we consider when deciding if GitHub is the right thing to
 use.
 
-TTS sometimes adds contractors and agency partners to the 18F organization on
+TTS sometimes adds contractors and agency partners to the GSA-TTS organization on
 GitHub. We sometimes use forks to collaborate with contractors. Sometimes we do
 both. Again, check with your team on how to do this.
 
@@ -207,19 +201,13 @@ To submit an issue, Log in, find the appropriate repo on GitHub, and click the
 Issues tab in the right column. Then, click the New Issue button. Your issue
 should have a title and explainer text. You'll probably know what to put there,
 but teams sometimes have guidance on how to format issues or things to include.
-The {% slack_channel "blog" %}, for example, has
-[a specific set of things we require](https://github.com/18F/blog-drafts#readme)
-submissions to have before we'll consider them.
 
-Final pro tip: If your project wants issues formatted in a specific way, you can
-add an issue template file.
-[This is the one we have for filing new blog post ideas](https://github.com/18F/blog-drafts/blob/master/ISSUE_TEMPLATE.md).
-Every new post auto-fills with that information.
+Final pro tip: If your project wants issues formatted in a specific way, you can add an [issue template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) file.
 
 ### 7. Transferring a repository
 
 Often during the course of working with and transitioning projects to partners,
-an `18F`-owned GitHub repository will need to be transferred to the ownership of
+an `GSA-TTS`-owned GitHub repository will need to be transferred to the ownership of
 the partner. A "Transfer" is the recommended approach since it will include
 Issues, Pull Requests, and other GitHub metadata and history that won't be
 captured by just cloning the `git` repository which only contains the code.

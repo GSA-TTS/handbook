@@ -9,7 +9,7 @@ Here are some of the mechanisms TTS has to do this kind of work:
 | Resource | Helps with |
 |----------|------------|
 | [**\#TTS-help-wanted**](##help-wanted-slack-channel)  | **Short, fast, billable or non-billable tasks**  like writing review, graphic design, general volunteers |
-| [**Operational initiatives and maintenance support**](/about-us/center-of-excellence/operations/delivery-assurance/)  | **Recurring TTS-level ops tasks or improvements**  like processing agreements, outreach approvals, hiring actions |
+| [**Operational initiatives and maintenance support**](/about-us/centers-of-excellence/operations/delivery-assurance/)  | **Recurring TTS-level ops tasks or improvements**  like processing agreements, outreach approvals, hiring actions |
 
 ## \#TTS-help-wanted Slack channel {##help-wanted-slack-channel}
 

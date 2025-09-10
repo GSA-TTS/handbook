@@ -32,7 +32,7 @@ Refer to OPM’s [Overtime Fact Sheet](https://www.opm.gov/policy-data-oversight
 
 Comp time is when you receive hours of leave instead of overtime pay. To determine the maximum number of comp time hours that you can accrue per pay period, please use the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0). If you make the maximum salary ($191,900 in 2024), you cannot receive comp time.
 
-You should use your accrued comp time before using Annual Leave. However, if the end of the leave year is approaching, your supervisor can approve your Annual Leave requests first if you are in danger of losing Annual Leave because of “[Use or Lose](https://handbook.tts.gsa.gov/travel-and-leave/leave/#annual-leave).”
+You should use your accrued comp time before using Annual Leave. However, if the end of the leave year is approaching, your supervisor can approve your Annual Leave requests first if you are in danger of losing Annual Leave because of “[Use or Lose]({% page "/travel-and-leave/leave/#annual-leave" %}).”
 
 Comp time expires one year (26 pay periods) after it is earned. When you reach the expiration date, you will forfeit the leave. If you leave GSA, your comp time will be paid out.
 
@@ -40,7 +40,7 @@ Refer to OPM’s [Comp Time Fact Sheet](https://www.opm.gov/policy-data-oversigh
 
 ## Credit hours, in flexible work schedules
 
-Only people on [flexible work schedules](https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/work-schedules/#flexible-schedule-2) can earn and use credit hours. There is no salary maximum for earning and using credit hours.
+Only people on [flexible work schedules]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/#flexible-schedule" %}) can earn and use credit hours. There is no salary maximum for earning and using credit hours.
 
 You can be approved for credit hours if you want to voluntarily work additional hours to your normal/approved schedule. If you are required to work additional hours, you will receive overtime or comp time.
 
@@ -54,7 +54,7 @@ Refer to OPM’s [Credit Hours Fact Sheet](https://www.opm.gov/policy-data-overs
 
 ### Credit hours example
 
-You are on a [Gliding schedule](https://handbook.tts.gsa.gov/general-information-and-resources/employee-resources-policies/work-schedules/#gliding), and you work 8 hours every day. You are not required to stay late, but if you are in a productive headspace and want to work an extra hour to finish work, you can ask your supervisor about working 1 more hour, therefore receiving 1 credit hour. You will need to request the 1 hour in HR Links, and your supervisor will need to approve it.
+You are on a [Gliding schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/#gliding" %}), and you work 8 hours every day. You are not required to stay late, but if you are in a productive headspace and want to work an extra hour to finish work, you can ask your supervisor about working 1 more hour, therefore receiving 1 credit hour. You will need to request the 1 hour in HR Links, and your supervisor will need to approve it.
 
 ## Religious comp time, for everyone
 

@@ -37,20 +37,16 @@ The goal of this information is to empower teams at TTS to conduct the research 
   - Agency staff or contractors may ask "any number of individuals structured, semi-structured, or open-ended questions in conducting usability testing to improve a paper or digital form, website, or service." ([Citation](https://www.whitehouse.gov/wp-content/uploads/2024/11/PRA-Usability-Testing-Guidance-Memo.pdf))
 - View more information on usability testing:
   - [Supporting Usability Testing Through Paperwork Reduction Act Flexibilities](https://www.whitehouse.gov/wp-content/uploads/2024/11/PRA-Usability-Testing-Guidance-Memo.pdf) (OIRA guidance)
-  - [18F Methods card](https://guides.18f.gov/methods/validate/usability-testing/)
 
 #### Additionally, the following research methods _do not_ require PRA clearance:
 
 - **Interviews (unstructured, open-ended)**
   - A wide-spanning set of conversations with participants that does not ask an identically-worded set of questions to every participant and/or asks participants a set of open-ended questions.
-  - View the [18F Methods card](https://guides.18f.gov/methods/discover/stakeholder-and-user-interviews/).
   - Example: [USDS blog, see Case Study 1](https://www.usds.gov/news-and-blog/user-research-and-the-paperwork-reduction-act)
 - **A/B or multivariate testing**
   - Asks participants to compare the performance of two or more versions of content to see which one appeals more.
-  - View the [18F Methods card](https://guides.18f.gov/methods/validate/multivariate-testing/).
 - **Card sorting**
   - A categorization exercise in which participants divide concepts into different groups based on their understanding of those concepts.
-  - View the [18F Methods card](https://guides.18f.gov/methods/validate/card-sorting/).
 - **Open-ended feedback forms**
   - Feedback forms that ask open-ended questions like "How can we improve this website?" or "Please let us know your thoughts".
   - [PRA-friendly templates are available through Touchpoints.](https://touchpoints.digital.gov/)

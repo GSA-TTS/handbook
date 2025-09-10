@@ -2,12 +2,12 @@
 title: Laws and regulations
 ---
 
-As federal employees, we must comply with various laws and regulations. You will receive training from GSA on several of these topics. As pertinent new regulations or executive orders are issued, GSA or TTS leadership will communicate new expectations. Employees are expected to adhere to [codes of conduct]({% page "about-us/tts-consulting/operations/conduct-and-norms/" %}).
+As federal employees, we must comply with various laws and regulations. You will receive training from GSA on several of these topics. As pertinent new regulations or executive orders are issued, GSA or TTS leadership will communicate new expectations. Employees are expected to adhere to [codes of conduct]({% page "about-us/centers-of-excellence/operations/conduct-and-norms/" %}).
 
-Below summarizes a few of the regulations most relevant to TTSC’s work.
+Below summarizes a few of the regulations most relevant to TTS’s work.
 
 {% alert %}
-  This is not a comprehensive list and any legal or ethics question should be directed to TTSC [assigned program counsel](https://docs.google.com/document/d/1WJs1krrQaPfDgoBOhEKBZjAxHpQ6mN5833s1pX7jxvg/edit?tab=t.0) within the GSA Office of General Counsel, Tech Law Division.
+  This is not a comprehensive list and any legal or ethics question should be directed to TTS [assigned program counsel](https://docs.google.com/document/d/1WJs1krrQaPfDgoBOhEKBZjAxHpQ6mN5833s1pX7jxvg/edit?tab=t.0) within the GSA Office of General Counsel, Tech Law Division.
 {% endalert %}
 
 ## If you are…
@@ -22,9 +22,9 @@ Below summarizes a few of the regulations most relevant to TTSC’s work.
 **[Intergovernmental Cooperation Act (IGCA)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title31-section6505&num=0&edition=1994) as further detailed in [OMB Circular A-97](https://obamawhitehouse.archives.gov/omb/circulars_a097/)**
 
 - Defines the process for entering an agreement with a state, local, or tribal partner.
-= TTSC may only provide agile acquisition consulting services.
+= TTS may only provide agile acquisition services.
 - The project must be linked to federal funding.
-- A request for TTSC's services must be made by the chief executive of the entity.
+- A request for TTS's services must be made by the chief executive of the entity.
 
 ### Experimenting with artificial intelligence (AI)
 

@@ -3,24 +3,16 @@ title: How we collaborate
 cspell: ignore facemute
 ---
 
-TTSC relies on various practices and tools to enable positive and productive collaboration. These help us get to know each other, foster community, and support respectful collaboration.
+TTS relies on various practices and tools to enable positive and productive collaboration. These help us get to know each other, foster community, and support respectful collaboration.
 
 ## Virtual coffees
 
 TTS has a tradition of encouraging staff to get to know each other and talk shop in casual, one-on-one conversations called “virtual coffees” (or “virtual teas,” though beverages). Learn more and get ideas for who to coffee with next from [TTS Virtual Coffees](https://docs.google.com/document/d/1wjIjmzXhDCTU6aJZHADndIPksQgvderQbqyGA2q7EzA/edit).
 
-## Personal READMEs
-
-Personal READMEs are a way for folks to better get to know each other before we start working together. [READMEs for you and me](https://18f.gsa.gov/2020/03/05/readmes-for-you-and-me/) outlines the origins of this practice.
 
 ## Guilds and collectives
 
-[TTS’s working groups, and guilds]({% page "/training-and-development/working-groups-and-guilds-101/" %}) formed in the early days of 18F as a way to share best practices and learn from each other. These groups and guilds have expanded and now welcome people from across TTS.
-
-A couple groups particularly focused on TTSC work and practices are:
-
-- Consulting Guild (Join the Slack channel [#g-consulting](https://gsa-tts.slack.com/channels/g-consulting))
-- Project Leadership Collective (Join the Slack channel [#c-18f-project-leadership](https://gsa-tts.slack.com/channels/c-18f-project-leadership))
+[TTS’s working groups, and guilds]({% page "/training-and-development/working-groups-and-guilds-101/" %}) formed in the early days of TTS as a way to share best practices and learn from each other. These groups and guilds have expanded and now welcome people from across TTS.
 
 ## Practices for remote meetings
 
@@ -32,12 +24,12 @@ A couple groups particularly focused on TTSC work and practices are:
 
 ## Conduct codes
 
-As employees of GSA, FAS, TTS, and TTS Consulting, we must adhere to a few layers of conduct codes:
+As employees of GSA, FAS, and TTS we must adhere to a few layers of conduct codes:
 - [GSA Information Technology (IT) General Rules of Behavior](https://insite.gsa.gov/directives-library/gsa-information-technology-it-general-rules-of-behavior-4)
 - [TTS Code of Conduct]({% page "/about-us/code-of-conduct/" %})
-- [TTSC Slack Code of Conduct](#ttsc-slack-code-of-conduct)
+- [TTS Slack Code of Conduct]({% slack_channel "tts-values-code-of-conduct" %})
 
-## TTSC Slack Code of Conduct
+## TTS Slack Code of Conduct
 
 Using Slack at TTS is different from other Slack instances you may have participated in because:
 - We’re federal employees.

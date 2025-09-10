@@ -613,7 +613,7 @@ what [infrastructure](#overview) you're using:
   - GSA IT [Service Desk](https://servicedesk.gsa.gov) > Service Catalog >
     Account Services > Internal/External Certificate Request
   - SSLMate through ##acquisition, via an approved
-    [purchase request](https://handbook.18f.gov/purchase-requests/)
+    [purchase request]({% page "/purchase-requests" %})
   - If in OPP, get a GoDaddy certificate through ##opp-infra
 - If using another agency's infrastructure, consult their IT department.
 

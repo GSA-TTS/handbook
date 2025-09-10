@@ -500,6 +500,25 @@ service, that amount of time would be considered creditable service and would
 increase your “length of service”
 [FERS payment calculation](https://www.opm.gov/retirement-services/fers-information/computation/).
 
+To buy back your Peace Corps volunteer service, you will need to obtain a copy 
+of your [Peace Corps Certification of Service](https://www.peacecorps.gov/returned-volunteers/support/certifications-of-service/#:~:text=Certification%20of%20service%20for%20federal%20retirement), complete the form [SF-3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf), and 
+submit these documents to the [HR specialist assigned](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0) to you.  
+Once the HR specialist has received your documents, they will complete the rest 
+of the SF-310 form and return it for you to sign.  When you return the 
+signed SF-3108 form to HR, they will send this form to OPM.  
+OPM will compute the amount owed based on what you would have paid for 
+retirement contributions including accrued interest and will mail you 
+a “Civil Service Deposit Account Statement” to your home address.  
+Make sure to note the claim number (starting with CSD -) on the form, 
+you will need this for any future correspondence with OPM.  
+The payment can be made by check or by credit card at [pay.gov](https://www.pay.gov).
+
+After you make the payment, you will need to [contact OPM](screceipts@opm.gov) to obtain 
+a “Paid in full statement” , which you will need to submit to [GSA HR](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0).  
+They will upload the Paid in Full statement to your eOPF.  
+Then, they will need to update your Service Computation Date (SCD) for Retirement 
+in HRLinks and on your SF-50 to show the additional time from your Peace Corps service.
+
 The calculations for FERS retirement can be complex, and there is paperwork to
 complete. We recommend carefully reviewing all information and talking to HR
 personnel as needed. Visit the following websites, Slack channels, and email the

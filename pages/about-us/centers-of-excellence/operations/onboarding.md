@@ -1,18 +1,18 @@
 ---
-title: Onboarding new TTSC staff
+title: Onboarding new TTS staff
 cspell: ignore matrixed, onboards, unmute
 ---
 
 Onboarding is how a new employee gets the tools, access, and information they need to be effective team members.
 
-In addition to the TTSC portions of the handbook, refer to:
+In addition to the TTS portions of the handbook, refer to:
 
-- [18F onboarding resources folder](https://drive.google.com/drive/folders/1yYYwfUhPmWuC1-3EqKtpbiFiHzDwYQhz)
+- [TTS onboarding resources folder](https://drive.google.com/drive/folders/1yYYwfUhPmWuC1-3EqKtpbiFiHzDwYQhz)
 - [CoE Onboarding deck, May 2024](https://docs.google.com/presentation/d/13INHVwT6wrI_O_ct2qyVDj__dMrMbRYOF04w0z97kik/edit#slide=id.ge45d8b0279_0_0)
 
 ## Who onboards new staff?
 
-During the onboarding process, a new staff member will interact with different people and organizations at the GSA, TTS, and TTSC level.
+During the onboarding process, a new staff member will interact with different people and organizations at the GSA, TTS, and TTS level.
 
 | Who | What they do |
 |-----|--------------|
@@ -31,13 +31,13 @@ The list below has additional tasks that supervisors should complete in their ne
 
 #### Within the first week
 
-- Set up a recurring 1:1. [Sample 18F 1:1 template](https://docs.google.com/document/d/1tNTnuG4MHjLV-GFTkS1kfzzHCtrqcb9abfgetNfInkw/edit), and [TTS resource for 1:1 questions](https://docs.google.com/document/d/1WVysnJMkLNkmQakjKIxa_v47Ws1RNDh6-iCMG6CsZ4k/edit)
+- Set up a recurring 1:1. [Sample TTS 1:1 template](https://docs.google.com/document/d/1tNTnuG4MHjLV-GFTkS1kfzzHCtrqcb9abfgetNfInkw/edit), and [TTS resource for 1:1 questions](https://docs.google.com/document/d/1WVysnJMkLNkmQakjKIxa_v47Ws1RNDh6-iCMG6CsZ4k/edit)
 - Add the employee to the following:
   - Org charts
   - Standing chapter or center meetings
   - Org-wide listservs
   - Chapter or center listservs
-  - [18F Dashboard](https://airtable.com/appsLLLryeqBK2V9d/tblI4exRaTqcoRdRZ/viweBV6PeZy8DjYbK?blocks=hide) or [CoE Engagement Tracker](https://airtable.com/appde6nxcyY2NVG4E/tblWc6oYuYa3TLngE/viwHYfeZUj2aiYWi9?blocks=hide)
+  - [TTS Dashboard](https://airtable.com/appsLLLryeqBK2V9d/tblI4exRaTqcoRdRZ/viweBV6PeZy8DjYbK?blocks=hide) or [CoE Engagement Tracker](https://airtable.com/appde6nxcyY2NVG4E/tblWc6oYuYa3TLngE/viwHYfeZUj2aiYWi9?blocks=hide)
   - Shared calendars
 - Check that they [Tocked]({% page "tools/tock/" %}) correctly.
 - Sync with their onboarding buddy.
@@ -49,7 +49,7 @@ The list below has additional tasks that supervisors should complete in their ne
 
 - Check that they submitted their timecard correctly.
 - Make sure the new employee has a 1:1 meeting with their chapter or center director.
-- (For 18F) reach out in {% slack_channel "18f-team-coffee-ideas" %} to find a time to welcome the new employee at Team Coffee. Prepare them to unmute and introduce themselves.
+- reach out in {% slack_channel "coffee" %} to find a time to welcome the new employee at Team Coffee. Prepare them to unmute and introduce themselves.
 
 #### Within the first month
 
@@ -59,8 +59,7 @@ The list below has additional tasks that supervisors should complete in their ne
 
 In addition, confirm that the new employee has attended:
 
-- Their first TTS All Hands and TTS Consulting All Hands meetings
-- Their first 18F Team Coffee or CoE All Hands meeting
+- Their first TTS All Hands meeting
 - Introductory meetings with their staffing representative
 - Virtual coffees — suggest specific people for the new employee to meet
 
@@ -91,25 +90,25 @@ The outline below suggests topics to cover with new employees in their first two
   - Their interest in certain types of projects or policy areas
 - Coordinate with staffing to match these preferences to incoming work
 
-#### TTSC structure and roles
+#### TTS structure and roles
 
-- Explain the different layers of the organization: GSA > FAS > TTS > TTSC > 18F or CoE.
+- Explain the different layers of the organization: GSA > FAS > TTS > CoE.
   - Suggest correspondence codes as a way to place individuals within the reporting structure.
-- Review the [org charts]({% page "about-us/tts-consulting/operations/org-chart/" %}) and project roles. Explain: {% comment %}TODO: Link "project roles" to relevant sections in the handbook {% endcomment %}
+- Explain: {% comment %}TODO: Link "project roles" to relevant sections in the handbook {% endcomment %}
   - What different chapters or centers do
-  - What teams can look like at 18F or CoE
+  - What teams can look like
   - That we are a matrixed organization (“You’ll report to me, your functional manager. You’ll also have a project or engagement lead who will oversee day to day work.”)
   - How staffing works
-    - Make sure the new employee connects with staffing. If 18F, discuss TLC; if CoE, discuss shadow engagements.
+    - Make sure the new employee connects with staffing.
 
 #### Schedules and hours
 
 - Emphasize that the new employee should not work more than 40 hours per week.
-- Discuss TTSC [norms around scheduling]({% page "about-us/tts-consulting/operations/internal-communications/#scheduling-meetings" %}).
+- Discuss TTS [norms around scheduling]({% page "about-us/centers-of-excellence/operations/internal-communications/#scheduling-meetings" %}).
 
 #### Payroll and tracking time in Tock
 
-- Review [Tock guidance]({% page "about-us/tts-consulting/operations/tock/" %}), especially what is billable vs non-billable work.
+- Review [Tock guidance]({% page "about-us/centers-of-excellence/operations/tock/" %}), especially what is billable vs non-billable work.
 - Offer to demonstrate how to use Tock, what Tock entries can look like with time off or multiple projects, and how to submit a change request.
 - Link them to the [GSA payroll calendars](https://www.gsa.gov/buying-selling/purchasing-programs/shared-services/payroll-shared-services/payroll-calendars) so they know when they will get their first paycheck.
 
@@ -121,7 +120,7 @@ The outline below suggests topics to cover with new employees in their first two
 
 #### Emergency contacts
 
-- Get the person’s emergency contact information and add it to your work phone. Per the [18F Crisis and emergency support guide](https://docs.google.com/document/d/1WcnPOXttX_EteHtyrPK6KDhFMHNGG2bVNB_EzYqfm-k/edit#heading=h.30epgryt0eaj), we want everyone to provide emergency contact information to their supervisor and keep it up to date.
+- Get the person’s emergency contact information and add it to your work phone. Per the [TTS Crisis and emergency support guide](https://docs.google.com/document/d/1WcnPOXttX_EteHtyrPK6KDhFMHNGG2bVNB_EzYqfm-k/edit#heading=h.30epgryt0eaj), we want everyone to provide emergency contact information to their supervisor and keep it up to date.
 - Encourage the new employee to share your or another staff member’s contact information with a loved one in case of emergency.
 
 #### FOIA and what it means for us
@@ -132,13 +131,13 @@ The outline below suggests topics to cover with new employees in their first two
 
 #### Project expectations
 
-- Review the [project delivery section]({% page "about-us/tts-consulting/engagements/" %}) of this handbook.
+- Review the [project delivery section]({% page "about-us/centers-of-excellence/engagements/" %}) of this handbook.
 
 #### Organizational context
 
-- Orient the new employee to [TTSC and 18F or CoE mission and goals and history]({% page "about-us/tts-consulting/about/mission/" %}).
+- Orient the new employee to [TTS mission and goals and history]({% page "about-us/centers-of-excellence/about/mission/" %}).
 - Walk through how to know what’s in the business development pipeline.{% comment %}TODO: Link to BD pipeline section of engagements pages{% endcomment %}
-- Discuss TTSC’s approach to working with partners.{% comment %}TODO: Link to partner approach section of engagements pages{% endcomment %}
+- Discuss TTS’s approach to working with partners.{% comment %}TODO: Link to partner approach section of engagements pages{% endcomment %}
 
 #### Performance and personal development
 
@@ -157,43 +156,6 @@ Conversations with your new employee should also cover topics specific to their 
 
 - Refer to [Shareable CoE Onboarding May 2024](https://docs.google.com/presentation/d/13INHVwT6wrI_O_ct2qyVDj__dMrMbRYOF04w0z97kik/edit#slide=id.ge45d8b0279_0_0)
 
-##### 18F
-
-###### Account management
-
-- Agreements management
-- Budgets, Tock, and burn
-- Managing the pipeline process, kickoff, and the entire project delivery cycle
-- Partner Satisfaction Surveys: why we get feedback from our customers
-- Impact storytelling
-- Agreements management
-- How to show up as an empowered account manager
-
-###### Design
-
-- Review [Ethics and Privacy in User Research](https://docs.google.com/presentation/d/11jQwj7gUquNlq5GEut73WrEVDA1hU83vOrY4-WgsoxM/edit#slide=id.p)
-- Review [power dynamics in user research](https://guides.18f.gov/ux-guide/research/share-power/) and [user compensation](https://guides.18f.gov/ux-guide/research/plan/#compensating-research-participants)
-- Introduce the [Paperwork Reduction Act (PRA)](https://guides.18f.gov/ux-guide/research/legal/#the-paperwork-reduction-act-of-1995) and review [PRA clearance considerations](https://guides.18f.gov/ux-guide/research/legal/#pra-clearance-considerations)
-- Review disciplines and emphasizing that we have core competencies across disciplines (see role inventory){% comment %}TODO: Link to role inventory in Engagements section when it exists.{% endcomment %}
-- Set skill expectations for their discipline and share a pitch deck if you have one.
-- Understand where they have deep skills and where they want to grow.
-- Growth paths in design and training opportunities
-- Design tools we can use and that we leverage government-allowed workarounds: no Doodle, but can use Google appointments; no Optimal Workshop, but how we do card sorts, etc.
-
-###### Product
-
-- [18F product practices](https://docs.google.com/document/d/1gwkN9T2lP-9_4_yj9EBnoFSv1Ikcm-TKAkx_skpJfA8/edit#heading=h.4pbv4q5rwmbf)
-- Introduce the [Product Chapter Background Survey](https://airtable.com/shrTiiB53XryUowKB) and ask them to fill it in.
-- Product management in government
-- Product consulting and coaching vs. product ownership
-- Work with the product staffing lead to discuss the Product Chapter Background Survey.
-- Product management role responsibilities vis-a-vis account managers and project leads (who may or may not be product managers)
-- The history and evolution of the role at 18F
-- The need to clarify with the specific people on each project
-
-###### Engineering
-
-Refer to [the engineering guide](https://guides.18f.gov/engineering/)
 
 ###### Acquisition
 
@@ -206,10 +168,9 @@ Onboarding buddies are one of the first points of contact for a new employee at 
 - [TTS Onboarding Buddies Overview](https://docs.google.com/document/d/1rO4TRcqYM-j70cHC1y8Vabfwp9TWwp5WFF7BraSUxLk/edit#heading=h.87p1j88vrkez) explains what the role is and is not and what an onboarding buddy does.
 - [\[MAKE A COPY\] TTS Onboarding Buddy Checklist](https://docs.google.com/spreadsheets/d/1JPcm7QE6eF5Y82DGRl4DUMMlBza26FPxmkq3fybum5U/edit#gid=238273324) outlines all the tasks an onboarding buddy should do before and after the new employee arrives. Make a copy for yourself.
 - [How to be a great CoE onboarding buddy!](https://docs.google.com/document/d/12ykZHVH5O182dN7Hm6-6C9z-H3seKGZzDzaUqqo0OxI/edit?tab=t.0#heading=h.4oq35vyptb97) provides additional suggestions for onboarding buddies. Some portions of this document may be out of date.
-- Refer to the [handbook section on time tracking]({% page "about-us/tts-consulting/operations/tock/" %}) for instructions on how to bill your time as an onboarding buddy.
+- Refer to the [handbook section on time tracking]({% page "about-us/centers-of-excellence/operations/tock/" %}) for instructions on how to bill your time as an onboarding buddy.
 - Relevant Slack channels for onboarding buddies include:
   - {% slack_channel "wg-onboarding" %}
-  - {% slack_channel "18f-wg-onboarding" %}
   - {% slack_channel "newemployees-[startdate]" %}: This is the new employee’s cohort channel, which a TTS onboarding lead will create and invite them to join. Onboarding buddies can also join this channel.
 
 ### How to be a great onboarding buddy
@@ -231,13 +192,13 @@ Keep these principles in mind:
 - Help them find answers by putting them in touch with the appropriate person or Slack channel.
   - Model how to search for information (for example, in Slack).
   - Model how to ask questions in the appropriate channels.
-  - Encourage them to refer to the TTSC Handbook.
+  - Encourage them to refer to the TTS Handbook.
 
-#### Introduce them to TTSC people, culture, and practices
+#### Introduce them to TTS people, culture, and practices
 
-- Offer a personal spin on culture and practices by talking about your favorite TTS, 18F, and CoE stories, folklore, and customs.
+- Offer a personal spin on culture and practices by talking about your favorite TTS stories, folklore, and customs.
 - Contextualize information they’re getting in the first couple weeks. If a meeting includes a lot of acronyms or topics that require a lot of background, message them to help explain.
-- Help reinforce information in the moment. (For example, during the TTSC All Hands, remind them that #townhall typically has backchannel conversation).
+- Help reinforce information in the moment. (For example, during the TTS All Hands, remind them that #townhall typically has backchannel conversation).
 - Encourage the new employee to build their support network from the start.
   - Explain the practice of scheduling virtual coffees/teas. Emphasize that people happily accept coffee invites. Give recommendations of people you think they should meet or offer to make connections. Introduce them to [coffee bingo](https://docs.google.com/document/d/1gmPfTYBx29ySJY2b5MOzX392UREDpSPvyh7k53oSI6I/edit)!
   - Acknowledge that people have different levels of energy for social interactions.

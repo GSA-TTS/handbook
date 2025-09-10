@@ -38,7 +38,7 @@ correcting for unconscious bias.
 
 - [TTS Interview Prep Session slides](https://docs.google.com/presentation/d/17ZNmfN40kPOUlF5e6Xix7UlUH02gKQAkY23MhQusPxw/edit#slide=id.p1)
 - [Interviewing for TTS 101](https://docs.google.com/document/d/13MdNbFeWgKWMycdlAhkNSG6Eet3_NAVETnpuIweuMrU/edit#heading=h.arj274vgsryn)
-- [Merit Systems Principles Hiring Practices](https://handbook.tts.gsa.gov/hiring-staying-or-changing-jobs/fair-and-equitable-hiring-practices)
+- [Merit Systems Principles Hiring Practices]({% page "/hiring-staying-or-changing-jobs/fair-and-equitable-hiring-practices" %})
 
 ## Promotions
 

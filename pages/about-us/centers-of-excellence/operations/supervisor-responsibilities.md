@@ -2,9 +2,9 @@
 title: Supervisor responsibilities
 ---
 
-Supervisor responsibilities are generally outlined in the [TTS New Supervisor Playbook]({% page "supervisor-resources/new-supervisor-playbook/" %}) and the [TTS Supervisors Guide](https://docs.google.com/document/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit#heading=h.5m4e2v6ntbj1). [Performance plans]({% page "about-us/tts-consulting/operations/performance/" %}) also lay out specific expectations for TTSC supervisors.
+Supervisor responsibilities are generally outlined in the [TTS New Supervisor Playbook]({% page "supervisor-resources/new-supervisor-playbook/" %}) and the [TTS Supervisors Guide](https://docs.google.com/document/d/14bSqkCzfxvf5lI7k_LwSK8MLDnImqjrQFTXrtTcwcEY/edit#heading=h.5m4e2v6ntbj1). [Performance plans]({% page "about-us/centers-of-excellence/operations/performance/" %}) also lay out specific expectations for TTS supervisors.
 
-At a high-level, TTSC supervisors are expected to provide their direct reports with:
+At a high-level, TTS supervisors are expected to provide their direct reports with:
 
 - Being a thought partner and reviewer for engagement work, ensuring the deliverables meet quality standards *and* advance the engagement goals
 - Help completing administrative tasks
@@ -19,15 +19,11 @@ Supervisors are also expected to contribute to organizational initiatives and fu
 - Facilitating the Delivery Assurance team (aka TLC Crew) and ensuring individual contributors not assigned to partner work are contributing to organizational initiatives productively
 - Leading necessary working groups
 
-TTSC supervisors are also responsible for regularly conducting the following administrative tasks:
+TTS supervisors are also responsible for regularly conducting the following administrative tasks:
 
 ## Weekly
 
-- Check that your direct reports are [Tocking correctly]({% page "about-us/tts-consulting/operations/tock/#supervisor-review" %}).
-- 18F: Fill out the [data check form](https://airtable.com/app1anoO5i5d3RJRA/pagYbQmUcGgPS4lEt/form). Report any Airtable discrepancies, and follow up with your direct report on any necessary Tock changes.
-- 18F: Read {% slack_channel "#the-shipping-news" %} for your direct reports’ projects
-- 18F: Review [project health reports](https://airtable.com/appsLLLryeqBK2V9d/paguMwC2PYWUhaokc) for your direct reports’ projects
-- 18F: Attend GMT meetings.
+- Check that your direct reports are [Tocking correctly]({% page "about-us/centers-of-excellence/operations/tock/#supervisor-review" %}).
 - CoE: Attend “CoE Management Weekly” meetings
 
 ## Fortnightly

@@ -3,21 +3,21 @@ title: Conduct and norms
 cspell: ignore backchannel, Gchat, backchanneling
 ---
 
-At TTSC, we follow various policies and practices. In everything we do, we strive to create a work environment that encourages collaboration — both with our partners and each other.
+At TTS, we follow various policies and practices. In everything we do, we strive to create a work environment that encourages collaboration — both with our partners and each other.
 
 In general, err on the side of over-communication, such as by asking clarifying questions and restating information to confirm understanding.
 
 - **Default to open conversations** in the widest appropriate forum.
 - **Document and make work visible to others.** Storing information in your head or notebook makes collaboration and handoffs more difficult.
-- **Set aside time for meeting prep** to help attendees use time efficiently and come ready to contribute. ([18F blog post: How to run an efficient meeting](https://18f.gsa.gov/2016/12/14/how-to-run-an-efficient-meeting/))
+- **Set aside time for meeting prep** to help attendees use time efficiently and come ready to contribute.
 
 ## Codes of conduct
 
-As employees of GSA, FAS, TTS, and TTS Consulting, we are required to adhere to these codes of conduct:
+As employees of GSA, FAS, and TTS we are required to adhere to these codes of conduct:
 
 - [GSA Information Technology (IT) General Rules of Behavior](https://insite.gsa.gov/directives-library/gsa-information-technology-it-general-rules-of-behavior-4)
 - [TTS Code of Conduct]({% page "about-us/code-of-conduct/" %})
-- [TTSC Slack Code of Conduct](#interacting-on-slack)
+- [TTS Slack Code of Conduct](#interacting-on-slack)
 
 If you have a question about the codes of conduct, reach out to your supervisor.
 
@@ -27,7 +27,7 @@ The following practices help us collaborate.
 
 ### Working hours
 
-TTSC staff are spread across many time zones, states, and territories. Indicate your working hours on your Google calendar, and be mindful of your colleagues’ time zones.
+TTS staff are spread across many time zones, states, and territories. Indicate your working hours on your Google calendar, and be mindful of your colleagues’ time zones.
 
  If you work outside of standard business hours, take care not to imply that others should do the same: use the scheduled send functions in Slack and Gmail so that messages arrive during standard business hours.
 
@@ -35,7 +35,7 @@ TTSC staff are spread across many time zones, states, and territories. Indicate 
 
 Using Slack at TTS is different from using Slack at other workplaces because we’re federal employees, and Slack is a [Public Record System](https://insite.gsa.gov/employee-resources/directives-forms-and-regulations/records-and-information-management/search-gsas-record-schedules). That means that — like email and recorded meetings — it is subject to the [Freedom of Information Act (FOIA)](https://www.foia.gov/).
 
-Follow the TTSC Slack Code of Conduct:
+Follow the TTS Slack Code of Conduct:
 
 {% alert "" "" "" "no-icon" %}
   **Be kind**
@@ -80,4 +80,4 @@ In discussion-based meetings, pay attention to whose voices dominate. If you not
 - Silent writing time in a shared document (such as a Google Doc or Mural), provides a way for participants to contribute without speaking out loud.
 - Explicitly inviting input from specific individuals — either in the meeting (“Herbert, what do you think? I know you have expertise in this area”) or privately (by DMing them to say that you would value their opinion) — can encourage quieter team members to share their ideas.
 
-For information about meeting platforms, see [internal communications]({% page "about-us/tts-consulting/operations/internal-communications/" %}).
+For information about meeting platforms, see [internal communications]({% page "about-us/centers-of-excellence/operations/internal-communications/" %}).

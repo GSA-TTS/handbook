@@ -17,14 +17,14 @@ If you're not familiar with how to edit Markdown through GitHub, start with our
 - Make your changes. For more information about how to author Handbook content,
   refer back to the [Making your updates section]({% page
   "updating-the-handbook/#making-your-updates" %}) of the intro page.
-- At the bottom of the page, you will have an opportunity to provide some text
-  describing this edit. This will be used as part of the default description
-  text when you open your pull request (PR) in the next step. You may leave it
-  blank if you wish as you will have a chance to edit the PR text directly.
-- Make sure `Create a new branch for this commit and start a pull request` is
-  selected. Check the automatically-generated branch name in the text box below
-  that selection – you will need it later if you want to edit multiple files as
-  part of the same pull request – and click the `Propose changes` button.
+- If you do not have write access to the repository, saving these changes will
+  fork the repository. Commit your changes and a pull request will automatically
+  open.
+- If you do have write access, make sure `Create a new branch for this commit
+  and start a pull request` is selected. Check the automatically-generated
+  branch name in the text box below that selection – you will need it later if
+  you want to edit multiple files as part of the same pull request – and click
+  the `Propose changes` button.
 - On the pull request page, give your PR a short title that helps people quickly
   identify what it does. Feel free to provide more information in the
   description field.
@@ -42,7 +42,7 @@ to use a desktop file editor. Doing it directly in GitHub is a bit more
 complicated.
 
 - After editing your first file as described above, navigate to the
-  [list of branches](https://github.com/18F/handbook/branches), find the one you
+  [list of branches](https://github.com/GSA-TTS/handbook/branches), find the one you
   created above, and click it. This will display a list of all files in the
   Handbook, but as they exist on your branch.
 - Browse the file tree to find the ones you want to edit. Click a filename to

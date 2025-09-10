@@ -92,7 +92,7 @@ The **GSA Website Manager** CAP must be approved by the GSA Pages system owner, 
 ## Incident Response
 **In the event of a security incident:**
 
-Follow [TTS Incident Response Plan](https://handbook.tts.gsa.gov/general-information-and-resources/tech-policies/security-incidents/)
+Follow [TTS Incident Response Plan]({% page "/general-information-and-resources/tech-policies/security-incidents" %})
 
 ## Contingency Plan
 **In the event of an outage:**

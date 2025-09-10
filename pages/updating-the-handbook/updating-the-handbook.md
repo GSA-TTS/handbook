@@ -24,21 +24,19 @@ Before you make your contribution, there are a few things to remember:
 - This Handbook website and repository are public. Use links to internal Google Docs, Sheets, etc. for
   anything that shouldn't be publicly visible.
 - We're careful about publishing
-  [information collected during research](https://handbook.tts.gsa.gov/research-guidelines/);
+  [information collected during research]({% page "/research-guidelines" %})
   [learn more](https://docs.google.com/document/d/1Xp4LxbW6cx61rXrsnnfIPCz6cglovHzZeEjCcnpIeaM/edit)
   and ask {% slack_channel "g-research" "the research guild" %} for guidance
   first.
 - Avoid "click here" links. Follow the
   [A11Y Project Anchor Link Patterns](https://a11yproject.com/patterns/#anchors-links).
-- We follow the structure outlined in the
-  [18F Content Guide](https://content-guide.18f.gov/our-approach/structure-the-content/).
 
 There is also some information that should **not** be included in the Handbook:
 
 - We receive training on this, but here are a few reminders about things we shouldn't
   include in the Handbook:
 
-  - [Sensitive information](https://handbook.tts.gsa.gov/sensitive-information/)
+  - [Sensitive information]({% page "/sensitive-information" %})
   - Comments that can be easily interpreted as
     [endorsements](https://www.oge.gov/web/oge.nsf/Use%20of%20Government%20Position%20and%20Resources/17593AE8B3A597C685257E96006364E4?opendocument)
     (or other potential ethical issues)
@@ -51,11 +49,7 @@ There is also some information that should **not** be included in the Handbook:
     - Information that is already well-covered on GSA InSite - link there
       instead of reproducing it.
     - Specific TTS org chart info (such as lists of names of supervisors and
-      facilitators). Link to the
-      [TTS org chart](https://handbook.tts.gsa.gov/tts-org-chart/), the
-      [18F org chart](https://handbook.tts.gsa.gov/org-chart/), or the
-      [Solutions org chart](https://handbook.tts.gsa.gov/opp-org-chart/)
-      instead.
+      facilitators).
 
 ## Choosing a development environment
 
@@ -175,15 +169,12 @@ If you're not sure, ask for a second opinion in
 
 ## Content and accessibility
 
-The handbook follows the [18F content guide](https://content-guide.18f.gov), and
-all content should follow web accessibility best practices. Remember to use
-[descriptive link text](https://content-guide.18f.gov/urls-and-filenames/#link-text).
+The handbook aims to follow [GSA's Accessibility Program](https://www.gsa.gov/website-information/accessibility-statement)
 
 ## File/folder structure
 
 New files should be created in the `pages` directory and in the sub-directory
-that makes the most sense for your content. For example, a new page on an 18F
-process should go in the `pages/18f` directory.
+that makes the most sense for your content. For example, a new page on an `topic` should go in the `pages/topic` directory.
 
 Images that should appear in the Handbook should be placed in the `_img`
 directory. You can create addition subdirectories and nest them however you need

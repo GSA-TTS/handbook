@@ -2,16 +2,16 @@
 title: Engagement overview
 ---
 
-Our work with government partners is the primary way TTSC delivers on our mission. This work is how we help agencies modernize technology systems and build their staff’s capacity.
+Our work with government partners is the primary way TTS delivers on our mission. This work is how we help agencies modernize technology systems and build their staff’s capacity.
 
-Historically, 18F has referred to this work as “projects” and CoE has called them “engagements.” As part of our realignment, we are standardizing this language:
+Historically, TTS has referred to this work as “projects” and CoE has called them “engagements.” As part of our realignment, we are standardizing this language:
 
 - **Projects** are focused around addressing a specific service challenge or problem
 - **Engagements** are generally a broader effort which can contain one or more projects
 
-Both require deep alignment and support of the partner, and can be staffed with 18F people, CoE people, or a combination of the two.
+Both require deep alignment and support of the partner, and can be staffed with TTS people, CoE people, or a combination of the two.
 
-Engagements for both 18F and CoE generally move through the same phases:
+Engagements for both TTS and CoE generally move through the same phases:
 
 - [Set up](#set-up-phase-of-engagements)
 - [Discovery](#discovery-phase-of-engagements)
@@ -26,7 +26,7 @@ Some notes on engagement phases:
 
 - **We balance project management, delivery, and capacity building throughout these phases** to meet the partner’s needs and achieve our mission.
 
-- **The Implementation phase frequently includes some kind of acquisition** (either an assisted acquisition operated by TTS Consulting, or acquisition consulting with a partner’s acquisition folks). The sequence and duration of acquisition work depends on the needs of the partner. CoE tends to do the acquisition work right at the beginning of Implementation, while 18F typically does any acquisition work in parallel with the Implementation activities conducted by our fed team.
+- **The Implementation phase frequently includes some kind of acquisition** (either an assisted acquisition operated by TTS, or acquisition with a partner’s acquisition folks). The sequence and duration of acquisition work depends on the needs of the partner. CoE tends to do the acquisition work right at the beginning of Implementation, while TTS typically does any acquisition work in parallel with the Implementation activities conducted by our fed team.
 
 - **Depending on the phase and scope of your project, there are various standards for delivery and compliance** that your team needs to adhere to. When relevant to common activities, laws, regulations, standards, and/or best practices are highlighted.
 
@@ -34,7 +34,7 @@ Some notes on engagement phases:
 
 In the set up phase, our goals are to:
 
-- Understand the scope of problem (identify the organizational problem or need) and pitch how TTS Consulting can help
+- Understand the scope of problem (identify the organizational problem or need) and pitch how TTS can help
 - Set expectations on the level of effort, team composition, and cost to our partners
 - Establish a legal agreement to provide funding for a team
 - Onboard the team and bring them up to speed on expectations set
@@ -54,7 +54,7 @@ To achieve these goals, we typically:
 
 We know we have been successful when:
 
-- TTSC has the authority, funding, and staff to conduct an engagement
+- TTS has the authority, funding, and staff to conduct an engagement
 - The team can bill against inter-agency agreement (IAA)
 - Partner and engagement team know the scope that was agreed upon
 
@@ -79,7 +79,7 @@ We know we have been successful when:
 - Research validates the core problem or need (or the problem or need is shifted to match the research), and the partner understands and trusts the research performed
 - The first slice of implementation is identified and validated, and the partner is aligned on this path
 - An assessment of the organization’s maturity is conducted and the first slice of capacity building is identified
-- Recommend who will deliver first slice of implementation — 18F team, industry partner, or other
+- Recommend who will deliver first slice of implementation — TTS team, industry partner, or other
 
 ## Implementation {#implementation-phase-of-engagements}
 
@@ -87,7 +87,7 @@ In the implementation phase, our goals are to:
 
 - Build trust in the path forward by delivering on the first slice of work
 - Continuously validate and correct the delivery path to de-risk overall effort
-- Enable partner to continue the work after TTS Consulting departs
+- Enable partner to continue the work after TTS departs
 
 To achieve these goals, we frequently:
 
@@ -111,8 +111,8 @@ We know we have been successful when:
 
 In the handover phase, our goals are to:
 
-- Reduce dependency on TTSC so partner can continue digital modernization work
-- Prepare TTSC and partner to speak to the outcomes achieved
+- Reduce dependency on TTS so partner can continue digital modernization work
+- Prepare TTS and partner to speak to the outcomes achieved
 - Document and share what we have learned together
 
 To achieve these goals, we:
@@ -123,7 +123,7 @@ To achieve these goals, we:
 
 We know we have been successful when:
 
-- Partner is fully operating product without TTSC support and tools
-- Case studies, blog posts, or talking points are prepared for both TTSC and the partner to describe the outcomes achieved
-- TTSC practices are updated based on lessons learned if applicable
+- Partner is fully operating product without TTS support and tools
+- Case studies, blog posts, or talking points are prepared for both TTS and the partner to describe the outcomes achieved
+- TTS practices are updated based on lessons learned if applicable
 - Engagement is administratively closed

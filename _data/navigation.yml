@@ -396,159 +396,55 @@ primary:
           - text: Contractors
             url: contractors/
             internal: true
-      - text: TTS Consulting
-        main-file-path: /about-us/tts-consulting/
+      - text: TTS Centers of Excellence
+        main-file-path: /about-us/centers-of-excellence/
         use_section_menu: true
         children:
-          - text: About TTS Consulting
-            main-file-path: /about-us/tts-consulting/about/
+          - text: About TTS Centers of Excellence
+            main-file-path: /about-us/centers-of-excellence/about/
             children:
               - text: Mission, approach, and history
-                url: about-us/tts-consulting/about/mission/
+                url: about-us/centers-of-excellence/about/mission/
               - text: Success measures
-                url: about-us/tts-consulting/about/planning/
-              - text: About the TTS Consulting Handbook
-                url: about-us/tts-consulting/about/handbook/
+                url: about-us/centers-of-excellence/about/planning/
+              - text: About the TTS Centers of Excellence Handbook
+                url: about-us/centers-of-excellence/about/handbook/
           - text: Engagements
-            main-file-path: /about-us/tts-consulting/engagements/
+            main-file-path: /about-us/centers-of-excellence/engagements/
             children:
               - text: Engagement overview
-                url: about-us/tts-consulting/engagements/
+                url: about-us/centers-of-excellence/engagements/
           - text: Operations
-            main-file-path: /about-us/tts-consulting/operations/
+            main-file-path: /about-us/centers-of-excellence/operations/
             children:
               - text: "New folks: start here"
-                url: about-us/tts-consulting/operations/welcome/
+                url: about-us/centers-of-excellence/operations/welcome/
               - text: Onboarding new staff
-                url: about-us/tts-consulting/operations/onboarding/
+                url: about-us/centers-of-excellence/operations/onboarding/
               - text: Laws and regulations
-                url: about-us/tts-consulting/operations/regulations/
+                url: about-us/centers-of-excellence/operations/regulations/
               - text: Terminology and glossaries
-                url: about-us/tts-consulting/operations/glossary/
-              - text: Organization structure and leadership
-                url: about-us/tts-consulting/operations/org-chart/
+                url: about-us/centers-of-excellence/operations/glossary/
               - text: Tracking your time and Tock
-                url: about-us/tts-consulting/operations/tock/
+                url: about-us/centers-of-excellence/operations/tock/
               - text: Records management
-                url: about-us/tts-consulting/operations/records/
+                url: about-us/centers-of-excellence/operations/records/
               - text: Conduct and norms
-                url: about-us/tts-consulting/operations/conduct-and-norms/
+                url: about-us/centers-of-excellence/operations/conduct-and-norms/
               - text: Internal communications
-                url: about-us/tts-consulting/operations/internal-communications/
+                url: about-us/centers-of-excellence/operations/internal-communications/
               - text: Performance management
-                url: about-us/tts-consulting/operations/performance/
+                url: about-us/centers-of-excellence/operations/performance/
               - text: Organizational financial management
-                url: about-us/tts-consulting/operations/finance/
+                url: about-us/centers-of-excellence/operations/finance/
               - text: Brand management
-                url: about-us/tts-consulting/operations/brand/
+                url: about-us/centers-of-excellence/operations/brand/
               - text: Training and professional development
-                url: about-us/tts-consulting/operations/training/
+                url: about-us/centers-of-excellence/operations/training/
               - text: Operational initiatives and maintenance support
-                url: about-us/tts-consulting/operations/delivery-assurance/
-              - text: Management oversight of projects
-                url: about-us/tts-consulting/operations/oversight/
+                url: about-us/centers-of-excellence/operations/delivery-assurance/
               - text: Supervisor responsibilities
-                url: about-us/tts-consulting/operations/supervisor-responsibilities/
-              - text: Managing public or shared resources
-                url: about-us/tts-consulting/operations/shared-resources/
-      - text: 18F
-        children:
-          - text: About 18F
-            children:
-              - text: 18F history and values
-                url: 18f-history-and-values/
-                internal: true
-              - text: 18F org chart
-                url: https://docs.google.com/presentation/d/189TanLPSFF9MWvNr6VdfUvhBAWBSXeoCSGD2ZXRDm3s/edit#slide=id.g54b7f7db38_18_0
-                internal: false
-          - text: How we work
-            children:
-              - text: Time tracking and billing
-                url: tools/tock/#time-tracking-and-billing
-                internal: true
-              - text: High-level project lifecycle
-                url: 18f-project-lifecycle/
-                internal: true
-              - text: How we staff projects
-                url: staffing-projects/
-                internal: true
-              - text: Account management policy
-                url: client-accounts/
-                internal: true
-              - text: One-on-ones
-                url: one-on-ones/
-                internal: true
-              - text: Performance plan (FY22)
-                url: https://docs.google.com/document/d/1456ZSIOf6Pp6rcNCdKd82dwXOYv1sARxAwbVytxRXls
-                internal: false
-              - text: Open source policy
-                url: https://github.com/18F/open-source-policy/blob/master/policy.md
-                internal: false
-              - text: State and local agreements
-                url: state-local-agreements/
-                internal: true
-          - text: 18F projects
-            children:
-              - text: 18F business development
-                url: 18f-bd/
-                internal: true
-              - text: Consulting with partners
-                url: how-we-relate-to-partners/
-                internal: true
-              - text: Working with partners
-                url: how-we-collaborate/
-                internal: true
-              - text: Sharing calendars with partners
-                url: sharedcalendars/
-                internal: true
-              - text: Leading projects
-                url: leading-projects/
-                internal: true
-              - text: Successful project teams
-                url: project-teams/
-                internal: true
-              - text: Managing projects in distress
-                url: projects-in-distress/
-                internal: true
-              - text: Working on an acquisition engagement
-                url: working-on-an-acquisition-engagement/
-                internal: true
-                children:
-                  - text: Acquisition engagement types
-                    url: acquisition-engagement-types/
-                    internal: true
-                  - text: Acquisition engagement glossary
-                    url: 18f/projects-partners/working-on-an-acquisition-engagement/#acquisition-glossary
-                    internal: true
-          - text: 18F chapters
-            children:
-              - text: Account management
-                url: account-manager/
-                internal: true
-              - text: Acquisition
-                url: acqstack/
-                internal: true
-              - text: Design
-                url: design/
-                internal: true
-              - text: Engineering
-                url: engineering/
-                internal: true
-              - text: Product
-                url: product/
-                internal: true
-          - text: 18F team resources
-            children:
-              - text: Leadership selection guide
-                url: leadership-selection/
-              - text: Leadership candidate guide
-                url: leadership-candidate-guide/
-              - text: Doing research at TTS
-                url: research-guidelines/
-                internal: true
-              - text: Accessing DoD systems
-                url: accessing-dod-systems/
-                internal: true
+                url: about-us/centers-of-excellence/operations/supervisor-responsibilities/
       - text: TTS Solutions
         children:
           - text: About TTS Solutions
@@ -559,9 +455,6 @@ primary:
               - text: Solutions history
                 url: office-of-solutions/history/
                 internal: true
-              - text: Solutions org chart
-                url: office-of-solutions/org-chart/
-                internal: false
           - text: Portfolios
             children:
               - text: Data
@@ -585,14 +478,6 @@ primary:
               - text: 10x
                 url: https://10x.gsa.gov
                 internal: false
-      - text: Centers of Excellence (CoE)
-        children:
-          - text: Overview of CoE
-            url: centers-of-excellence/
-            internal: true
-          - text: CoE website
-            url: https://coe.gsa.gov/
-            internal: false
       - text: Presidential Innovation Fellows (PIF)
         children:
           - text: PIF website
@@ -676,7 +561,7 @@ primary:
             url: github/
             internal: true
           - text: Infrastructure (cloud.gov, AWS, etc.)
-            url: https://before-you-ship.18f.gov/infrastructure/
+            url: infrastructure/
             internal: false
           - text: Mural (collaborative whiteboard tool)
             url: tools/mural/
@@ -685,7 +570,7 @@ primary:
             url: qualtrics/
             internal: true
           - text: Security scanning
-            url: https://before-you-ship.18f.gov/security/scanning/
+            url: launching-software/security/
             internal: false
           - text: Smartsheet
             url: tools/smartsheet/

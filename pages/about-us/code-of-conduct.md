@@ -44,7 +44,7 @@ you to look to these principles for guidance:
 - Listen carefully and actively.
 - Ask questions, and seek to understand your partners' context.
 - Encourage other people to listen as much as they speak.
-- Treat others with respect. 
+- Treat others with respect.
 
 ## Unacceptable Behavior
 
@@ -94,7 +94,7 @@ TTS:
 - Mocking someone's real or perceived accent or first language.
 - Repeatedly interrupting or talking over other people in meetings and
   discussions.
-- Negative or offensive remarks based on gender expression, mental illness,
+- Negative or offensive remarks based on sex, mental illness,
   socioeconomic status or background, neuro(a)typicality, physical appearance,
   or body size.
 - Using emoji or creation of custom emoji for unacceptable behavior.

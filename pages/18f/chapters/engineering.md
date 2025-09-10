@@ -46,7 +46,7 @@ probably be able to find someone to help you with whatever question you have.
 
 ### Structure
 
-As per [the org chart]({% page "/org-chart" %}), 18F Engineering is itself
+Engineering is itself
 composed of smaller, “engineering teams” which we call cohorts. A cohort shares
 a supervisor and serves as small communities of practice to encourage
 cross-pollination that might not otherwise occur in a large, distributed team.

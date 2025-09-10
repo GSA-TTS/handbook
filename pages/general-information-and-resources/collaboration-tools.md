@@ -33,7 +33,7 @@ For each tool mentioned below, we include links to:
 
 **[Slack]({% page "/tools/slack/" %})** is an instant messaging tool that uses
 themed chat rooms (called channels) to help teams quickly communicate on a daily
-basis, in an open, collaborative way. The 18F team will create a channel for
+basis, in an open, collaborative way. The TTS team will create a channel for
 your project in our Slack workspace, which you can access from your web browser.
 It may be useful to read about
 [what managers need to know about social tools](https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools)
@@ -80,7 +80,7 @@ tools]({% page "/getting-started/classes/meetings-and-meeting-tools/#videoconfer
 
 **[Google Drive]({% page "/google-drive/" %})** is a storage and collaboration
 platform for spreadsheets, slide decks, and text documents. Documents on Google
-Drive are not public, but can be shared among team members. 18F can give your
+Drive are not public, but can be shared among team members. TTS can give your
 team access to our Google Drive so everyone can collaborate.
 
 <details markdown="block">
@@ -155,7 +155,7 @@ boards can be private or public.
 - **[Smartsheet]({% page "/tools/smartsheet/" %})**
 - **[ZenHub:](https://www.zenhub.com/)** Works within GitHub and provides
 higher-level scoping and linking (e.g., epics and dependencies). Unfortunately,
-[we cannot expand use at GSA](https://github.com/18F/tts-tech-operations/issues/1040).
+[we cannot expand use at GSA](https://github.com/GSA-TTS/tts-tech-operations/issues/1040).
 </details>
 
 Here are some common barriers to using Trello with partners and some workarounds
@@ -190,9 +190,9 @@ try:
 ### Development and Documentation
 
 **[GitHub]({% page "/github/" %})** is an online code storage and collaboration
-platform. 18F will create a repository (commonly called a repo) for the project
-and use it to store both documents and code. By default, 18F's work with your
-team on GitHub will be visible to the public. Your 18F team can tell you more
+platform. TTS will create a repository (commonly called a repo) for the project
+and use it to store both documents and code. By default, TTS's work with your
+team on GitHub will be visible to the public. Your TTS team can tell you more
 about the benefits of working in the open. Teams may also use GitHub, as well as
 browser add-ons that complement it, to collaboratively track project tasks.
 
@@ -287,16 +287,16 @@ at this stage are to:
 - **Identify any potential barriers** to the shared use of collaborative tools,
   so they can potentially be resolved before the project begins
 
-Early in the project, 18F and the partner team should agree upon a basic suite
+Early in the project, TTS and the partner team should agree upon a basic suite
 of collaboration tools to support team activities. Consider these general
 strategies:
 
 - **Meet clients where they are.** If a partner already has a tool they use
   regularly to accomplish the same goal, it's likely worth it to make use of
   established workflows, even if the tool doesn't have as many bells and
-  whistles as another tool that 18F staff uses.
+  whistles as another tool that TTS staff uses.
 - **Trial and error.** It may take a few cycles to figure out which tools work
-  best for 18F and the partner team. Working through any issues with different
+  best for TTS and the partner team. Working through any issues with different
   tools in a Sprint 0 can be an effective way to set up the remainder of the
   engagement for success.
 - **Troubleshoot with others.** Ask in Slack to see if your teammates have faced

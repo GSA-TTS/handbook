@@ -51,7 +51,6 @@ Here's what various prefixes and suffixes mean:
 | `-shared`     | Channels that are linked with another Slack org.                                                                                                                                                                                            |
 | `wg-`         | [Working groups]({% page "/training-and-development/working-groups-and-guilds-101/#working-groups-in-tts" %})                                                                                                                               |
 | `g-`          | [Guilds]({% page "/training-and-development/working-groups-and-guilds-101/#guilds-in-tts" %})                                                                                                                                               |
-| `c-`          | [18F Collectives]({% page "/training-and-development/working-groups-and-guilds-101/#collectives-in-18f" %})                                                                                                                                 |
 
 Feel free to join any of these channels even if you are not actively part of the
 group and are just interested.

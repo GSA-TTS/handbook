@@ -21,14 +21,14 @@ Think about what you want to accomplish in the conversation. Do you want to cele
 This reflection allows you to hone in on your key message, as well as see what might get in the way. Do you have positive things to say, and you need time to think through what specifically is going well? Is the feedback you want to deliver not just one message but multiple, unaddressed frustrations? Which is the most important to be addressed first?
 
 ### Sandwiches are for eating, not for feedback
-You may have been taught the “sandwich method” of using 2 bread “compliments” around a filling of constructive feedback. 
+You may have been taught the “sandwich method” of using 2 bread “compliments” around a filling of constructive feedback.
 
 However, this method tends to lead to insincere compliments, can feel manipulative, and makes people suspicious about positive feedback because they know hard feedback is coming.
 
 In short, feedback is best when it’s not muddied with other messaging.
 
 ## Do a “flip it to test it” bias check
-Imagine that the person you are giving feedback to was a different gender, race, age, etc. If they had a different identity, how would you provide feedback? Would you be giving the feedback at all?
+Imagine that the person you are giving feedback to was a different sex, race, age, etc. If they had a different identity, how would you provide feedback? Would you be giving the feedback at all?
 
 This is sometimes called the “[flip it to test it](https://www.youtube.com/watch?v=Bq_xYSOZrgU)” approach. It helps us examine our content, tone, severity, etc. for unconscious bias.
 

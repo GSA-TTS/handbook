@@ -18,9 +18,7 @@ to use our Google Drive.
 
 - Everything in Google Drive can be FOIA’ed.
 - You can share files with the entire TTS team by adding
-  [tts@gsa.gov](mailto:tts@gsa.gov),
-  [opp-team@gsa.gov](mailto:opp-team@gsa.gov), or
-  [18f-team@gsa.gov](mailto:18f-team@gsa.gov) in the Share menu.
+  [tts@gsa.gov](mailto:tts@gsa.gov) to the share list. Select NOT to notify.
 - You can share files with any GSA employee — but don't default to sharing with
   _all_ of GSA. GSA will change your permissions if they are too open, and files
   that contain sensitive information will also be blocked via
@@ -64,8 +62,6 @@ to use our Google Drive.
 - When you’re at work, make sure you're using your GSA account and not your
   private account, especially when working with outside partners. Official GSA
   documents must live in your GSA Google Drive for compliance reasons.
-- Visit [the 18F brand guide](https://brand.18f.gov/templates/) for default 18F
-  document styles/templates.
 
 ### Google Drive Tips
 
@@ -118,7 +114,6 @@ submittals.
 If you're using a non-Google service and it requests access to your GSA Google
 Drive (such as to enable an integration feature), please deny that request. In
 other words, don't grant OAuth access to GSA Google Drive.
-[Here's a blog post on this policy](https://18f.gsa.gov/2016/05/13/how-18f-handles-information-security-and-third-party-applications/).
 To ensure no access is enabled, you can check
 [Google's list of "Apps connected to your account"](https://security.google.com/settings/security/permissions),
 expand each item, and look for the Google Drive icon. Here's an example of what

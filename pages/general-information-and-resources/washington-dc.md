@@ -167,17 +167,16 @@ You can reference the latest [2400 seating layout](https://docs.google.com/prese
 
 ### Book rooms for meetings
 
-The 2400 wing has six small (3-4 people max) conference rooms that can be reserved directly in Google Calendar following [instructions on Insite[](https://insite.gsa.gov/employee-resources/information-technology/apps-software/reserve-rooms-and-parking#availability). You can add the room calendars to your personal calendar to more easily view upcoming availability.
+The 2400 wing has six small (3-4 people max) conference rooms that can be reserved directly in Google Calendar following [instructions on Insite](https://insite.gsa.gov/employee-resources/information-technology/apps-software/reserve-rooms-and-parking#availability). You can add the room calendars to your personal calendar to more easily view upcoming availability.
 
 There are also bookable rooms in the 7400 wing.
-
 
 ### Mail something to the office
 
 Send mail to:
 
 > (you can add "ATTN: Name" at top if desired) <br> General Services
-> Administration <br> 1800 F ST NW <br> Rm G100 <br> Washington, DC 20405-0001
+> Administration <br> 1800 F ST NW <br> Rm 2400 <br> Washington, DC 20405-0001
 
 ### Access the building after hours
 

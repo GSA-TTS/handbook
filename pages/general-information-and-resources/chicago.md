@@ -118,7 +118,7 @@ Your GSA ID grants you access to the building at any time between 7 a.m. and 6
 p.m. The gates are located by the elevator banks on the south side of the
 building.
 
-To set up turnstile access on your badge, make an appointment using the calendar [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUYtMlFDQlRoTG10fGRlZmF1bHR8NWY2YTg2MTQzZWIwMmVhNjFiZGI3YTEwNmZmOWM1NjU). You'll need to know
+To set up turnstile access on your badge, make an appointment using the calendar [here]([https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUYtMlFDQlRoTG10fGRlZmF1bHR8NWY2YTg2MTQzZWIwMmVhNjFiZGI3YTEwNmZmOWM1NjU](https://calendar.app.google/3Q83cazdYFkNeUaw5)). You'll need to know
 your PIN. If you don't know your PIN, or your badge is not activated, you'll
 need to [make an appointment online](https://portal.usaccess.gsa.gov/scheduler/select-agency?v=20803) for the badging office in room 212.
 

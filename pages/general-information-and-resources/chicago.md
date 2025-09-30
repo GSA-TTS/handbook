@@ -136,7 +136,7 @@ See [Logging in &amp; Networks]({% page "/how-to-log-in/" %}) for details.
 
 ### Where can I find other people from TTS?
 
-TTS has it's own section on the northwest coner of 35 (look for the "Green line" TTS signs" TTS Chicago-area staff work remotely full-time. There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
+TTS has its own section on the northwest corner of 35 (look for the "Green line" TTS signs" TTS Chicago-area staff work remotely full-time. There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
 
 ## Where are the...?
 

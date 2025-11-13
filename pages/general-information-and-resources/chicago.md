@@ -186,4 +186,4 @@ There is no dress code officially, but business casual is what you'll encounter 
 
 ## Who can I contact if I have questions about the office space?
 
-TTS no longer has formal operations support for the Chicago office. However, [jckfieldoffice@gsa.gov](mailto:jckfieldoffice@gsa.gov) should be able to answer most of your building-related questions. [Janie Burmeister](mailto:janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.
+TTS no longer has formal operations support for the Chicago office. However, [r5wps@gsa.gov](mailto:r5wps@gsa.gov) should be able to answer most of your building management and workplace service questions. [Janie Burmeister](mailto:janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.

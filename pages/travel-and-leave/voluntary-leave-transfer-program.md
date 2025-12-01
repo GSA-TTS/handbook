@@ -31,7 +31,7 @@ To be eligible for VLTP, you must have all of the following:
 
 #### VLTP email announcement template
 
-Once VLTP is approved, your supervisor can use the [VLTP email template](https://docs.google.com/document/d/1eKSbEvUUibZ0LDGqwS_3UO9iBMdYc5VfLN8aNttEQVs/edit) to draft an announcement. Your supervisor will work with Outreach to send an email TTS-wide to [tts@gsa.gov](mailto:tts@gsa.gov), CCing your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
+Once VLTP is approved, your supervisor can use the [VLTP email template](https://docs.google.com/document/d/1eKSbEvUUibZ0LDGqwS_3UO9iBMdYc5VfLN8aNttEQVs/edit) to draft an announcement (unless you prefer no announcement be made). Your supervisor will work with Outreach to send a Leave Donation Request email to TTS's components, CCing your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit).
 
 ### Using donated hours
 Donated leave won’t necessarily come in all at once. You will receive donated leave as it’s donated; so, you and your supervisor will want to touch base as it’s coming in.

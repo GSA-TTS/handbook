@@ -13,9 +13,9 @@ cSpell: ignore Brookfield
         <td class="col-value">
           One World Trade Center (<a href="https://onewtc.durst.org/">management company page</a>, <a href="https://insite.gsa.gov/portal/category/540422">GSA page</a>)<br/>
           Floor 55<br/>
-          New York, NY 10007<br/>
-          <br/>
-          Enter at the southwest corner
+          New York, NY 10007<br />
+          <br />
+          GSA's desks are on the southwest side.<br />
         </td>
       </tr>
       <tr>
@@ -36,12 +36,6 @@ cSpell: ignore Brookfield
         <td class="col-key"><strong>Region</strong></td>
         <td class="col-value">Northeast and Caribbean (<a href="https://www.gsa.gov/about-us/gsa-regions">region 2</a>)</td>
       </tr>
-      <tr>
-        <td class="col-key">
-          <strong>Listserv</strong>
-        </td>
-        <td class="col-value"><a href="mailto:18f-nyc@gsa.gov">18f-nyc@gsa.gov</a></td>
-       </tr>
     </tbody>
   </table>
 </div>
@@ -106,7 +100,7 @@ In the center "core" of each floor. You will need your badge to get back.
 
 ### Mother’s rooms
 
-There's a mother's (aka lactation) room on the 54th floor on the southeast side.
+There's a lactation room on the 55th floor on the southeast side, you need to reserve it in Google calendar.
 It has outlets, a sink, and a fridge. Ideally you should book time in the room
 with BookIt.
 

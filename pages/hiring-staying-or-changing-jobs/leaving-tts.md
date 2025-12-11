@@ -114,7 +114,8 @@ equipment is returned.
 
 A member of your team should give you instructions about offboarding for your specific
 team, including creating an IT ticket and completing a checklist on a Form 1655. Complete
-all requested steps.
+all requested steps and see [this Google Doc](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0)'s section under "Separations" for the 
+most current GSA process information.
 
 ### Supervisor
 

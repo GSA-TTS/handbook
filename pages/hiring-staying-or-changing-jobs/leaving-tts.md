@@ -11,13 +11,16 @@ This guide covers the offboarding policy and process.
 
 These steps apply to all TTS employees: permanent employees, term employees who
 are at the end of their term, and term employees choosing to resign before their
-term ends.  These steps also apply to employees who will remain in federal government and other GSA offices.
+term ends.  These steps also apply to employees who will remain in federal 
+government and other GSA offices.
 **Begin this process at least two weeks before your last day of work.**
 Your last day at TTS cannot be a federal holiday.
 
-### 1. Fill out the [TTS Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSfviwI1hePL1oaw7A5hePEfHIgQJQwuheXaoUNVTky0SSx5zw/viewform)
+### 1. Email notice of your resignation
 
-The [TTS Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSfviwI1hePL1oaw7A5hePEfHIgQJQwuheXaoUNVTky0SSx5zw/viewform) provides PeopleOps essential information. Once you've submitted the form, you will receive an Offboarding Checklist email from PeopleOps. Your supervisor will be copied on the email.  
+Please send a separation email/letter with reason for leaving, home address and 
+home email to leavingTTS@gsa.gov, cc'ing your supervisor and including your 
+last day of work. 
 
 Note: once we receive your form, we will assume your departure is
 public knowledge. If you would like to tell folks yourself, please handle
@@ -95,7 +98,6 @@ document.
   - Invision offboarding instructions are currently unavailable.
 - Move all calendar invites off your calendar. Nothing worse than an orphaned
   meeting!
-- Log your final Tock hours.
 - Make a list of the approved software that you downloaded or were issued (not
   necessary to note the pre-installed software).
   - Unregister the software that you're able to.
@@ -110,31 +112,15 @@ equipment is returned.
 
 ## Offboarding process
 
-A member of the People Ops Team will `Duplicate` the `Template` in the
-[Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1rp8n78tFHqyvvHzsYuBo_XE3Jg1LwOuOX-R9TMRnZI8/edit#gid=1916685737)
-to make a new checklist once **leavingTTS@gsa.gov** has been notified that a
-team member is leaving. If the checklist hasn't been created, please email
-[leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov) or ping #people-ops for help.
-More detail for certain tasks is below. Note that, per GSA policy, the
-"technical offboardings" (access to any work system) need to happen within 24
-hours of the person ending their work at GSA.
+A member of your team should give you instructions about offboarding for your specific
+team, including creating an IT ticket and completing a checklist on a Form 1655. Complete
+all requested steps.
 
 ### Supervisor
 
 - Work with the employee to transition the employee's workload to other team
   members.
-- Ensure they complete their last timesheet in Tock.
-
-### People-Ops Team
-
-- Provide
-  [TTS Exit Interview Questionnaire](https://forms.gle/PrHtjvkMy6jiMEtW9) to
-  offboarding employee.
-  - For offboarding interns, use
-    [this survey](https://goo.gl/forms/XOy7QO4zcnz6LyLh1).
-- Complete the
-  [Pre-Exit Clearance Checklist](https://www.gsa.gov/reference/forms/preexit-clearance-checklist)
-  with the employee.
+- Ensure that a PAR has been submitted for the resignation.
 
 ## Saying goodbye
 

@@ -216,7 +216,7 @@ You may operate without further authorization, based on our approved
 pre-existing security authorization, if all of the following conditions are met:
 
 - The system is deployed to [cloud.gov](https://cloud.gov) or
-  [TTS-managed infrastructure-as-a-service (IaaS)](https://before-you-ship.18f.gov/infrastructure/#infrastructure-as-a-service-iaas).
+  [TTS-managed infrastructure-as-a-service (IaaS)] — see internal TTS guidance (previously referenced in the 18F "Before You Ship" guide; archived and no longer maintained).
 - The system does _not_:
   - interact with or change the state of any production Federal information
     system, whether it is operated by TTS or our Federal partners
@@ -311,7 +311,7 @@ Contact ispcompliance@gsa.gov for any issues.
 ## Tips
 
 - Is your project accessible and
-  [Section 508](https://before-you-ship.18f.gov/laws/508/) compliant? The team
+ - Is your project accessible and Section 508 compliant? (Refer to GSA accessibility guidance; the earlier 18F "Before You Ship" links are archived.) The team
   will need to incorporate this throughout the project, but you'll also need to
   set up a review at least two weeks before launch.
 - How good is your code test coverage? Before shipping, you should have codecov

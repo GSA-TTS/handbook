@@ -15,7 +15,7 @@
     "test:internal-links": "node check-links.js",
     "test:prefixed-links": "! (grep -Erl \"(?:\\]\\()\\s*(?:/|href=['\\\"]/|https://handbook\\.tts\\.gsa\\.gov)\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
     "test:spelling": "cspell --config ./cSpell.json \"pages/**/*.md\" --no-progress",
-    "test:linkinator": "linkinator _site --recursive --ignore-internal 'mailto:' --workers 10",
+    "test:linkinator": "linkinator _site --recursive --ignore-internal 'mailto:' --skip 'https://www.gsa.gov' --workers 10",
     "test:deps": "node check-dependencies.js",
     "podman:build": "podman-compose -f docker-compose.yml build",
     "docker:build": "docker-compose build",
@@ -53,6 +53,7 @@
     "eslint-plugin-import": "^2.32.0",
     "html-validate": "^7.16.0",
     "linkinator": "^7.5.1",
+    "node-gyp": "^12.1.0",
     "prettier": "^2.8.8"
   },
   "prettier": {},

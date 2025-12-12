@@ -74,8 +74,7 @@ jobs:
         run: npm ci
       - name: Run Linkinator
         run: npm run test:linkinator
-        # Explicitly fail the step when Linkinator exits non-zero so PRs are blocked by broken external links.
-        continue-on-error: true
+        continue-on-error: false
 
   validate_links_use_helper:
     needs: [build]

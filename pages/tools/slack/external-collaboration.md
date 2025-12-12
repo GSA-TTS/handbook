@@ -36,7 +36,14 @@ most or full-time) can be added as full members using their GSA emails. Other
 collaborators should be added as single or multi-channel guests** as
 appropriate. See [contractors]({% page "/contractors/" %}) for general
 information.
-[Request GSA guest access via ServiceNow](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=7205fbef1b276014b1f620eae54bcb49&sysparm_category=f9874e76db5003400dc9ff621f96190d).
+
+To add external collaborators or change channel sharing, submit a **"Slack platform changes" ServiceNow ticket** (this is the correct ticket type to request Slack Connect or multi-channel guest changes):
+
+- Slack platform changes ticket: https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=3891c4f31b6b6014b1f620eae54bcbc1&sysparm_category=f9874e76db5003400dc9ff621f96190d
+
+- *Do not* submit an "Add Slack guest member" ServiceNow ticket for external partners who do not have GSA-managed accounts. That ticket type is intended only for guests with GSA emails.
+
+If you need help determining which ticket to use, ask in {% slack_channel "admins-slack" %} and a Tech Ops member will advise.
 
 TTS collaborators within GSA may be added as full Slack members. Examples might
 include the Chief Information Officer or FAS Commissioner. If you'd like to add
@@ -66,8 +73,9 @@ There are two options for sharing channels with partners who use Slack.
   [workspaces in the GSA Slack Enterprise Grid](https://gsa.enterprise.slack.com/).
 
 - Use
+Use
   [**Slack Connect**](https://slack.com/help/articles/115004151203-Guide-to-sharing-channels-with-external-organizations)
-  to share channels with partners outside of GSA. You will likely need to request approval for Slack Connect additions via a ["Slack platform changes" ServiceNow ticket](https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=3891c4f31b6b6014b1f620eae54bcbc1&sysparm_category=f9874e76db5003400dc9ff621f96190d).
+  to share channels with partners outside of GSA. Request approval for Slack Connect via a **"Slack platform changes" ServiceNow ticket** (link above).
 
 Slack Connect is preferred over adding partners as guests.
 

@@ -803,7 +803,7 @@ travel via Concur or AdTrav.
 #### How can I get reimbursed for professional liability insurance?
 
 Supervisors may be reimbursed for up to half the cost of professional liability
-insurance, up to $150. In order to claim reimbursement, get an email from your
+insurance, up to $150, under [GSA 9820.1 HRM](https://insite.gsa.gov/directives-library/professional-liability-insurance-2). In order to claim reimbursement, get an email from your
 supervisor approving the amount of the reimbursement you intend to claim and
 send it to [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov). Then, create a
 [miscellaneous voucher](#how-do-i-create-a-local-or-miscellaneous-voucher) in

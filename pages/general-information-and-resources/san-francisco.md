@@ -20,7 +20,6 @@ cSpell: ignore Lyvette,McAllister
         <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
           Your best bet is the {% slack_channel "sf" %} Slack channel<br />
-          <a href="https://www.gsa.gov/portal/category/107015">Building Services contact info</a>
         </td>
       </tr>
       <tr>
@@ -28,8 +27,7 @@ cSpell: ignore Lyvette,McAllister
           <strong>Slack channels</strong>
         </td>
         <td class="col-value">
-          {% slack_channel "sf" %},
-          {% slack_channel "sf-public" %}
+          {% slack_channel "sf" %}
         </td>
       </tr>
       <tr>
@@ -47,7 +45,7 @@ cSpell: ignore Lyvette,McAllister
         </td>
       </tr>
       <tr>
-        <td class="col-key"><strong>Reserve seat</strong></td>
+        <td class="col-key"><strong>Reserved seats</strong></td>
         <td class="col-value">
             Any seat that doesn't have a nametag is fair game.
         </td>

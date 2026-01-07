@@ -137,8 +137,7 @@ During business hours (6 a.m. to 6 p.m.), pass through security with your badge
 visible. Your GSA ID grants you access to the building at any time during those
 hours.
 
-If you’re having trouble, call one of the points of contact listed above, or
-give a shout in the #sf channel on Slack.
+If you’re having trouble, give a shout in the #sf channel on Slack.
 
 ### Get my fingerprints and badge?
 
@@ -162,11 +161,9 @@ Whether you're new at TTS and are joining the SF office or you're a long-time
 TTS member relocating to SF, here's an office onboarding checklist for you:
 
 - If you would like a locker, or if you need a keyboard and mouse/trackpad for
-  working with the office monitors, please email <mailto:peter.rowland@gsa.gov>.
+  working with the office monitors, email <r9wps@gsa.gov>.
 - Ask in the #sf channel for a person to give you a tour of the office so you
   know where to find the printer, kitchen, etc.
-- Ask in the #sf channel to get added to the 18F SF mailing list and 18F SF
-  calendar.
 - If you'd like to get the GSA Region 9 email newsletter (such as notes about
   optional GSA staff events and trainings at 50 UN Plaza), ask the #sf channel
   for the link.
@@ -198,7 +195,7 @@ You may host folks from other government agencies. As the host you are
 responsible for access issues and for any requests. You will need to complete
 [50 UNP Auth Form.pdf](https://github.com/GSA-TTS/handbook/files/433703/50.UNP.Auth.Form.pdf)
 using your own information and email it to
-<mailto:50UNPBuildingServices@gsa.gov>. Please make sure you do this with
+<50UNPBuildingServices@gsa.gov>. Please make sure you do this with
 advance notice, since the building will need time to update the guards’ list of
 approved guests. Once the form has been accepted, guests will be able to access
 the building without an escort.
@@ -207,13 +204,10 @@ the building without an escort.
 
 If you're based in SF and would like to regularly access the building after
 hours (6pm-6am), fill out the
-[50 UNP Security Access Card Application](https://drive.google.com/open?id=1KW2Vv11KYoZ70ajCQliPi3O11HanUXx_).
-Have a supervisor ("Director") sign it for you, then take it to the Operations
+[50 UNP Elevated Access Request Form](https://drive.google.com/file/d/1PqdzFQ49YKm08fKxBVim4Z5rjop-jAvb/view?usp=sharing).
+Have your supervisor ("Requesting Agency Official") sign it for you, then take it to the Operations
 Coordinator in the [Building Manager's](#helpful-contacts) office, located in
-room 0651 in the Basement, which is open 8:00am - 4:30pm. You may also scan and
-email the form to [Ahmed Mahdi](mailto:Ahmed.Mahdi@aleutmgt.com), the Operations
-Coordinator. He'll send the form to the Golden Gate Security Office, and email
-you once your application has been approved. You'll then need to go in-person to
+room 0651 in the Basement, which is open 8:00am - 4:30pm. They will send the form to the Golden Gate Security Office, and email you once your application has been approved. You'll then need to go in-person to
 his office to register your PIV card and choose an access code, which you'll be
 able to use at the SW entrance to the building.
 
@@ -412,7 +406,6 @@ If you have any questions about this, contact the
   including additional helpful phone numbers.
 - [Lyvette Jones](mailto:lyvette.jones@gsa.gov), handles transit benefits in SF.
 - [Public Health Clinic](https://www.sf.gov/departments/department-public-health) - 101 Grove St.
-- [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
 - [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)
 
 ## Food and coffee

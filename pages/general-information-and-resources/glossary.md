@@ -53,10 +53,7 @@ cSpell: ignore Technica
 
 - **AT** - Assistive Technology. Includes accessibility software.
 
-- **ATO** - Authority to Operate. It's a sign-off from an authorized agency
-  official for a website to be allowed to engage with citizens, including
-  security and some other stuff. Learn more about ATOs in the
-  [Before You Ship guide](https://before-you-ship.18f.gov/ato/).
+ **ATO** - Authority to Operate. It's a sign-off from an authorized agency official
 
 - **Availability** means the availability of the services we provide. If an app
   goes down or something we expect to be running stops running, those are

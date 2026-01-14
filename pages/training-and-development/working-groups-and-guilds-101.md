@@ -86,6 +86,27 @@ Guild meeting times can also be found on the
   <table class="table-existing-grouplets">
     <tbody>
       <tr>
+        <th class="col-grouplet" id="omni">Omni</th>
+        <td class="col-description">
+          We discuss and present on a wide-range of topics, in order to help TTS develop better and more consistent standards across its many technologies.
+          <br />
+          &bull; {% slack_channel "g-omni" %}
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### Archived guilds
+
+Most TTS guilds are currently paused. However, discussions about their content can still be found in the slack channels.
+
+<div class="table-wrapper">
+  <table class="table-existing-grouplets">
+    <tbody>
+      <tr>
         <th class="col-grouplet" id="accessibility">Accessibility</th>
         <td class="col-description">
           We help TTS develop good, accessible products from the start of production in order to provide an excellent user experience for everyone.<br />

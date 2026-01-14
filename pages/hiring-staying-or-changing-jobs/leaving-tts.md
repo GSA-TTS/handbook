@@ -18,9 +18,12 @@ Your last day at TTS cannot be a federal holiday.
 
 ### 1. Email notice of your resignation
 
-Please send a separation email/letter with reason for leaving, home address and 
-home email to leavingTTS@gsa.gov, cc'ing your supervisor and including your 
-last day of work. 
+Please send a separation email/letter to leavingTTS@gsa.gov, 
+cc'ing your supervisor with:
+- reason for leaving (e.g. resignation, term out, transfer, etc)
+- home address
+- home email
+- last day of work
 
 Note: once we receive your form, we will assume your departure is
 public knowledge. If you would like to tell folks yourself, please handle

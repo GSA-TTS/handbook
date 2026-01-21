@@ -12,7 +12,7 @@ questions:
 
 In a nutshell, the Handbook is our take on internal government documentation. It
 is an open, crowd-sourced, accessible, and living resource that aims to provide
-the information our team needs to do their work.
+the information our team needs to do their work. Please have fun :)
 
 The Handbook does **not** represent official TTS policy. At times, the Handbook
 may summarize official policy in plain-language, but it is not used as an

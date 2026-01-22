@@ -32,7 +32,7 @@ credentials.
 OCE requires new license holders to **attend their weekly office hours within a
 month of getting a license**, to get an overview on how to work the platform and
 requirements for usage. Office Hours are held every Wednesday at 12 PM ET.
-[Email OCE](mailto:customerexperience@gsa.gov) to get a calendar invite.
+[Email OCE](mailto:surveys@research.gsa.gov) to get a calendar invite.
 
 If you plan to not use Qualtrics for long periods of time, it's advisable to
 set-up a calendar invite to **log into Qualtrics once every 9 weeks** otherwise
@@ -100,6 +100,6 @@ information can be found in the [PRA Digital Guide](https://pra.digital.gov/).
 
 ## Offboarding
 
-Please [email OCE](mailto:customerexperience@gsa.gov) if you need to transfer
+Please [email OCE](mailto:surveys@research.gsa.gov) if you need to transfer
 your account to someone else, if you’re leaving GSA, or if you no longer need
 your account.

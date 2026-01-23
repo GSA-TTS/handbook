@@ -115,7 +115,7 @@ teams with any specific tasks this role may have for TTS programs.
 
 It is imperative that this role should take equity and inclusion in to
 consideration to ensure that candidates from all races, cultures and backgrounds
-are taken in to account. There should also be direct  outreach and
+are taken in to account. There should also be direct outreach and
 recruiting to candidates within cybersecurity profession.
 
 ## Premortem / Review

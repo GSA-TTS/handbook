@@ -1,4 +1,5 @@
-# TTS Handbook 
+# TTS Handbook
+
 ![Build](https://github.com/gsa-tts/handbook/actions/workflows/pull-request.yml/badge.svg)
 
 The [TTS Handbook](https://handbook.tts.gsa.gov) documents the mission, values,
@@ -21,7 +22,7 @@ can keep the handbook, new hire messages, and checklists up to date.
 1. or using NPM `npm run docker:start` or `npm run podman:start` runs those same commands and provides cleanup with `npm run docker:clean` or `npm run podman:clean`
 1. Open http://localhost:8080
 
->Note: If you are using `podman` instead of `docker`. Review [Podman Rootless Tutorial](https://github.com/containers/podman/blob/main/docs/tutorials/rootless_tutorial.md).
+> Note: If you are using `podman` instead of `docker`. Review [Podman Rootless Tutorial](https://github.com/containers/podman/blob/main/docs/tutorials/rootless_tutorial.md).
 
 ### Locally
 

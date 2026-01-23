@@ -20,7 +20,7 @@ We have a few different Slack Apps and bots you'll see in Slack:
   We automate responses to frequently asked questions with a Slackbot. You can
   [update or customize responses](https://gsa-tts.slack.com/customize/slackbot). **Do not
   include private or sensitive information in Slackbot automatic responses.**
-  
+
 Learn more about some of our unique channel customizations and auto-responses in
 the
 [Slack @ TTS](https://docs.google.com/document/d/1Hm42cg61S7FPhaLrRIJxl-LXQCcwGvJTKX_wG0Jz4aU/edit#heading=h.4l9k8pqdjzh1)

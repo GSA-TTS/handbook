@@ -5,19 +5,19 @@ cspell: ignore Nonbillable, Tocks
 
 Tock is a different tool than [HRLinks](https://hrlinks.gsa.gov/). Here is a quick comparison:
 
-|  | Tock timesheet | HRLinks timesheet |
-|--|----------------|-------------------|
-| **Level** | TTS | GSA |
-| **Cadence** | Weekly | Bi-weekly |
-| **Goal** | Tracks how time is spent, so we bill partners appropriately | Tracks how much an employee is working, so we track leave appropriately |
+|                     | Tock timesheet                                                   | HRLinks timesheet                                                                                                        |
+| ------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Level**           | TTS                                                              | GSA                                                                                                                      |
+| **Cadence**         | Weekly                                                           | Bi-weekly                                                                                                                |
+| **Goal**            | Tracks how time is spent, so we bill partners appropriately      | Tracks how much an employee is working, so we track leave appropriately                                                  |
 | **Timesheet shows** | How time is spent within a given week (billable and nonbillable) | How much time was spent working within a pay period, and what kind of leave was taken (sick, annual, award, admin, etc.) |
 
 ## Billable expectations
 
 {% alert %}
-  Failing to Tock on time prevents Operations from running financial reports and creates a lot of work for other people. Please make sure you Tock before you end your workday on Friday. If Friday is a holiday, then you’ll be expected to complete your timecard by the first workday following.
+Failing to Tock on time prevents Operations from running financial reports and creates a lot of work for other people. Please make sure you Tock before you end your workday on Friday. If Friday is a holiday, then you’ll be expected to complete your timecard by the first workday following.
 
-  Timecards for the current week should be available no later than Monday at 9AM PST.
+Timecards for the current week should be available no later than Monday at 9AM PST.
 {% endalert %}
 
 TTS employees are expected to bill a certain amount of hours towards assigned billable projects each week. TTS does not penalize employees for lower utilization if they haven’t been assigned billable work.
@@ -28,14 +28,14 @@ TTS employees are expected to bill a certain amount of hours towards assigned bi
 
 Supervisors’ utilization expectations are based on the number of direct reports, detailed in the table below:
 
-| Number of direct reports | Utilization % target | Target hours |
-|--------------------------|----------------------|--------------|
-| \>/=7 | 30% | 10-16 hours |
-| 6 | 40% | 14-18 hours |
-| 5 | 50% | 16-20 hours |
-| 4 | 60% | 18-24 hours |
-| 1-3 | 65% | 20-26 hours |
-| 0 (individual contributors) | 80%+ | 32+ hours |
+| Number of direct reports    | Utilization % target | Target hours |
+| --------------------------- | -------------------- | ------------ |
+| \>/=7                       | 30%                  | 10-16 hours  |
+| 6                           | 40%                  | 14-18 hours  |
+| 5                           | 50%                  | 16-20 hours  |
+| 4                           | 60%                  | 18-24 hours  |
+| 1-3                         | 65%                  | 20-26 hours  |
+| 0 (individual contributors) | 80%+                 | 32+ hours    |
 
 ### What is billable? What is not billable? What codes do I use?
 
@@ -69,7 +69,7 @@ Sometimes internal TTS meetings provide direct value to your engagement and can 
 #### Nonbillable time
 
 {% alert %}
-  Supervisors will review other non-billable circumstances and provide further guidance. Ask your supervisor if you are unclear what to bill.
+Supervisors will review other non-billable circumstances and provide further guidance. Ask your supervisor if you are unclear what to bill.
 {% endalert %}
 
 You must not bill for the following activities because these are indirect costs and are not inherently valuable to any one single partner:
@@ -104,15 +104,15 @@ Tock will limit you to 40 hours per week by default. Please request an alternati
 ### With a standard working schedule
 
 {% alert "", "warning" %}
-  We can’t work more than 40 total hours without being compensated for that time. Working overtime without prior approval violates the [Antideficiency Act](https://www.gao.gov/legal/appropriations-law/resources).
+We can’t work more than 40 total hours without being compensated for that time. Working overtime without prior approval violates the [Antideficiency Act](https://www.gao.gov/legal/appropriations-law/resources).
 {% endalert %}
 
-If you find yourself needing to work more than 40 hours, here are the steps to take *before* you work any extra hours.
+If you find yourself needing to work more than 40 hours, here are the steps to take _before_ you work any extra hours.
 
 First, ensure you can work the extra hours:
 
 1. Talk to your Engagement Lead, Account Manager or Project Lead **and** supervisor to figure out if and how much over 40 hours you can work.
-    - The Engagement Lead, Account Manager, or Project Lead should inform leadership that overtime is necessary, so they can provide support and guidance as needed.
+   - The Engagement Lead, Account Manager, or Project Lead should inform leadership that overtime is necessary, so they can provide support and guidance as needed.
 2. The Engagement Lead, Account Manager, or Project Lead must check and then adjust the engagement’s financial accounting.
 3. The supervisor must approve the requested hours in [HRLinks](https://hrlinks.gsa.gov/). Generally, Compensatory Time (comp time) is the option likely to be approved. Overtime is generally not an option as it triggers increased compensation.
 4. Get your supervisor’s approval in writing. Your Supervisor must justify the comp time upon submission of your timesheet in HRLinks.
@@ -162,5 +162,6 @@ Check:
 
 ## Technical difficulties? Questions?
 
-{% comment %}* Also see [Managing project finances](#TODO).{% endcomment %}
+{% comment %}\* Also see [Managing project finances](#TODO).{% endcomment %}
+
 - Visit the {% slack_channel "tock" %} Slack channel.

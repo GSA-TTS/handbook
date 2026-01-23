@@ -11,7 +11,9 @@ const findSection = (collection, pagePath) => {
 
     if (item.children) {
       const result = findSection(item.children, pagePath);
-      if (result) { return result; }
+      if (result) {
+        return result;
+      }
     }
   }
 };

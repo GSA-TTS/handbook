@@ -35,4 +35,4 @@ have one as soon as possible.
 - [Visit the GSA SmartPay 3 travel card page for more information](https://www.gsa.gov/travel/plan-a-trip/travel-charge-card).
 
 - [Next Step: Complete Your Concur
-Profile]({% page "/first-time-travel-complete-concur-profile" %})
+  Profile]({% page "/first-time-travel-complete-concur-profile" %})

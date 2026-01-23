@@ -12,7 +12,7 @@ sidebar:
 ---
 
 {% alert "Updated Travel Guidance for GSA Employees (07/13/2021)" %}
-  On July 13, 2021, GSA published [updated travel guidance]({% page "/july-13-travel-guidance/" %}) for all employees.
+On July 13, 2021, GSA published [updated travel guidance]({% page "/july-13-travel-guidance/" %}) for all employees.
 {% endalert %}
 
 - [Travel 101]({% page "/travel-101/" %})

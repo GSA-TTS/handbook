@@ -36,7 +36,6 @@ closeout and new fiscal year performance plan establishment process.
   - [On-demand Video](https://drive.google.com/file/d/1SX7Nkd3ZYvcYOdnydH8E50JJb-V1DclL/view?usp=sharing)
   - [Slidedeck](https://docs.google.com/presentation/d/1V2F0fre4UlyqBzsDYOL2MdF-Ae-YW02N7gwHC6jnpb4/edit#slide=id.p)
 
-
 ## Union requirements for end of year performance reviews
 
 ### AFGE Union members & NFFE Union members

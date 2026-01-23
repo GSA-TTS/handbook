@@ -40,7 +40,7 @@ Detailed ENT password reset instructions can be found
 ## Change or reset your Macbook login password
 
 Users with expiring local passwords (not ENT passwords) will be prompted to
-change their password and must follow security requirements. Users may see the prompt if their password is due to expire within 14 days. 
+change their password and must follow security requirements. Users may see the prompt if their password is due to expire within 14 days.
 
 You can change the password that you use to log into your Mac or reset the
 password by following
@@ -69,7 +69,6 @@ You can check your account permissions
 ## Citrix (virtual desktop client) login
 
 [Instructions.]({% page "/virtual-desktop/" %})
-
 
 ## Connecting to GSA networks
 

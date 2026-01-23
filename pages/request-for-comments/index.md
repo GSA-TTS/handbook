@@ -11,4 +11,3 @@ and approved RFCs as well as their respective discussions.
 
 The following RFCs went through the discussion process and were ultimately
 approved. They are listed in reverse chronological order.
-

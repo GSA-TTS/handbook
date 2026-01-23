@@ -4,21 +4,21 @@ keywords: timesheet report, timesheet,
 ---
 
 {% alert %}
-  Employees can view <a href="https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/tools-and-systems/hr-links-user-guides">HR Links user guides on InSite</a> or the <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> for numerical HR Links codes.
+Employees can view <a href="https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/tools-and-systems/hr-links-user-guides">HR Links user guides on InSite</a> or the <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> for numerical HR Links codes.
 {% endalert %}
 
 [HR Links](https://hrlinks.gsa.gov/) is where you can access:
 
-* [Timesheet submission](#submitting-your-timesheet)
-* [Leave requests](#using-leave)
-* Base schedule
-* Qualifying life events
-* View benefits
-* Telework agreements
-* Performance reviews
-* Award leave preference
-* Update your personal information, like address and emergency contacts
-* Change your TSP contributions
+- [Timesheet submission](#submitting-your-timesheet)
+- [Leave requests](#using-leave)
+- Base schedule
+- Qualifying life events
+- View benefits
+- Telework agreements
+- Performance reviews
+- Award leave preference
+- Update your personal information, like address and emergency contacts
+- Change your TSP contributions
 
 Supervisors can also access approvals and employee reports.
 
@@ -32,11 +32,11 @@ To submit a timesheet, refer to the [InSite user guide about creating a timeshee
 
 Notes:
 
-* After selecting the **Employee Timesheet** tile, a pop-up may appear that says “Would you like to apply your schedule?” Select **Yes**. If the pop-up doesn't appear, it is ok. Your base schedule was already applied, likely when you submitted a leave request.
+- After selecting the **Employee Timesheet** tile, a pop-up may appear that says “Would you like to apply your schedule?” Select **Yes**. If the pop-up doesn't appear, it is ok. Your base schedule was already applied, likely when you submitted a leave request.
 
-* When you have successfully submitted your timesheet, the **Timesheet Status** will say “Needs Approval” from your supervisor.
+- When you have successfully submitted your timesheet, the **Timesheet Status** will say “Needs Approval” from your supervisor.
 
-* If you see **Timesheet Status: No Timesheet**, it means you have not submitted your timesheet for this pay period yet.
+- If you see **Timesheet Status: No Timesheet**, it means you have not submitted your timesheet for this pay period yet.
 
 ### Correcting errors
 
@@ -98,7 +98,8 @@ If you need to change a timesheet from a past pay period, you’ll need to [amen
 #### Requesting advanced annual or sick leave in HR Links
 
 You will enter your leave requests like normal: there is not a special category. HR Links will display an error message on your timesheet. When your supervisor goes into the system to approve your timesheet, it is their responsibility to make a remark in the comment box noting their approval of advanced leave. Prior to entering the hours in HR Links, please ensure that you:
-- Know the number of hours you can request. [Advanced annual leave]({% page "/travel-and-leave/leave/#advanced-annual-leave" %})  and [advanced sick leave]({% page "/travel-and-leave/advanced-sick-leave/" %}) have different rules.
+
+- Know the number of hours you can request. [Advanced annual leave]({% page "/travel-and-leave/leave/#advanced-annual-leave" %}) and [advanced sick leave]({% page "/travel-and-leave/advanced-sick-leave/" %}) have different rules.
 - Have completed the approval paperwork for [advanced sick leave]({% page "/travel-and-leave/advanced-sick-leave/" %}). Advanced annual leave does not have this additional paperwork.
 
 ##### For term employees
@@ -111,8 +112,8 @@ Once you are [approved for PPL]({% page "/travel-and-leave/paid-parental-leave/"
 
 ### HR Links leave tips
 
-* AWS schedules are automatically factored into HR Links. For example: you won’t be able to request leave on your designated AWS “off day” because you aren’t scheduled to work that day.
-* If you’re having issues logging into HR Links while using Google Chrome, please use these [instructions to clear your cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
+- AWS schedules are automatically factored into HR Links. For example: you won’t be able to request leave on your designated AWS “off day” because you aren’t scheduled to work that day.
+- If you’re having issues logging into HR Links while using Google Chrome, please use these [instructions to clear your cache](https://docs.google.com/document/d/13j6e8bAVSWFSNNkqmU2hMfwXOCBsi49d_2EqvL3aKXE/edit?usp=sharing).
 
 ## Overtime, comp time, and credit hours
 
@@ -139,6 +140,7 @@ You will submit a [leave request](#absence-requests-for-paid-leave), just like y
 ## Checking information in HR Links
 
 ### Award Leave expiration
+
 1. From the **Employee Self-Service** homepage, click on the **Print SF-50** tile.
 2. You'll see a list of SF-50 documents.
 3. In the **Action Reason** column, look for **Time Off Award** or **Special Act Time Off Award.**
@@ -159,7 +161,7 @@ If you are in a Bargaining Unit (aka a union), your [Workforce Relations HR Spec
 
 1. Click on the **View My Employment Information** tile.
 2. Navigate to the **Employment Data 2** tab.
-3. If it says **Bargaining Unit: 8888 - Ineligible for Inclusion**, or **7777 - Eligible But Not In A Bargaining Unit**, you are *not* in a Bargaining Unit.
+3. If it says **Bargaining Unit: 8888 - Ineligible for Inclusion**, or **7777 - Eligible But Not In A Bargaining Unit**, you are _not_ in a Bargaining Unit.
 
 ### FLSA exemption status
 
@@ -175,4 +177,4 @@ To check your status:
 
 There are several types of leave, like paid parental leave, that may require you to pull a timesheet report.
 
-You can refer to the [InSite user guide about pulling a timesheet report](https://drive.google.com/file/d/1CUo0m9IVfIynoNm7UpKD-kJbwtZ8bYF_/view). Reach out_ to {% slack_channel "people-ops" %} if you need assistance.
+You can refer to the [InSite user guide about pulling a timesheet report](https://drive.google.com/file/d/1CUo0m9IVfIynoNm7UpKD-kJbwtZ8bYF_/view). Reach out\_ to {% slack_channel "people-ops" %} if you need assistance.

@@ -48,7 +48,7 @@ Will result in this image being displayed:
 {% image_with_class "_img/ocelot.png" "usa-input--error" "an ocelot" %}
 
 {% alert "Don't forget the alt text!", "warning" %}
-  If your image adds context for sighted users, you should be sure to also include alt text that can be read aloud by screen readers. Alt text is not necessary if your image is purely decorative, such as a logo.
+If your image adds context for sighted users, you should be sure to also include alt text that can be read aloud by screen readers. Alt text is not necessary if your image is purely decorative, such as a logo.
 {% endalert %}
 
 ---
@@ -102,12 +102,12 @@ Produces this:
 The Handbook alert shortcode is a convenience wrapper around the
 [USWDS Alert component](https://designsystem.digital.gov/components/alert/). It takes ordered arguments:
 
-  0. `heading` - The alert heading or title. If omitted, no heading is shown.
-  0. `level` - the alert level. Allowed values are `info`, `warning`, `error`,
-    `success`, or `info`. If not provided, defaults to `info`.
-  0. `content` - the body of the alert. If omitted, no body is shown.
-  0. `slim` - provide if using the slim version of the alert banner.
-  0. `no-icon` - provide if omitting the icon.
+0. `heading` - The alert heading or title. If omitted, no heading is shown.
+1. `level` - the alert level. Allowed values are `info`, `warning`, `error`,
+   `success`, or `info`. If not provided, defaults to `info`.
+2. `content` - the body of the alert. If omitted, no body is shown.
+3. `slim` - provide if using the slim version of the alert banner.
+4. `no-icon` - provide if omitting the icon.
 
 **Example**:
 
@@ -128,15 +128,15 @@ The Handbook alert shortcode is a convenience wrapper around the
 Produces this:
 
 {% alert %}
-  A basic alert.
+A basic alert.
 {% endalert %}
 
 {% alert "Heads up!" %}
-  This is the body of the info alert message, and the heading is above.
+This is the body of the info alert message, and the heading is above.
 {% endalert %}
 
 {% alert "An error has occurred." "error" "slim" "no-icon" %}
-  This is the body of the error alert message.
+This is the body of the error alert message.
 {% endalert %}
 
 ---
@@ -157,7 +157,7 @@ Produces the following icon:
 {% uswds_icon "campaign" %}
 
 {% alert "Be careful with icons" %}
-  Do not use icons in place of textual content. These icons do not come with alt text and are not accessible. Use them as decorative elements or as additional emphasis on the text.
+Do not use icons in place of textual content. These icons do not come with alt text and are not accessible. Use them as decorative elements or as additional emphasis on the text.
 {% endalert %}
 
 ---

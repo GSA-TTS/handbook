@@ -14,7 +14,7 @@ get started and provide documentation for the Handbook's various components and
 utilities that make editing easier.
 
 {% alert %}
-  There is no dedicated staff for Handbook maintenance. Maintenance is done by TTS staff who are interested and have time to help.
+There is no dedicated staff for Handbook maintenance. Maintenance is done by TTS staff who are interested and have time to help.
 {% endalert %}
 
 ### Disclaimers and cautions
@@ -105,7 +105,7 @@ basics. If you already know Markdown and just want to brush up on the syntax,
 the [CommonMark reference](https://commonmark.org/help/) is a big help.
 
 {% alert %}
-  There is no single Markdown standard. It is a general set of practices with many different "flavors." Some Markdown behaviors that work in GitHub issues, pull requests, or wikis may not work on the Handbook. The Handbook uses a "flavor" called [CommonMark](https://spec.commonmark.org/0.30/) whereas GitHub uses [GitHub Flavored Markdown](https://github.github.com/gfm/).
+There is no single Markdown standard. It is a general set of practices with many different "flavors." Some Markdown behaviors that work in GitHub issues, pull requests, or wikis may not work on the Handbook. The Handbook uses a "flavor" called [CommonMark](https://spec.commonmark.org/0.30/) whereas GitHub uses [GitHub Flavored Markdown](https://github.github.com/gfm/).
 {% endalert %}
 
 Find the page you want to update (or create a new one in the `pages` directory)

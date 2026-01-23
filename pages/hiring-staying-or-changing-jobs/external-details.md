@@ -22,7 +22,7 @@ agencies. A USAJobs account is required.
 
 Hiring managers who want to bring in an external detailee should first submit a request through the [Internal hiring request form](https://forms.gle/hD2XkzivybBQzNWE6).
 
-Once the hiring manager has gotten approval from the Internal Hiring Committee, they email [PeopleOps](mailto:TTS-PeopleOps@gsa.gov), 
+Once the hiring manager has gotten approval from the Internal Hiring Committee, they email [PeopleOps](mailto:TTS-PeopleOps@gsa.gov),
 [Finance](mailto:18F-Finance-CS@gsa.gov) and [Agreements](mailto:tts.agreements@gsa.gov) that they will be posting the detail.
 
 The Agreements Team coordinates interagency agreements (IAAs) that allow an office to bring in personnel from other agencies. The IAA process for external details requires approval from multiple offices within GSA and the sending agency. Please see the timetable below for more information.
@@ -72,23 +72,23 @@ as the detail agreement process. For more information, visit the
 _Time frames below are all averages and sometimes the process takes much longer
 or shorter, depending on complications and the sending agency’s speed._
 
-| ACTION                                                        | OWNER                             | TIME                                                                                   |
-| ------------------------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------------- |
-| Supervisor submits internal hiring request                    | Detailee's supervisor             | 1 business day                                                                         |
-| Internal hiring committee reviews request                     | Internal hiring committee         | Requests are reviewed weekly                                                           |
-| Supervisor notifies Agreements, Finance, PeopleOps of request |  Supervisor                        | 1 business day                                                                         |
-| Supervisor connects Agreements PoC to Agency PoC              | Supervisor                        | 1 business day                                                                         |
-| Agreements PoC reaches out to Sending Agency PoC              | Agreements PoC                    | 2 business days                                                                        |
-| Agency completes documents and returns to Agreements PoC      | Agency PoC                        | 3 weeks                                                                                |
-| Agreements PoC completes documents                            | Agreements PoC                    | 3 business days                                                                        |
-| Documents sent to GSA HR for approval; HR completes review    | GSA HR                            | 5 business days                                                                        |
-| Documents sent to GSA OGC for review; OGC completes review    | GSA OGC                           | 5 business days                                                                        |
-| Documents sent to GSA Finance for review                      | GSA Finance                       | 3 business days                                                                        |
-| Agency reviews edits/makes changes; OGC reviews edits/changes | Agency PoC                        | 3 weeks                                                                                |
-| Agreements PoC gathers GSA signatures                         | Agreements PoC                    | 7 business days                                                                        |
-| Agency gathers signatures                                     | Agency PoC                        | 7 business days                                                                        |
-| Detailee granted security access                              | People Ops PoC and Detailee       | 3 business days                                                                        |
-| Detailee able to onboard                                      | Onboarding Lead                   | As soon as all of the necessary approvals are obtained, the detailee can begin working |
+| ACTION                                                        | OWNER                       | TIME                                                                                   |
+| ------------------------------------------------------------- | --------------------------- | -------------------------------------------------------------------------------------- |
+| Supervisor submits internal hiring request                    | Detailee's supervisor       | 1 business day                                                                         |
+| Internal hiring committee reviews request                     | Internal hiring committee   | Requests are reviewed weekly                                                           |
+| Supervisor notifies Agreements, Finance, PeopleOps of request | Supervisor                  | 1 business day                                                                         |
+| Supervisor connects Agreements PoC to Agency PoC              | Supervisor                  | 1 business day                                                                         |
+| Agreements PoC reaches out to Sending Agency PoC              | Agreements PoC              | 2 business days                                                                        |
+| Agency completes documents and returns to Agreements PoC      | Agency PoC                  | 3 weeks                                                                                |
+| Agreements PoC completes documents                            | Agreements PoC              | 3 business days                                                                        |
+| Documents sent to GSA HR for approval; HR completes review    | GSA HR                      | 5 business days                                                                        |
+| Documents sent to GSA OGC for review; OGC completes review    | GSA OGC                     | 5 business days                                                                        |
+| Documents sent to GSA Finance for review                      | GSA Finance                 | 3 business days                                                                        |
+| Agency reviews edits/makes changes; OGC reviews edits/changes | Agency PoC                  | 3 weeks                                                                                |
+| Agreements PoC gathers GSA signatures                         | Agreements PoC              | 7 business days                                                                        |
+| Agency gathers signatures                                     | Agency PoC                  | 7 business days                                                                        |
+| Detailee granted security access                              | People Ops PoC and Detailee | 3 business days                                                                        |
+| Detailee able to onboard                                      | Onboarding Lead             | As soon as all of the necessary approvals are obtained, the detailee can begin working |
 
 _Average time to process detail: 2.5-3 months_
 
@@ -133,21 +133,21 @@ days total), provided that:
 _Time frames below are all averages and sometimes the process takes much longer,
 or shorter, depending on complications and the receiving agency’s speed._
 
-| ACTION                                                                         | OWNER                             | TIME                                                                                   |
-| ------------------------------------------------------------------------------ | --------------------------------- | -------------------------------------------------------------------------------------- |
-| Employee discusses with supervisor                                            | Employee                          | 1 business day                                                                 |
-| Supervisor & Business Unit Director approve request                           | Supervisor                        | 1 business day                                                                 |
-| Supervisor notifies Agreements, Finance, and PeopleOps of request             | Supervisor                        | 1 business day                                                                         |
-| Employee connects Agreements PoC to Agency PoC                                | Employee                          | 1 business day                                                                         |
-| Agency PoC sends forms (completed on their end) for Agreements to complete    | Agency PoC                        | 3 weeks                                                                                |
-| Agreements PoC completes forms                                                | Agreements PoC                    | 1.5 weeks                                                                              |
-| Edits sent back to agency. Agency returns updated forms                        | Agency                            | 2 weeks                                                                                |
-| Documents sent to GSA HR for approval; HR completes review                     | GSA HR                            | 5 business days                                                                        |
-| Documents sent to GSA OGC for review; OGC completes review                     | GSA OGC                           | 5 business days                                                                        |
-| Receiving agency reviews edits/makes changes; OGC reviews edits/changes        | Agency & GSA OGC                  | 3.5 weeks                                                                              |
-| Agreements PoC gathers GSA signatures                                          | Agreements PoC                    | 7 business days                                                                        |
-| Agency gathers signatures                                                      | Agency PoC                        | 7 business days                                                                        |
-| Detailee granted security access at agency                                     | Employee                          | 5 business days                                                                        |
-| Detailee able to onboard                                                       | Employee                          | As soon as all of the necessary approvals are obtained the detailee can begin working. |
+| ACTION                                                                     | OWNER            | TIME                                                                                   |
+| -------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------- |
+| Employee discusses with supervisor                                         | Employee         | 1 business day                                                                         |
+| Supervisor & Business Unit Director approve request                        | Supervisor       | 1 business day                                                                         |
+| Supervisor notifies Agreements, Finance, and PeopleOps of request          | Supervisor       | 1 business day                                                                         |
+| Employee connects Agreements PoC to Agency PoC                             | Employee         | 1 business day                                                                         |
+| Agency PoC sends forms (completed on their end) for Agreements to complete | Agency PoC       | 3 weeks                                                                                |
+| Agreements PoC completes forms                                             | Agreements PoC   | 1.5 weeks                                                                              |
+| Edits sent back to agency. Agency returns updated forms                    | Agency           | 2 weeks                                                                                |
+| Documents sent to GSA HR for approval; HR completes review                 | GSA HR           | 5 business days                                                                        |
+| Documents sent to GSA OGC for review; OGC completes review                 | GSA OGC          | 5 business days                                                                        |
+| Receiving agency reviews edits/makes changes; OGC reviews edits/changes    | Agency & GSA OGC | 3.5 weeks                                                                              |
+| Agreements PoC gathers GSA signatures                                      | Agreements PoC   | 7 business days                                                                        |
+| Agency gathers signatures                                                  | Agency PoC       | 7 business days                                                                        |
+| Detailee granted security access at agency                                 | Employee         | 5 business days                                                                        |
+| Detailee able to onboard                                                   | Employee         | As soon as all of the necessary approvals are obtained the detailee can begin working. |
 
 _Average time to process detail: 2.5-3 months_

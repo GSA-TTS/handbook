@@ -8,11 +8,11 @@ In contrast to appropriated funds, which are provided by Congress through the an
 
 ## What does good financial health look like for TTS?
 
-The primary indicator of financial stability for TTS is *cost recovery*. It’s the process by which we recoup the costs of providing our services to partner agencies. The organization aims to cover its direct costs, which are largely staff salaries and benefits.
+The primary indicator of financial stability for TTS is _cost recovery_. It’s the process by which we recoup the costs of providing our services to partner agencies. The organization aims to cover its direct costs, which are largely staff salaries and benefits.
 
-The metric we use to gauge progress toward cost recovery is *utilization rate*. An overly simple explanation of how we calculate utilization rate is:
+The metric we use to gauge progress toward cost recovery is _utilization rate_. An overly simple explanation of how we calculate utilization rate is:
 
-> *Billable hours / available hours*
+> _Billable hours / available hours_
 
 The [actual formula](https://docs.google.com/document/d/1R1Z1gf8JtOiBkcff4Chc3XKkKNgNSbYgdOLQLENIYlc/edit) takes into account individuals who are on partial or fully reimbursable details, extended out of office, those who start or leave during the fiscal year, AWS schedules, overtime, etc.
 

@@ -1,14 +1,12 @@
 ---
 title: Merit Systems Principles Hiring Practices
-keywords: Hiring Practices, Merit 
+keywords: Hiring Practices, Merit
 questions:
   - hiring
   - joinTTS@gsa.gov
 redirect_from:
   - /fair-and-equitable-hiring-practices/
 ---
-
-
 
 Here are a few ways you can contribute toward a Merit Systems Principles focused hiring process:
 
@@ -32,7 +30,7 @@ Here are a few ways you can contribute toward a Merit Systems Principles focused
 
 - **If you come to a conclusion about a candidate very quickly, before you’ve
   read the whole resume or finished the interview, spend the rest of the session
-  trying to disprove that conclusion.**  We tend to jump to conclusions and then
+  trying to disprove that conclusion.** We tend to jump to conclusions and then
   look for evidence to support our hypothesis. To compensate, if you find you’ve
   reached a Yes/No conclusion very quickly, spend the rest of the session trying
   to disprove that hypothesis. Explicitly look for evidence that you’re wrong.

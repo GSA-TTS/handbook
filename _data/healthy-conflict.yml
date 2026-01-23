@@ -1,11 +1,11 @@
 steps:
-    - text: Intro
-      href: general-information-and-resources/conflict-feedback-intro/
-    - text: Principles
-      href: general-information-and-resources/conflict-feedback-principles/
-    - text: Following up & escalation
-      href: general-information-and-resources/conflict-feedback-follow-up-escalation/
-    - text: Additional feedback frameworks
-      href: general-information-and-resources/conflict-feedback-additional-frameworks/
-    - text: Receiving feedback
-      href: general-information-and-resources/conflict-feedback-receiving-feedback/
+  - text: Intro
+    href: general-information-and-resources/conflict-feedback-intro/
+  - text: Principles
+    href: general-information-and-resources/conflict-feedback-principles/
+  - text: Following up & escalation
+    href: general-information-and-resources/conflict-feedback-follow-up-escalation/
+  - text: Additional feedback frameworks
+    href: general-information-and-resources/conflict-feedback-additional-frameworks/
+  - text: Receiving feedback
+    href: general-information-and-resources/conflict-feedback-receiving-feedback/

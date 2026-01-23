@@ -42,7 +42,7 @@ in your ticket that this is for a MacBook.
 4. Click "Install" on `Map Smartcard - Catalina`. Wait until this finishes
    installing. Do not remove your card.
 5. Now you can remove your card and log out of your computer. You are all set up to
-   follow the login steps below. 
+   follow the login steps below.
    - Note: DO NOT REBOOT. This will brick the machine. Please only Log Out only.
 
 ### Password vs. PIN

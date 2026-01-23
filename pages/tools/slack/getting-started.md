@@ -11,11 +11,12 @@ _[Back to Slack page](../)_
 
 Slack is a tool and chat messaging application that enables people to collaborate and interact with one another.
 
-Slack is used at TTS as a means of daily communication and coordination. It allows us to join [channels](https://slack.com/features/channels#slack-channels) — specific workspaces that bring the relevant people and information together —  and directly message people or smaller groups.
+Slack is used at TTS as a means of daily communication and coordination. It allows us to join [channels](https://slack.com/features/channels#slack-channels) — specific workspaces that bring the relevant people and information together — and directly message people or smaller groups.
 
 You can also use a call feature within Slack called “[Huddles](https://slack.com/help/articles/4402059015315-Use-huddles-in-Slack).”
 
 ## How do I access Slack?
+
 1. Go to [https://gsa-tts.slack.com/](https://gsa-tts.slack.com/) in your browser.
 2. Click the green button that says `Sign in with @gsa.gov email`.
 3. If you're not logged in to Google, you'll be asked to enter in your Google username. Enter in your @gsa.gov email.
@@ -25,6 +26,7 @@ You can also use a call feature within Slack called “[Huddles](https://slack.c
 Mac users can download the [desktop version](https://itunes.apple.com/us/app/slack/id803453959?mt=12). There is a [mobile app](https://slack.com/blog/productivity/simpler-more-organized-slack-mobile-app) available through the Apple or Google store that you can download to your work iPhone or Android.
 
 ## Do all TTS employees have access to Slack?
+
 Yes! New hires are given full Slack access.
 
 ## Do all TTS teams use Slack the exact same way?
@@ -39,7 +41,7 @@ Yes. Everything written in Slack is potentially a federal [record]({% page "/too
 
 Treat Slack like the public forum it is — refrain from writing something in Slack that you wouldn't feel comfortable appearing on the news. This includes file uploads, video and audio, channel names, custom emoji, and emoji reactions.
 
-Do not post any [sensitive information]({% page "/sensitive-information/" %}).** See the [list of alternatives]({% page "/general-information-and-resources/sensitive-information/#tools" %}).
+Do not post any [sensitive information]({% page "/sensitive-information/" %}).\*\* See the [list of alternatives]({% page "/general-information-and-resources/sensitive-information/#tools" %}).
 
 ## How do I set up my profile?
 
@@ -70,6 +72,7 @@ After you have edited your profile, save it and then review it. If anything chan
 ## How do I make sure I’m using Slack in line with TTS values?
 
 Here are a few suggestions for making sure our Slack community stays an awesome, valuable and inclusive place to be.
+
 - As stated in our [Code of Conduct]({% page "/about-us/code-of-conduct/" %}), TTS is committed to building a safe, welcoming, harassment-free culture for everyone. This is true on Slack, just like our other types of interactions.
 - Discuss Slack team expectations with your supervisor.
 - It is difficult to convey tone through text. If you have constructive feedback for someone, it might be more appropriate to share privately and via a live, synchronous method like a Meet, Zoom, or phone call.
@@ -77,5 +80,5 @@ Here are a few suggestions for making sure our Slack community stays an awesome,
 - Share your challenges and helpful resources you come across with your team/new colleagues.
 - Refrain from posting anything that would [make our systems vulnerable]({% page "/sensitive-information/" %}) or would impact the privacy of others.
 - Flag inappropriate messages. Just like our in-person interactions, there are a variety of ways to address issues: you can have a conversation directly with the person; you can discuss with a supervisor, team lead, or project lead; you can reach out to our [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit#heading=h.65ckjyv9pbpl).
-- Ask questions in the relevant [channels]({% page "/tools/slack/guidelines/" %}), and engage when people respond to you. If someone you pinged directly hasn’t responded within a few days, you may want to try contacting them using a  different type of communication (email, Gchat, put time on their calendar).
+- Ask questions in the relevant [channels]({% page "/tools/slack/guidelines/" %}), and engage when people respond to you. If someone you pinged directly hasn’t responded within a few days, you may want to try contacting them using a different type of communication (email, Gchat, put time on their calendar).
 - If you are unsure or unclear about any of the recommendations above, please reach out to your supervisor for assistance.

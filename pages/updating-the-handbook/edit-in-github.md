@@ -21,7 +21,7 @@ If you're not familiar with how to edit Markdown through GitHub, start with our
   fork the repository. Commit your changes and a pull request will automatically
   open.
 - If you do have write access, make sure `Create a new branch for this commit
-  and start a pull request` is selected. Check the automatically-generated
+and start a pull request` is selected. Check the automatically-generated
   branch name in the text box below that selection – you will need it later if
   you want to edit multiple files as part of the same pull request – and click
   the `Propose changes` button.

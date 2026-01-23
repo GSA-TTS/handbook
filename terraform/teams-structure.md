@@ -10,13 +10,13 @@ graph TD
 
     %% Top Level Organization
     q2["Technology-Transformation-Services (Q2)"]
-    
+
     %% Handbook Teams
     handbook["Handbook-Owners"]
     gsa_handbook["GSA-TTS-Handbook-Owners"]
     operations_handbook["Operations-Handbook-Owners"]
     solutions_handbook["Solutions-Handbook-Owners"]
-    
+
     %% Main Divisions
     q2a["TTS-Delivery (Q2A)"]
     q2b["TTS-Operations (Q2B)"]
@@ -85,7 +85,7 @@ graph TD
 
 ## Team Ownership
 
-Teams inherit permissions from their parent teams. 
+Teams inherit permissions from their parent teams.
 
 ### Key Teams for Handbook Management
 

@@ -81,8 +81,8 @@ offices:
 ## Our values
 
 - **Integrity**
-   We are present, transparent, and honest to enable accessible and trustworthy innovation.
+  We are present, transparent, and honest to enable accessible and trustworthy innovation.
 
 - **Impact**
-   We grow together and create lasting change for the good of the public and public
+  We grow together and create lasting change for the good of the public and public
   servants.

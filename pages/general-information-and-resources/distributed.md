@@ -86,7 +86,7 @@ Apple's instructions [are here](https://support.apple.com/en-us/HT204023).
 ### What supplies do distributed employees receive?
 
 GSA provides remote workers with a laptop and phone but does not provide
-desk chairs or office products.  GSA IT can provide you with a remote kit, including a monitor, keyboard, mouse, headset and hub to provide additional connectivity.   You are able to choose which items best fit your needs.  Printers are available as well but require additional justification 
+desk chairs or office products. GSA IT can provide you with a remote kit, including a monitor, keyboard, mouse, headset and hub to provide additional connectivity. You are able to choose which items best fit your needs. Printers are available as well but require additional justification
 
 ### What advice do your distributed colleagues have?
 

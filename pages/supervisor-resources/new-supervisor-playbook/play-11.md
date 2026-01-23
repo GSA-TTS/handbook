@@ -1,6 +1,5 @@
 ---
-title:
-  Play 11 - Promote a healthy culture of accountability with empathy and respect
+title: Play 11 - Promote a healthy culture of accountability with empathy and respect
 keywords: supervisor playbook, leadership
 ---
 

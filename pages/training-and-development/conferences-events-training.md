@@ -99,13 +99,13 @@ will need to complete for your request.
    - This
      [OLU Job Aid](https://insite.gsa.gov/employee-resources/training-and-development/continuous-learning/sf182-continued-service-agreement/sf182-employee-tool-kit?check_logged_in=1)
      has instructions on how to Create, Submit, PDF, and Verify an SF-182.
-2. Your supervisor’s name should auto-populate. 
-   - ***NOTE:*** Not seeing your supervisor's name? You can add an additional supervisor (the SF-182 only needs one approval to be completed) to the approval queue by following this process:
-      - Scroll to the bottom of the SF-182 approval status selection
-      - Select the **plus icon (+)** to add the additional approver
-      - Once added, make sure you select the **SAVE** icon 
-      - The additional approver's name should now be on the document
-          - Email TTS-Events@gsa.gov if you need assistance
+2. Your supervisor’s name should auto-populate.
+   - **_NOTE:_** Not seeing your supervisor's name? You can add an additional supervisor (the SF-182 only needs one approval to be completed) to the approval queue by following this process:
+     - Scroll to the bottom of the SF-182 approval status selection
+     - Select the **plus icon (+)** to add the additional approver
+     - Once added, make sure you select the **SAVE** icon
+     - The additional approver's name should now be on the document
+       - Email TTS-Events@gsa.gov if you need assistance
 3. After submitting the SF-182 for approval, you will receive an email
    notification when the SF-182 is approved.
 4. Once your SF-182 is approved, save a PDF copy by following the 'Create A PDF'

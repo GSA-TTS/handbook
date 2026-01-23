@@ -88,7 +88,7 @@ You may also want to take a look at
 
 Have a current team member request an invitation to the
 [GSA-TTS Organization](#organizations) you need in the
-{% slack_channel "admins-github" %} channel.  Or, to join the `GSA` organization, email gsa-github.support@gsa.gov and include the GSA email address associated with the user to be added.  
+{% slack_channel "admins-github" %} channel. Or, to join the `GSA` organization, email gsa-github.support@gsa.gov and include the GSA email address associated with the user to be added.
 
 An admin will add you, after which you'll need to accept their invitation from
 the email or by going to the
@@ -295,7 +295,7 @@ reasons.
 - **Document your workflow.** There are many different ways to use GitHub, and
   each different team of people at TTS (likely) uses it differently. That said,
   teams should document their desired git workflow for each project, such as in
-  your repository's `contributing.md` file. 
+  your repository's `contributing.md` file.
 
 - **Do you fork or do you branch?** Git allows you to both "fork" and "branch"
   repositories to make a place to work on changes before you submit them for

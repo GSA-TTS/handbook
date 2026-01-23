@@ -205,7 +205,7 @@ advance notice, since the building will need time to update the guards’ list o
 approved guests. Once the form has been accepted, guests will be able to access
 the building without an escort.
 
-### Access the building after hours? 
+### Access the building after hours?
 
 If you're based in SF and would like to regularly access the building after
 hours (6pm-6am), fill out the

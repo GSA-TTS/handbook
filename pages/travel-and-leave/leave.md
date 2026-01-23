@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 {% alert %}
-  Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a>.
+Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a>.
 {% endalert %}
 
 Before you take leave, check [out of office expectations]({% page "travel-and-leave/going-out-of-office/" %}).
@@ -17,23 +17,24 @@ TTS has leave types for the following scenarios. Talk with your [Workforce Relat
 
 For **general uses and vacation**, you can use:
 
-* [Annual Leave](#annual-leave)
-* [Award Leave](#award-leave)
+- [Annual Leave](#annual-leave)
+- [Award Leave](#award-leave)
 
 For **sick or medical reasons**, you can use:
+
 - [Sick Leave](#sick-leave)
 
 Other medical reasons:
 
-* When [getting a COVID vaccine or recovering from vaccine side effects](#covid-vaccination), you can use Administrative Leave
-* [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave
-* [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl) for veterans with a service-related disability
+- When [getting a COVID vaccine or recovering from vaccine side effects](#covid-vaccination), you can use Administrative Leave
+- [Blood, bone marrow, organ donation](#blood-bone-marrow-and-organ-donation), you can use Administrative Leave
+- [Disabled veteran leave (DVL)](#disabled-veteran-leave-dvl) for veterans with a service-related disability
 
 For **bereavement**, you can use:
 
-* [Sick Leave](#civilian) for funerals
-* [Funeral Leave](#military) for military relatives
-* [Parental Bereavement Leave](#parental-bereavement-leave) after losing a child
+- [Sick Leave](#civilian) for funerals
+- [Funeral Leave](#military) for military relatives
+- [Parental Bereavement Leave](#parental-bereavement-leave) after losing a child
 
 For **birth, adoption or placement of a new child**, you can use [paid parental leave]({% page "/travel-and-leave/paid-parental-leave/" %}). You can also use annual and sick leave for parental leave reasons.
 
@@ -50,10 +51,10 @@ When going on **active duty**, active duty training, and inactive duty training 
 You can work with your supervisor to use up to 4 hours of work time pursuing options from the [Employee Assistance Program (EAP)]({% page "/getting-started/classes/benefits/#employee-assistance-program" %}).
 
 If you are running out of leave hours, you can request:
+
 - [Advanced Annual Leave](#advanced-annual-leave)
 - [Advanced Sick Leave](#advanced-sick-leave)
 - Donated hours from the [Voluntary Leave Transfer Program]({% page "/travel-and-leave/voluntary-leave-transfer-program/" %})
-
 
 ## Types of leave
 
@@ -61,9 +62,9 @@ If you are running out of leave hours, you can request:
 
 You may use annual leave for any reason. Annual leave accrues based on how long you’ve worked for the federal government:
 
-* Fewer than 3 years: 4 hours per pay period
-* Between 3 and 15 years: 6 hours per pay period
-* 15+ years: 8 hours per pay period
+- Fewer than 3 years: 4 hours per pay period
+- Between 3 and 15 years: 6 hours per pay period
+- 15+ years: 8 hours per pay period
 
 Your leave increases on the first full pay period following your work anniversary. You can refer to either HR Links or the bottom of your paystub for your leave balances.
 
@@ -83,8 +84,8 @@ For example: You look in HRLinks and see "182 Hours (96 Hours Use or Lose)." Tod
 
 Award leave is offered for End of Year Performance Awards and Special Act Awards.
 
-* If you are eligible for an [End of Year Performance Award]({% page "/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus" %}), you can [opt-in via HRLinks](https://drive.google.com/file/d/13H21w1_D5V4wrOMzvLhQ4f2dqYxuJltO/view?usp=sharing) to receive Award Leave in lieu of a monetary award.
-* If you are receiving a TTS Special Act Award, you will be notified and asked for your preference of award leave or a monetary award.
+- If you are eligible for an [End of Year Performance Award]({% page "/performance-management/#who-is-eligible-for-the-end-of-year-performance-bonus" %}), you can [opt-in via HRLinks](https://drive.google.com/file/d/13H21w1_D5V4wrOMzvLhQ4f2dqYxuJltO/view?usp=sharing) to receive Award Leave in lieu of a monetary award.
+- If you are receiving a TTS Special Act Award, you will be notified and asked for your preference of award leave or a monetary award.
 
 You can receive a maximum of 80 hours of award leave in a single fiscal year. If you receive a Special Act Award after hitting the 80 hour cap, your award will be monetary.
 
@@ -93,15 +94,17 @@ Award leave expires one year after it is issued. You must use it by the end of t
 You can check the [amount of Award leave you have in HR Links]({% page "/tools/hrlinks/#award-leave-expiration" %}). You may receive an automated email reminder from HR Links 3 months before your leave expires, even if you have already used it.
 
 OPM Policy:
-* [Time-Off Awards](https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/rewarding/time-off-awards/)
+
+- [Time-Off Awards](https://www.opm.gov/policy-data-oversight/performance-management/performance-management-cycle/rewarding/time-off-awards/)
 
 ### Sick leave
 
 You can use Sick Leave for:
-* Doctor and medical appointments for you or a family member
-* Mental health care
-* Recovering from illness, for you or a family member
-* Any other health need
+
+- Doctor and medical appointments for you or a family member
+- Mental health care
+- Recovering from illness, for you or a family member
+- Any other health need
 
 All federal employees, no matter how long they have worked in government, accrue four hours of sick leave per pay period. There is no maximum amount of sick leave you can accrue, and if [you've transferred to TTS from another federal agency](#transferring-leave-from-another-federal-agency), your accrued sick leave will transfer with you.
 
@@ -119,15 +122,16 @@ You can receive 3 days (24 hours) of funeral leave to plan or attend services of
 
 OPM Fact Sheets:
 
-* [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
-* [Definitions of family member and immediate relative](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
+- [Sick leave for family care or bereavement purposes](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-for-family-care-or-bereavement-purposes/)
+- [Definitions of family member and immediate relative](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/definitions-related-to-family-member-and-immediate-relative-for-purposes-of-sick-leave/)
 
 ### Parental bereavement leave
 
 You can receive two weeks (80 hours) of parental bereavement leave for the passing of your child. Contact your [Workforce Relations HR Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) for assistance.
 
 OPM Policy:
-* [Parental Bereavement Leave Memorandum](https://chcoc.gov/content/parental-bereavement-leave)
+
+- [Parental Bereavement Leave Memorandum](https://chcoc.gov/content/parental-bereavement-leave)
 
 ### Taking advanced leave
 
@@ -140,8 +144,9 @@ You can only take advanced annual leave in the amount that you would earn back b
 For example: It is June 19th, 2022, and the [2022 Leave Year](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/) ends on December 31st. You [earn 4 annual leave hours per pay period](#annual-leave) and there are 14 pay periods left until December 31st. You will earn 56 more annual leave hours (14 pay periods x 4 hours per pay period). Therefore, you can request up to 56 advanced annual leave hours.
 
 OPM Fact Sheets:
-* [Leave Year Beginning and Ending Dates](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)
-* [Advanced Annual Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-annual-leave/)
+
+- [Leave Year Beginning and Ending Dates](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/)
+- [Advanced Annual Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-annual-leave/)
 
 #### Advanced sick leave
 
@@ -170,7 +175,8 @@ You would also request court leave if you are asked to serve as a witness in a j
 You can receive Court Leave for however long you serve on a jury. To report Court Leave, follow the typical steps for [Entering a leave request in HR Links]({% page "/tools/hrlinks/#absence-requests-for-paid-leave" %}).
 
 OPM Fact Sheet:
-* [Court Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/court-leave/)
+
+- [Court Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/court-leave/)
 
 ### Military leave
 
@@ -183,13 +189,14 @@ Military Leave will not appear in HR Links until after you have requested it for
 If you are called to active duty, no matter the length of time, contact the [FAS Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) who corresponds to your last name. They can help with GSA’s [Checklist for Employees Entering Extended Active Duty](https://www.gsa.gov/forms-library/civilian-employees-entering-extended-active-duty-checklist).
 
 OPM Fact Sheet:
-* [Military Leave Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/military-leave/)
+
+- [Military Leave Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/military-leave/)
 
 #### Military spouse relocation
 
 If you are a civilian employee who must accompany the relocation of your military spouse, you are entitled to 5 days of administrative leave to help make that moving process easier.
 
-* See Presidential [Executive Order 14100](https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.federalregister.gov%2Fdocuments%2F2023%2F06%2F15%2F2023-12974%2Fadvancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/1/010001920bc50c73-8abb009d-90b3-446f-b11a-d2b403fc611c-000000/K88TGZMO22acDuoVCnAT9rlkDEU4z-7RRo6ZmN-gClg=371) (2023)
+- See Presidential [Executive Order 14100](https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.federalregister.gov%2Fdocuments%2F2023%2F06%2F15%2F2023-12974%2Fadvancing-economic-security-for-military-and-veteran-spouses-military-caregivers-and-survivors/1/010001920bc50c73-8abb009d-90b3-446f-b11a-d2b403fc611c-000000/K88TGZMO22acDuoVCnAT9rlkDEU4z-7RRo6ZmN-gClg=371) (2023)
 
 ### Disabled veteran leave (DVL)
 
@@ -200,7 +207,8 @@ DVL is a one-time benefit: you have a single, 12-month eligibility period, begin
 DVL will not automatically appear in HR Links: reach out to your [Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit) to get started.
 
 OPM Fact Sheet:
-* [Disabled Veteran Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/disabled-veteran-leave/)
+
+- [Disabled Veteran Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/disabled-veteran-leave/)
 
 ### Administrative Leave
 
@@ -218,10 +226,11 @@ You are also able to receive 4 hours of Administrative Leave per leave year to s
 
 OPM Fact Sheet:
 
-* [Administrative Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/administrative-leave/)
+- [Administrative Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/administrative-leave/)
 
 OPM Memorandum:
-* [Executive Order on Promoting Access to Voting](https://www.chcoc.gov/sites/default/files/Voting%20Admin%20Leave%20Memo%20CPM%202022-05_508_0.pdf)
+
+- [Executive Order on Promoting Access to Voting](https://www.chcoc.gov/sites/default/files/Voting%20Admin%20Leave%20Memo%20CPM%202022-05_508_0.pdf)
 
 #### Blood, bone marrow, and organ donation
 
@@ -231,9 +240,9 @@ You can also be granted up to 4 hours of Administrative Leave for blood donation
 
 OPM Fact Sheets:
 
-* [Administrative Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/administrative-leave/)
+- [Administrative Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/administrative-leave/)
 
-* [Bone Marrow or Organ Donor Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/bone-marrow-or-organ-donor-leave/)
+- [Bone Marrow or Organ Donor Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/bone-marrow-or-organ-donor-leave/)
 
 #### COVID vaccination
 
@@ -243,9 +252,9 @@ You can take up to 4 hours of Administrative Leave to get a COVID vaccine or boo
 
 You can receive ad hoc “Weather and Safety Leave” if you are prevented from safely working because of an unexpected event such as:
 
-* Weather-related damage to your home that makes occupying the home unsafe
-* Loss of power at home (which makes your home not an approved location under agency telework policies)
-* Not being prepared for teleworking when the conditions could not be anticipated (tornado or earthquake)
+- Weather-related damage to your home that makes occupying the home unsafe
+- Loss of power at home (which makes your home not an approved location under agency telework policies)
+- Not being prepared for teleworking when the conditions could not be anticipated (tornado or earthquake)
 
 Weather and Safety Leave does not count against any of your other leave balances.
 
@@ -256,6 +265,7 @@ If a supervisor doesn’t hear from you, and suspects you are facing a weather/s
 This leave is entered in HR Links under Administrative Leave Code 094 \- Weather & Safety. You should include a reason in the Comments/History section: for example, Cook County evacuation order of 9/10/20. Supervisors can enter the request if you are unable to access HR Links.
 
 Resources:
+
 - [InSite page about Weather and Safety Leave](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/telework-pay-and-leave-for-major-weather-events?term=weather+and+safety+leave)
 
 ##### Emergency Leave Transfer Program
@@ -263,27 +273,28 @@ Resources:
 OPM may establish an emergency leave transfer program for certain disasters. If eligible, you may receive donated leave from your colleagues to take paid leave. You can use this paid leave to help you or a family member recover from the disaster. This includes coordinating with insurance adjusters, carpenters, flood mitigation and restoration companies, and roofing contractors.
 
 Resources:
+
 - [About ELTP (InSite)](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/telework-pay-and-leave-for-major-weather-events?term=weather+and+safety)
 - [How to apply for ELTP (InSite)](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/pay-and-leave/leave/emergency-leave-transfer-program)
 
 ### Unpaid leave
 
-If you have exhausted all other paid leave options, you can request  Leave Without Pay (LWOP). It is exactly what it sounds like. You can request unpaid leave of less than four weeks at any time.
+If you have exhausted all other paid leave options, you can request Leave Without Pay (LWOP). It is exactly what it sounds like. You can request unpaid leave of less than four weeks at any time.
 
 The use of LWOP, including FMLA LWOP, can affect insurance premiums, within-grade increases, and other benefits. We **strongly recommend** that you review [OPM’s page on the Effect of Extended Leave Without Pay (LWOP)](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/). If you have questions, reach out to your [Benefits Specialist](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0).
 
 To take a leave of absence without pay, you’ll need justification and supervisory oversight. For longer periods, you'll also need 2nd level supervisory approval:
 
-* To request 80 hours or less of LWOP, you must get written approval from your immediate supervisor.
+- To request 80 hours or less of LWOP, you must get written approval from your immediate supervisor.
 
-* To request over 80 hours of LWOP, you must get written approval from your immediate supervisor and Business Unit Director.
+- To request over 80 hours of LWOP, you must get written approval from your immediate supervisor and Business Unit Director.
 
 Once approvals are received, please submit a copy of the email thread to [TTS-peopleops@gsa.gov](mailto:TTS-peopleops@gsa.gov).
 
 OPM Fact Sheet:
 
-* [Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/)
+- [Effect of Extended Leave Without Pay (LWOP) (or Other Nonpay Status) on Federal Benefits and Programs](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/effect-of-extended-leave-without-pay-lwop-or-other-nonpay-status-on-federal-benefits-and-programs/)
 
 ## Transferring leave from another federal agency
 
-Annual leave and sick leave balances can take a *significant* amount of time to transfer to GSA, depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement (pay stub) from your previous agency, you can send a copy to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) to expedite the process.
+Annual leave and sick leave balances can take a _significant_ amount of time to transfer to GSA, depending on the speed of your previous payroll provider. If you have your final Earnings and Leave Statement (pay stub) from your previous agency, you can send a copy to [kc-payroll.finance@gsa.gov](mailto:kc-payroll.finance@gsa.gov) to expedite the process.

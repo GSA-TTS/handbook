@@ -1,6 +1,5 @@
 ---
-title:
-  Play 12 - Lead by example, leverage the power of self-reflection, and be
+title: Play 12 - Lead by example, leverage the power of self-reflection, and be
   accountable
 keywords: supervisor playbook, leadership
 ---

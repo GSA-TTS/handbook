@@ -41,7 +41,7 @@ To add external collaborators or change channel sharing, submit a **"Slack platf
 
 - Slack platform changes ticket: https://gsa.servicenowservices.com/sp?id=sc_cat_item&sys_id=3891c4f31b6b6014b1f620eae54bcbc1&sysparm_category=f9874e76db5003400dc9ff621f96190d
 
-- *Do not* submit an "Add Slack guest member" ServiceNow ticket for external partners who do not have GSA-managed accounts. That ticket type is intended only for guests with GSA emails.
+- _Do not_ submit an "Add Slack guest member" ServiceNow ticket for external partners who do not have GSA-managed accounts. That ticket type is intended only for guests with GSA emails.
 
 If you need help determining which ticket to use, ask in {% slack_channel "admins-slack" %} and a Tech Ops member will advise.
 
@@ -73,7 +73,7 @@ There are two options for sharing channels with partners who use Slack.
   [workspaces in the GSA Slack Enterprise Grid](https://gsa.enterprise.slack.com/).
 
 - Use
-Use
+  Use
   [**Slack Connect**](https://slack.com/help/articles/115004151203-Guide-to-sharing-channels-with-external-organizations)
   to share channels with partners outside of GSA. Request approval for Slack Connect via a **"Slack platform changes" ServiceNow ticket** (link above).
 

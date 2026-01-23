@@ -187,9 +187,10 @@ most common types of 18F project endings are some combination of the following:
   - Recommend government or technical trainings, or recording materials from
     Digital.gov’s Communities of Practice
   - In the case of [projects in distress, review alternative solutions: pivot,
-  pause or stop the
-  engagement]({% page "/18f/projects-partners/projects-in-distress/" %})
+    pause or stop the
+    engagement]({% page "/18f/projects-partners/projects-in-distress/" %})
 - **Document and share learnings**
+
   - Conduct, document, and post a Project Reflection at the end of the project (or
     every 3-4 months for longer projects). Reference the [facilitation guide](https://docs.google.com/document/d/1lB8w_U2SR3X4U78KTOWril_JOINaF98NQwQoR7oYVeo/edit), [conversation guide](https://docs.google.com/document/d/1bsaRrm9Mjnk87UOsHDyTsfK2yVbsnLLywvfFuVXL5HE/edit#), and [summary template](https://docs.google.com/document/d/1R10zQ5hpHYtSA3utxydte-Xk4ktdjUWnlMOrZp3pSwA/edit) to get started.
   - Request a facilitator from outside the

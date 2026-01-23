@@ -8,6 +8,7 @@ redirect_from:
   - /hiring-authorities/
 cSpell: ignore AmeriCorps
 ---
+
 There are several different hiring paths within the federal government. We have
 a side-by-side comparison chart of
 [Hiring Methods](https://docs.google.com/spreadsheets/d/1ysL0lcrXzpvgCmiz6lhAZlggEVbMPr727hR1V6gs7Jk/edit#gid=0)
@@ -18,17 +19,17 @@ we use at TTS. Below is a brief overview.
 We hire employees for Competitive Service positions using the following four
 hiring paths.
 
-* **Delegated Examining**: applications that are open to the public.
-* **Merit Promotions**: applications that are open to current Competitive
+- **Delegated Examining**: applications that are open to the public.
+- **Merit Promotions**: applications that are open to current Competitive
   Service employees or former Competitive Service employees who have tenure.
   These applications are not open to the general public.
-* **Direct Hiring Authority**: see the DHA selection below for detailed
+- **Direct Hiring Authority**: see the DHA selection below for detailed
   information.
 
 These 3 types of applications are posted to USAJobs. We also use the following
 hiring option:
 
-* **Peace Corps and AmeriCorps VISTA Non-Competitive Eligibility**: Former Peace
+- **Peace Corps and AmeriCorps VISTA Non-Competitive Eligibility**: Former Peace
   Corps and AmeriCorps VISTA volunteers who successfully complete their service
   can be directly selected for a position, for up to one year after their
   volunteer service. For former volunteers who go directly into higher education
@@ -40,9 +41,9 @@ hiring option:
 TTS uses the 4 methods above to hire employees into the Competitive Service.
 There are two major benefits of attaining competitive status:
 
-* You can apply for federal jobs without competing with the public or applicants
+- You can apply for federal jobs without competing with the public or applicants
   with Veterans’ Preference, via the Merit Promotion process.
-* After three years of continuous service, you achieve tenure. Tenure means that
+- After three years of continuous service, you achieve tenure. Tenure means that
   you can leave the Federal government and still apply to jobs that are only
   open to current Competitive Service employees, even after you depart.
 
@@ -58,13 +59,13 @@ does not apply, and these roles must be posted on USAJobs.
 Currently, GSA has the authority to hire IT Specialists in the 2210 series via
 DHA with two options:
 
-* IT Specialist: term limited to a maximum of 8 years. Initial appointments are made lasting longer than 1 year, but not to exceed 4 years. GSA, may extend an appointment up to 4 additional years. No individual hired under this DHA can serve in excess of 8 years with GSA, and cannot be transferred to positions that are not IT positions.
-* IT Specialist - Information Security (INFOSEC): term limited or permanent.
+- IT Specialist: term limited to a maximum of 8 years. Initial appointments are made lasting longer than 1 year, but not to exceed 4 years. GSA, may extend an appointment up to 4 additional years. No individual hired under this DHA can serve in excess of 8 years with GSA, and cannot be transferred to positions that are not IT positions.
+- IT Specialist - Information Security (INFOSEC): term limited or permanent.
   There is no expiration date on this DHA.
 
 GSA also uses a DHA for:
 
-* 1102 contracting positions: term limited or permanent. This hiring authority
+- 1102 contracting positions: term limited or permanent. This hiring authority
   expires October 10, 2023.
 
 If a DHA role was posted on USAJobs within the last 120 days, resumes can

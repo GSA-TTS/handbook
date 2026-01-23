@@ -55,8 +55,9 @@ links to the mandatory trainings.
 ### Coaching (individual)
 
 GSA provides free coaching services to any federal employee. There are three avenues:
-- You can request a GSA coach. Located throughout the agency, GSA coaches hold various roles and offer coaching in addition to their main assignments. 
-- You can get paired with a coach at another agency via the Federal Coaching Network. 
+
+- You can request a GSA coach. Located throughout the agency, GSA coaches hold various roles and offer coaching in addition to their main assignments.
+- You can get paired with a coach at another agency via the Federal Coaching Network.
 
 To learn more about the GSA coaching program offerings and to get connected with a coach, visit the [GSA Coaching Services InSite page](https://insite.gsa.gov/employee-resources/training-and-development/developmental-services/organizational-development/coaching-services).
 
@@ -92,7 +93,7 @@ You can request access to TEI by emailing [TEI@treasury.gov](mailto:TEI@treasury
 
 ### Skillsoft Leadership Development Program (VLDP)
 
-GSA’s [Virtual Leadership Development Program](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/virtual-leadership-development-program) (VLDP) is a self-paced program designed for you to enhance the learning and skills in OPM’s Executive Core Qualifications (ECQ’s) and a few other Fundamental Competencies. 
+GSA’s [Virtual Leadership Development Program](https://insite.gsa.gov/employee-resources/training-and-development/leadership-resources/virtual-leadership-development-program) (VLDP) is a self-paced program designed for you to enhance the learning and skills in OPM’s Executive Core Qualifications (ECQ’s) and a few other Fundamental Competencies.
 
 ### Competitive Development Program (CDP)
 
@@ -107,7 +108,7 @@ is a developmental program offering a variety of temporary opportunities to
 GSA's workforce. This includes part-time projects, full-time details, job
 shadowing, and temporary promotion opportunities in various parts of the agency
 that can provide you with the chance to stretch your skills and expand your
-network. 
+network.
 
 ## More resources
 

@@ -17,17 +17,29 @@ Example:
 {% endalert %}
 */
 
-module.exports = (content = "", heading = "", level = "info", slim = false, no_icon = false) => {
+module.exports = (
+  content = "",
+  heading = "",
+  level = "info",
+  slim = false,
+  no_icon = false
+) => {
   const classes = ["usa-alert", `usa-alert--${level}`];
-  if (slim) { classes.push("usa-alert--slim"); }
-  if (no_icon) { classes.push("usa-alert--no-icon"); }
+  if (slim) {
+    classes.push("usa-alert--slim");
+  }
+  if (no_icon) {
+    classes.push("usa-alert--no-icon");
+  }
 
   const body = [`<div class="usa-alert__text">${content.trim()}</div>`];
-  if (heading != "") { body.unshift(`<h3 class="usa-alert__heading">${heading.trim()}</h3>`); }
+  if (heading != "") {
+    body.unshift(`<h3 class="usa-alert__heading">${heading.trim()}</h3>`);
+  }
 
   return `
     <div class="${classes.join(" ")}">
       <div class="usa-alert__body">${body.join("")}</div>
     </div>
   `;
-}
+};

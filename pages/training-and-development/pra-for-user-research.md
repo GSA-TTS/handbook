@@ -26,10 +26,10 @@ The goal of this information is to empower teams at TTS to conduct the research 
 
 - You are conducting research with federal employees or contractors acting within the scope of their employment. ([Citation](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/PRAPrimer_04072010.pdf))
 - You are conducting research with 9 or fewer participants over a period of 12 months.  
-([Citation](https://www.ecfr.gov/current/title-5/chapter-III/subchapter-B/part-1320/section-1320.3))
+  ([Citation](https://www.ecfr.gov/current/title-5/chapter-III/subchapter-B/part-1320/section-1320.3))
   - This refers to one "instance" of research. For example, if you are conducting interviews, usability testing and a survey during the course of one larger project, each of these activities would each be considered different "instances" of research.
 - You are gathering information at a public hearing, meeting or online equivalent.  
-([Citation](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/PRAPrimer_04072010.pdf))
+  ([Citation](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/PRAPrimer_04072010.pdf))
 
 #### Usability testing _does not_ require PRA clearance.
 
@@ -89,23 +89,23 @@ Prior to starting the clearance request process, please contact <tts-research@gs
 
 _Note: Additional OCE review is not required when using the Fast Track (A-11 Section 280) process. You do not need to contact OCE._
 
-| Role | Responsibilities | Contact information |
-| -- | -- | -- |
-| Researcher | This is you! You are responsible for documenting your research plans and working with PRA Desk Officers to get the appropriate clearance. | n/a |
-| OMB CX Team | The primary contact for the A-11 Section 280 process. They are responsible for overseeing all information collection requests under the A-11 Generic Information Collection (A-11 Gen IC) Umbrellas. They also work with the assigned OIRA Desk Officer to approve CX research. | [View contact information for the OMB CX Team here.](https://community-dc.max.gov/x/8oRMmQ) (Login with PIV card required.) |
-| GSA PRA Desk Officer | **Please note that the role of the PRA Desk Officer may differ from agency to agency and this information is specific to GSA.** They are responsible for entering information about PRA clearances into ROCIS, and can offer additional support throughout the process. | <GSARegSec@gsa.gov> |
+| Role                 | Responsibilities                                                                                                                                                                                                                                                                | Contact information                                                                                                         |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Researcher           | This is you! You are responsible for documenting your research plans and working with PRA Desk Officers to get the appropriate clearance.                                                                                                                                       | n/a                                                                                                                         |
+| OMB CX Team          | The primary contact for the A-11 Section 280 process. They are responsible for overseeing all information collection requests under the A-11 Generic Information Collection (A-11 Gen IC) Umbrellas. They also work with the assigned OIRA Desk Officer to approve CX research. | [View contact information for the OMB CX Team here.](https://community-dc.max.gov/x/8oRMmQ) (Login with PIV card required.) |
+| GSA PRA Desk Officer | **Please note that the role of the PRA Desk Officer may differ from agency to agency and this information is specific to GSA.** They are responsible for entering information about PRA clearances into ROCIS, and can offer additional support throughout the process.         | <GSARegSec@gsa.gov>                                                                                                         |
 
 ### Process overview
 
 _Detailed, step-by-step instructions follow this table._
 
-| Phase | Timeline | Steps |
-| -- | -- | -- |
-| Documentation | Dependent on researcher | Complete “Generic A-11 Information Collection Review (ICR)” template for your project and attach all instruments. All documentation must be complete before proceeding. |
-| Pre-review | Up to 7 days | OMB CX Team offers pre-review of the completed Generic Information Collection (Gen IC) package to minimize rejection later: you can send the completed documentation to the OMB CX Team to receive feedback (cc’ing GSA PRA Desk for awareness). |
-| Submission | 1-2 business days | Submit finalized documentation to GSA PRA Desk for review. |
-| Review | 1-2 business days | OMB CX Team receives Gen IC package, reviews it, and notifies you of decision. |
-| Using the PRA clearance | n/a | If approved, you are free to proceed with research. If denied, you must repeat the process. |
+| Phase                   | Timeline                | Steps                                                                                                                                                                                                                                            |
+| ----------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Documentation           | Dependent on researcher | Complete “Generic A-11 Information Collection Review (ICR)” template for your project and attach all instruments. All documentation must be complete before proceeding.                                                                          |
+| Pre-review              | Up to 7 days            | OMB CX Team offers pre-review of the completed Generic Information Collection (Gen IC) package to minimize rejection later: you can send the completed documentation to the OMB CX Team to receive feedback (cc’ing GSA PRA Desk for awareness). |
+| Submission              | 1-2 business days       | Submit finalized documentation to GSA PRA Desk for review.                                                                                                                                                                                       |
+| Review                  | 1-2 business days       | OMB CX Team receives Gen IC package, reviews it, and notifies you of decision.                                                                                                                                                                   |
+| Using the PRA clearance | n/a                     | If approved, you are free to proceed with research. If denied, you must repeat the process.                                                                                                                                                      |
 
 ### Step-by-step instructions
 
@@ -152,7 +152,7 @@ Follow the steps outlined below to request Fast Track (A-11 Section 280) PRA cle
 ## Making changes after receiving PRA clearance
 
 - You do not need to repeat the approval process if you are making de minimus changes.  
-([More information](https://www.whitehouse.gov/wp-content/uploads/2024/11/PRA-Usability-Testing-Guidance-Memo.pdf)).
+  ([More information](https://www.whitehouse.gov/wp-content/uploads/2024/11/PRA-Usability-Testing-Guidance-Memo.pdf)).
   - These are changes that affect only the look and feel (design improvements or minor plain language edits that do not change the nature or type of information collected and do not increase burden on the public). Examples include:
     - Color
     - Visual layout

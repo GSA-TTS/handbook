@@ -22,7 +22,7 @@ jobs:
       - if: steps.cache.outputs.cache-hit != true
         uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 24
       - if: steps.cache.outputs.cache-hit != true
         run: npm install
       - if: steps.cache.outputs.cache-hit != true
@@ -41,7 +41,7 @@ jobs:
           path: .
       - uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 24
       - run: npm run test:html-validation
 
   validate_internal_links:
@@ -55,7 +55,7 @@ jobs:
           path: .
       - uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 24
       - run: npm run test:internal-links
 
   validate_external_links:
@@ -69,7 +69,7 @@ jobs:
           path: .
       - uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 24
       - name: Install dependencies
         run: npm ci
       - name: Run Linkinator
@@ -87,7 +87,7 @@ jobs:
           path: .
       - uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 24
       - run: npm run test:prefixed-links
 
   check_spelling:
@@ -102,6 +102,6 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 24
       - name: Install cSpell
         run: npm run test:spelling

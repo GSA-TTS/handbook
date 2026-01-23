@@ -11,18 +11,18 @@ jobs:
       cache_key: ${{ steps.cache_key.outputs.cache_key }}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - id: cache_key
         run: echo "cache_key=${{ hashFiles('**/**') }}-v1" >> "$GITHUB_OUTPUT"
-      - uses: actions/cache@v3
+      - uses: actions/cache@v5
         id: cache
         with:
           path: .
           key: ${{ steps.cache_key.outputs.cache_key }}
       - if: steps.cache.outputs.cache-hit != true
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
       - if: steps.cache.outputs.cache-hit != true
         run: npm install
       - if: steps.cache.outputs.cache-hit != true
@@ -35,13 +35,13 @@ jobs:
     name: validate html
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
       - run: npm run test:html-validation
 
   validate_internal_links:
@@ -49,13 +49,13 @@ jobs:
     name: validate internal links
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
       - run: npm run test:internal-links
 
   validate_external_links:
@@ -63,13 +63,13 @@ jobs:
     name: validate external links (linkinator)
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
       - name: Install dependencies
         run: npm ci
       - name: Run Linkinator
@@ -81,13 +81,13 @@ jobs:
     name: validate links use helper
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
       - run: npm run test:prefixed-links
 
   check_spelling:
@@ -95,13 +95,13 @@ jobs:
     name: "Check Spelling"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
       - name: Setup node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
-          node-version: 20
+          node-version: 24
       - name: Install cSpell
         run: npm run test:spelling

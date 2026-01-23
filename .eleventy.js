@@ -6,6 +6,7 @@ const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const { headingLinks } = require("./config/headingLinks");
 const baseurl = require("./config/baseurl");
+const fs = require('fs');
 
 const HandbookPlugin = require("./config/HandbookPlugin.js");
 
@@ -13,6 +14,25 @@ module.exports = function (config) {
   // Add plugins
   config.addPlugin(EleventyRenderPlugin);
   config.addPlugin(HandbookPlugin);
+
+  // Add filter for file mtime
+  config.addFilter('mtime', function(page) {
+    // Fallback: use page.date if available, otherwise current date
+    const fallbackDate = page && page.date ? page.date : new Date();
+
+    // Ensure we have an inputPath before attempting to stat
+    if (!page || !page.inputPath) {
+      return fallbackDate;
+    }
+
+    try {
+      const stats = fs.statSync(page.inputPath);
+      return stats && stats.mtime ? stats.mtime : fallbackDate;
+    } catch (err) {
+      // If the file is inaccessible or stat fails, fall back gracefully
+      return fallbackDate;
+    }
+  });
 
   // Copy USWDS init JS so we can load it in HEAD to prevent banner flashing
   config.addPassthroughCopy({

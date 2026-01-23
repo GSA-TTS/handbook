@@ -30,9 +30,9 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^3.1.8",
     "@uswds/uswds": "^3.13.0",
-    "autoprefixer": "^10.4.22",
-    "eleventy-plugin-svg-sprite": "^2.4.5",
-    "esbuild": "^0.25.11",
+    "autoprefixer": "^10.4.23",
+    "eleventy-plugin-svg-sprite": "^2.4.6",
+    "esbuild": "^0.27.1",
     "esbuild-sass-plugin": "^3.3.1",
     "glob": "^9.3.5",
     "js-yaml": "^4.1.1",
@@ -40,7 +40,6 @@
     "markdown-it": "^13.0.2",
     "markdown-it-anchor": "^8.6.7",
     "markdown-it-attrs": "^4.3.1",
-    "postcss": "^8.5.6",
     "postcss-cli": "^10.0.0",
     "sharp": "^0.34.5"
   },
@@ -57,7 +56,12 @@
     "prettier": "^2.8.8"
   },
   "prettier": {},
+  "pnpm": {
+    "overrides": {
+      "sharp": "0.34.5"
+    }
+  },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=24.0.0"
   }
 }

@@ -8,7 +8,7 @@ layout: layouts/pure
 {%- for page in collections.all %}
   <url>
     <loc>{{ site.host }}{{ page.url }}</loc>
-    <lastmod>{{ page.date.toISOString() }}</lastmod>
+    <lastmod>{{ (page | mtime).toISOString() }}</lastmod>
   </url>
 {%- endfor %}
 </urlset>

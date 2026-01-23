@@ -14,6 +14,13 @@ module.exports = function (config) {
   config.addPlugin(EleventyRenderPlugin);
   config.addPlugin(HandbookPlugin);
 
+  // Add filter for file mtime
+  config.addFilter('mtime', function(page) {
+    const fs = require('fs');
+    const stats = fs.statSync(page.inputPath);
+    return stats.mtime;
+  });
+
   // Copy USWDS init JS so we can load it in HEAD to prevent banner flashing
   config.addPassthroughCopy({
     "node_modules/@uswds/uswds/dist/js/uswds-init.js":

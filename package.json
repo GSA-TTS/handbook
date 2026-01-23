@@ -13,7 +13,7 @@
     "test": "npm run test:prefixed-links && npm run test:internal-links && npm run test:html-validation && npm run test:spelling && npm run test:deps",
     "test:html-validation": "html-validate _site/**/*.html",
     "test:internal-links": "node check-links.js",
-    "test:prefixed-links": "! (grep -Erl \"(?:\\]\\()\\s*(?:/|href=['\\\"]\/|https:\/\/handbook\\.tts\\.gsa\\.gov)\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
+    "test:prefixed-links": "! (grep -Erl \"(?:\\]\\()\\s*(?:/|href=['\\\"]/|https://handbook\\.tts\\.gsa\\.gov)\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
     "test:spelling": "cspell --config ./cSpell.json \"pages/**/*.md\" --no-progress",
     "test:deps": "node check-dependencies.js",
     "podman:build": "podman-compose -f docker-compose.yml build",
@@ -29,9 +29,9 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^3.1.8",
     "@uswds/uswds": "^3.13.0",
-    "autoprefixer": "^10.4.21",
-    "eleventy-plugin-svg-sprite": "^2.4.5",
-    "esbuild": "^0.25.8",
+    "autoprefixer": "^10.4.23",
+    "eleventy-plugin-svg-sprite": "^2.4.6",
+    "esbuild": "^0.27.1",
     "esbuild-sass-plugin": "^3.3.1",
     "glob": "^9.3.5",
     "js-yaml": "^4.1.0",
@@ -40,7 +40,8 @@
     "markdown-it-anchor": "^8.6.7",
     "postcss": "^8.5.6",
     "markdown-it-attrs": "^4.3.1",
-    "postcss-cli": "^10.0.0"
+    "postcss-cli": "^10.0.0",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "cheerio": "^1.1.2",
@@ -53,7 +54,12 @@
     "prettier": "^2.8.8"
   },
   "prettier": {},
+  "pnpm": {
+    "overrides": {
+      "sharp": "0.34.5"
+    }
+  },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=24.0.0"
   }
 }

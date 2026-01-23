@@ -10,7 +10,7 @@
     "pages": "npm run build",
     "serve": "npm run start",
     "start": "eleventy --serve --incremental",
-    "test": "npm run test:prefixed-links && npm run test:internal-links && npm run test:html-validation && npm run test:spelling && npm run test:deps",
+    "test": "npm run test:prefixed-links && npm run test:internal-links && npm run test:html-validation && npm run test:spelling && npm run test:markdown && npm run test:deps",
     "test:html-validation": "html-validate _site/**/*.html",
     "test:internal-links": "node check-links.js",
     "test:prefixed-links": "! (grep -Erl \"(?:\\]\\()\\s*(?:/|href=['\\\"]/|https://handbook\\.tts\\.gsa\\.gov)\" pages && echo \"ERROR: Internal links must use {% page \"page name\" %} to work correctly with Cloud.gov Pages previews. Fix the above pages.\")",
@@ -22,7 +22,8 @@
     "podman:start": "podman-compose -f docker-compose.yml up",
     "docker:start": "docker-compose up",
     "docker:clean": "docker-compose down -v",
-    "podman:clean": "podman-compose -f docker-compose.yml down -v"
+    "podman:clean": "podman-compose -f docker-compose.yml down -v",
+    "test:markdown": "markdownlint pages/**/*.md"
   },
   "author": "",
   "license": "CC0-1.0",
@@ -40,6 +41,7 @@
     "markdown-it": "^13.0.2",
     "markdown-it-anchor": "^8.6.7",
     "markdown-it-attrs": "^4.3.1",
+    "markdownlint": "^0.40.0",
     "postcss-cli": "^10.0.0",
     "sharp": "^0.34.5"
   },
@@ -52,6 +54,7 @@
     "eslint-plugin-import": "^2.32.0",
     "html-validate": "^7.16.0",
     "linkinator": "^7.5.1",
+    "markdownlint-cli": "^0.47.0",
     "node-gyp": "^12.1.0",
     "prettier": "^2.8.8"
   },

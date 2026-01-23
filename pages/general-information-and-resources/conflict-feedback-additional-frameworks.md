@@ -36,8 +36,7 @@ Coaching communicates what “good” looks like, to help the recipient learn an
 
 Evaluation helps someone change specific actions or behaviors, and understand the impact of their actions. Sometimes, we don’t see all of the impacts of our actions, and we need others to gently point out when we (usually unintentionally) misstep.
 
-Susan Scott calls this “[taking responsibility for our emotional wake](https://learningforward.org/wp-content/uploads/2009/08/scott304.pdf)” when we mess up. The key to giving good evaluative feedback is to focus on the actions, not the person, and to assume good intent.
-| Less like... | More like... |
+Susan Scott calls this “[taking responsibility for our emotional wake](https://learningforward.org/wp-content/uploads/2009/08/scott304.pdf)” when we mess up. The key to giving good evaluative feedback is to focus on the actions, not the person, and to assume good intent.| Less like... | More like... |
 | ----------- | ----------- |
 | “You took credit for the team’s work during the demo.” | “When you gave the demo at the final presentation, you didn’t mention the specific contributions of others on the team and it felt like you were taking credit for others’ work. I know you probably just overlooked it, but it hurt feelings and damaged trust on our team.” |
 | “I can’t believe you called me out during the partner meeting!” | “When you asked for my take in that partner meeting, I felt caught off guard. Next time, could you give me a heads’ up that you’ll be asking for my opinion so I know it’s coming?” |

@@ -20,7 +20,7 @@ jobs:
           path: .
           key: ${{ steps.cache_key.outputs.cache_key }}
       - if: steps.cache.outputs.cache-hit != true
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
           node-version: 24
       - if: steps.cache.outputs.cache-hit != true
@@ -39,7 +39,7 @@ jobs:
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
           node-version: 24
       - run: npm run test:html-validation
@@ -53,7 +53,7 @@ jobs:
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
           node-version: 24
       - run: npm run test:internal-links
@@ -67,7 +67,7 @@ jobs:
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
           node-version: 24
       - name: Install dependencies
@@ -85,7 +85,7 @@ jobs:
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v6
         with:
           node-version: 24
       - run: npm run test:prefixed-links
@@ -100,7 +100,7 @@ jobs:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
       - name: Setup node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
           node-version: 24
       - name: Install cSpell

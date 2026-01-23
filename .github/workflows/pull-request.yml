@@ -11,10 +11,10 @@ jobs:
       cache_key: ${{ steps.cache_key.outputs.cache_key }}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - id: cache_key
         run: echo "cache_key=${{ hashFiles('**/**') }}-v1" >> "$GITHUB_OUTPUT"
-      - uses: actions/cache@v3
+      - uses: actions/cache@v5
         id: cache
         with:
           path: .
@@ -35,7 +35,7 @@ jobs:
     name: validate html
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
@@ -49,7 +49,7 @@ jobs:
     name: validate internal links
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
@@ -63,7 +63,7 @@ jobs:
     name: validate external links (linkinator)
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
@@ -81,7 +81,7 @@ jobs:
     name: validate links use helper
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .
@@ -95,7 +95,7 @@ jobs:
     name: "Check Spelling"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/cache/restore@v3
+      - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
           path: .

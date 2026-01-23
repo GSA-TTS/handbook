@@ -33,7 +33,7 @@ For each tool mentioned below, we include links to:
 
 **[Slack]({% page "/tools/slack/" %})** is an instant messaging tool that uses
 themed chat rooms (called channels) to help teams quickly communicate on a daily
-basis, in an open, collaborative way. The 18F team will create a channel for
+basis, in an open, collaborative way. The TTS team will create a channel for
 your project in our Slack workspace, which you can access from your web browser.
 It may be useful to read about
 [what managers need to know about social tools](https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools)
@@ -80,7 +80,7 @@ tools]({% page "/getting-started/classes/meetings-and-meeting-tools/#videoconfer
 
 **[Google Drive]({% page "/google-drive/" %})** is a storage and collaboration
 platform for spreadsheets, slide decks, and text documents. Documents on Google
-Drive are not public, but can be shared among team members. 18F can give your
+Drive are not public, but can be shared among team members. TTS can give your
 team access to our Google Drive so everyone can collaborate.
 
 <details markdown="block">
@@ -155,7 +155,7 @@ boards can be private or public.
 - **[Smartsheet]({% page "/tools/smartsheet/" %})**
 - **[ZenHub:](https://www.zenhub.com/)** Works within GitHub and provides
 higher-level scoping and linking (e.g., epics and dependencies). Unfortunately,
-[we cannot expand use at GSA](https://github.com/18F/tts-tech-operations/issues/1040).
+[we cannot expand use at GSA](https://github.com/GSA-TTS/tts-tech-operations/issues/1040).
 </details>
 
 Here are some common barriers to using Trello with partners and some workarounds
@@ -190,9 +190,9 @@ try:
 ### Development and Documentation
 
 **[GitHub]({% page "/github/" %})** is an online code storage and collaboration
-platform. 18F will create a repository (commonly called a repo) for the project
-and use it to store both documents and code. By default, 18F's work with your
-team on GitHub will be visible to the public. Your 18F team can tell you more
+platform. TTS will create a repository (commonly called a repo) for the project
+and use it to store both documents and code. By default, TTS's work with your
+team on GitHub will be visible to the public. Your TTS team can tell you more
 about the benefits of working in the open. Teams may also use GitHub, as well as
 browser add-ons that complement it, to collaboratively track project tasks.
 
@@ -218,30 +218,22 @@ project such as design principles, research results, or a project roadmap.
 
 ### Remote Whiteboarding
 
-**[Mural]({% page "/tools/mural/" %})** is an online collaborative whiteboard
-tool. It allows teams to collectively generate ideas with sticky notes and
-sorting them around as if they were in the same room. You don't need an account
-to participate and you can access the tool from any browser.
+As of early 2025, TTS is transitioning from Mural to Figma's FigJam as our primary digital whiteboarding tool. FigJam is already in active use at TTS and Figma is working toward FedRAMP Moderate authorization.
+
+**What is replacing Mural?**
+
+TTS will transition to FigJam (Figma) as the recommended digital whiteboard. FigJam supports sticky-note style collaboration, templates, and integrations that teams commonly used in Mural.
+
+**Timeline and impact**
+
+- The Mural contract expired in early 2025 and Mural was decommissioned for TTS teams. FigJam licenses are being provisioned to TTS users; priority access was given to users with the most urgent needs.
+- If you have important Mural boards, export them now (save as PDF and/or export where possible). Tech Ops has tested import of Mural boards into FigJam, but some manual adjustments may be required.
 
 <details markdown="block">
 <summary> Compliance and records considerations</summary>
 
-- Mural is hosted on Azure commercial public cloud. It has a GSA ATO but doesn't
-  have a FedRAMP authorization or anything in process.
-- Mural generally wouldn't be used to store “records” but instead to organize
-  information for discussion purposes. GSA Records Officer has determined that
-  “this product likely creates a number of record types. However, the specific
-  types of records created will depend on the context in which this product is
-  used.” As such, be sure to export and archive information from Mural
-  periodically.
-- Truly low-impact: Mural shouldn't be used to store anything confidential or
-  authoritative. Instead, use it for ephemeral organization of information and
-  production visualizations. Non-GSA participants are invited to use the service
-  anonymously.
-- **IF** all the participants are on a Google Meet (or at least have
-Google/[GACA](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/sharing-securely-in-google/gsa-affiliated-customer-account-gaca)
-accounts), **THEN** try
-[Google Jamboard](https://insite.gsa.gov/employee-resources/information-technology/do-it-yourself-self-help/google-g-suite-apps/jamboard-digital-whiteboard).
+- FigJam/Figma is pursuing FedRAMP Moderate authorization; check with Security prior to using for sensitive content.
+- As with any whiteboarding tool, avoid storing confidential or authoritative records in the whiteboard; export and archive important artifacts in an approved record repository (e.g., Google Drive, GitHub, or a records system).
 </details>
 
 ### Feedback Collection
@@ -287,16 +279,16 @@ at this stage are to:
 - **Identify any potential barriers** to the shared use of collaborative tools,
   so they can potentially be resolved before the project begins
 
-Early in the project, 18F and the partner team should agree upon a basic suite
+Early in the project, TTS and the partner team should agree upon a basic suite
 of collaboration tools to support team activities. Consider these general
 strategies:
 
 - **Meet clients where they are.** If a partner already has a tool they use
   regularly to accomplish the same goal, it's likely worth it to make use of
   established workflows, even if the tool doesn't have as many bells and
-  whistles as another tool that 18F staff uses.
+  whistles as another tool that TTS staff uses.
 - **Trial and error.** It may take a few cycles to figure out which tools work
-  best for 18F and the partner team. Working through any issues with different
+  best for TTS and the partner team. Working through any issues with different
   tools in a Sprint 0 can be an effective way to set up the remainder of the
   engagement for success.
 - **Troubleshoot with others.** Ask in Slack to see if your teammates have faced

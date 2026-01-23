@@ -8,7 +8,7 @@ redirect_from:
 
 ## Quick reference
 
-### 18F
+### GSA-TTS
 
 - **Out of Office - #670:** Any time you are out of office for less than 3
   weeks. Including:
@@ -32,7 +32,7 @@ redirect_from:
   - Medical or disability leave,
   - Extended jury leave, or
   - Any significant Out of Office time other than accrued PTO and sick leave.
-- **18F Project work - project ID varies:** The specific projects you're working
+- **GSA-TTS Project work - project ID varies:** The specific projects you're working
   on. Please see [below](#what-activities-do-i-record-billable-hours-for) for
   more guidance on project billable work.
 
@@ -40,12 +40,12 @@ redirect_from:
   they need to be Tocked differently. Clarify with your AM which billing model
   your project uses._
 
-- **18F Engagement Management - project ID varies:** This code is used for
+- **GSA-TTS Engagement Management - project ID varies:** This code is used for
   non-primary project team members for any support given to the project,
   including staffing the project, providing feedback to their staff regarding
   their project, conducting postmortems, meeting to share information and
   lessons learned from other projects, etc.
-- **18F Administrative & Supervisory - #1814:** Time spent on required administrative tasks,
+- **GSA-TTS Administrative & Supervisory - #1814:** Time spent on required administrative tasks,
   organizational meetings, training, and supervisory tasks for people with direct reports:
 
   - Administrative tasks, including:
@@ -58,9 +58,9 @@ redirect_from:
     - Any time you cannot work because of GSA IT forced reboots or updates, etc.  
   - Organizational meetings, including:
     - Cohort or chapter huddles,
-    - 18F Team Coffee,
-    - TTS Supervisor meetings,
-    - TTS All Hands,
+    - GSA-TTS Team Coffee,
+    - GSA-TTS Supervisor meetings,
+    - GSA-TTS All Hands,
     - FAS Town Halls,
     - GSA Town Halls, etc.  
   - Performance management/performance reviews, including:
@@ -70,9 +70,8 @@ redirect_from:
     - Drafting performance plans,
     - Entering performance reviews into HRLinks,
     - 1:1s discussing career development or feedback, etc.
-   
-- **18F Hiring / Onboarding - #1241:** Time specifically spent working on 18F
-  hiring and onboarding. Hiring activity includes:
+
+- **GSA-TTS Hiring / Onboarding - #1241:** Time specifically spent working on GSA-TTS hiring and onboarding. Hiring activity includes:
 
   - Interviews,
   - Note taking,
@@ -93,30 +92,30 @@ redirect_from:
   Please do not use this to track hiring work for any other part of TTS. We
   cannot work without an agreement, so if you find yourself doing hiring
   activities (including interviews, note taking, and onboarding support) for any
-  other group outside of 18F, please set it down and talk with your supervisor.
+  other group outside of GSA-TTS, please set it down and talk with your supervisor.
 
-- **18F Intake & Scoping - #1811:** Capture all activities for calls with
+- **GSA-TTS Intake & Scoping - #1811:** Capture all activities for calls with
   partners, briefings with the Scoping team, proposal writing, and working with
   the TTS Agreements team to get to a signed agreement. This includes any
   conversation with any part of TTS, OMB, GSA, a State/Local/Tribal/Territorial
   government entity, or a potential partner agency where they ask us to do work.
-- **18F Staffing - #1812:** Tracks activities done to match staff to projects.
+- **GSA-TTS Staffing - #1812:** Tracks activities done to match staff to projects.
   This includes:
   - All work by Staffing Reps,
   - Conversations that staff have with Staffing Reps, and
   - Any work done to plan for capacity, project assignments and backfills,
     microrequests, and briefings from AMs or Scoping SMEs to Staffing Reps on
     upcoming work.
-- **18F Delivery Assurance Team - #1813:** Tracks work contributing to the
+- **GSA-TTS Delivery Assurance Team - #1813:** Tracks work contributing to the
   Delivery Assurance team efforts.
-- **18F Non-Billable Work - #968:** Time spent working on activities for 18F
+- **GSA-TTS Non-Billable Work - #968:** Time spent working on activities for GSA-TTS
   that do not fit in other Tock code categories. You are strongly encouraged to
-  work on activities that align clearly with the 18F goals and that fit into
+  work on activities that align clearly with the GSA-TTS goals and that fit into
   other existing Tock categories.
-- **18F / External Detail - #1280:**
+- **GSA-TTS / External Detail - #1280:**
   - If you are on an external detail to TTS, GSA, or another agency, please Tock
     100% to this Tock line when you work.
-  - If you are on a detail within 18F, please do not use this Tock line.
+  - If you are on a detail within GSA-TTS, please do not use this Tock line.
 
 If you still have questions about how to Tock, please check out the
 [Revised FY23 Tock Guidance](https://docs.google.com/document/d/1FG4Gsv-diySrt8fgZxMCRg9mA1SD2RZJRC07ZlDAGAI/edit#)
@@ -134,10 +133,10 @@ for more comprehensive details.
 
 ## What is Tock, and why do we use it?
 
-To facilitate our fee-for-service business model, 18F developed a timekeeping
+To facilitate our fee-for-service business model, GSA-TTS developed a timekeeping
 application called [Tock](https://tock.18f.gov/) that's now used by many of the
 teams across TTS. You can access Tock by visiting
-[tock.18f.gov](https://tock.18f.gov), and we recommend bookmarking it for easy
+[Tock](https://tock.18f.gov), and we recommend bookmarking it for easy
 reference.
 
 Based on our business model, we have to account for time logged to a project.
@@ -278,7 +277,7 @@ Tock hours for you during your out of office period. Example:
 “I will be out of the office from Monday September 16th through Monday September
 23rd: could you enter 40 hours for me to #670 for the 16th-20th time period?”
 
-## 18F billable hour expectations
+## GSA-TTS billable hour expectations
 
 If you’re an individual contributor or a lead, you’re expected to spend at least
 80% of your time on billable project work. That leaves up to 20% of your time to
@@ -303,7 +302,7 @@ split that time between yourselves. If you anticipate any change to your billing
 levels for a project, please discuss with your project’s account manager.
 
 There are a few types of non-billable work, used to manage the running of the
-organization: GSA-mandated non-billable work, 18F business development, hiring
+organization: GSA-mandated non-billable work, GSA-TTS business development, hiring
 and non-billable work.
 
 GSA-mandated non-billable work includes time spent in HR Links, mandatory OLU
@@ -311,7 +310,7 @@ trainings, IDPs, SF-182s, annual reviews, troubleshooting GSA-issued hardware
 (like PIV readers), and so forth. These are the things we don’t have a choice
 but to spend time on.
 
-18F non-billable work includes time spent on hiring, in guilds and working
+GSA-TTS non-billable work includes time spent on hiring, in guilds and working
 groups (that are not in service of project work), team coffees, chapter
 meetings, approved internal projects, conference attendance, training events,
 and anything else that contributes to the running of TTS as an organization.
@@ -329,13 +328,6 @@ If you find you don’t have enough work to hit the minimum billable hour target
 expected of you, first double-check that you're billing for all the activities
 listed above. Make sure to also check with your project lead that there aren’t
 other tasks you can take on.
-
-If you still find that you don't have enough work to bill to the hour
-expectation laid out above, **we want to know about it!** Help us get to the
-bottom of this with you (and prevent this from happening in the future) by
-reaching out. For 18F, please reach out to both your supervisor and the Account
-Manager on your project, and also copying the 18F Director of Projects outlining
-where things are at.
 
 ### Working more than the minimum hours
 

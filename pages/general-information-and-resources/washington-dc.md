@@ -35,7 +35,7 @@ cSpell: ignore capitalweather,Thurgood,Wich,Greenberry,Totten,Smar,WMATA
           <strong>Office / Seats</strong>
         </td>
         <td class="col-value">
-           As of 5/18/25, TTS is located in the G100 wing. <a href="https://insite.gsa.gov/employee-resources/return-to-office-information/1800-f-restacking-plans">See Insite</a> for the latest maps and look for the space(s) listed for FAS.
+           As of 8/18/25, TTS is located in the 2400 wing. <a href="https://insite.gsa.gov/employee-resources/return-to-office-information/1800-f-restacking-plans">See Insite</a> for the latest maps and look for the space(s) listed for TTS.
         </td>
       </tr>
       <tr>
@@ -116,9 +116,7 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21
 for the second hour to a full day.
 
 ### Once inside GSA
-TTS is located on the ground floor, in the 1st wing. When entering from the F
-Street entrance, turn left once you pass through security. Walk down the
-hallway towards 18th St and take the stairs down to the ground floor. Turn left coming out of the stairs and look for the Mac workstations marked "TTS only."
+TTS is located on the second floor, in the 4th wing (also known as the "infill"). When entering from the F Street entrance, go up the stairs or elevator once you pass through security. Walk down the hallway towards E St and take a left into the fourth wing near the end of the hallway. Look for workspaces marked TTS.
 
 
 ## How do I...
@@ -161,25 +159,31 @@ You will find out the exact location once you arrive at orientation.
 
 ### Work from the office
 
-The TTS space is in the G100 wing. See [Once inside GSA](#once-inside-gsa) for directions.
+The TTS space is in the 2400 wing. See [Once inside GSA](#once-inside-gsa) for directions.
 
-G100 is shared with other FAS offices. The workstations with Macs are "hot desks" for TTS employees to use without booking; TTS employees may use BookIt to reserve workstations compatible with PCs that are available for use by all FAS employees. G100 has a small number of reservable conference rooms.
+The 2400 wing has workstations with both Macs and PCs that are loosely assigned by TTS business unit. 2400 has six small, reservable conference rooms and two phone booths that cannot be reserved. The 7200 and 7400 wings also have unassigned workspaces and reservable conference rooms that you can work from. 
+
+You can reference the latest [2400 seating layout](https://docs.google.com/presentation/d/17fEVTVZBBSnq_p3PZ4IFtNz81DFd-dIGDZkNcIjlWio/edit?slide=id.g3789f611d41_1_0#slide=id.g3789f611d41_1_0) and this [1800F RTO Info document](https://docs.google.com/document/d/1JgP13xg19n6MdIRWXRwxQx8R-EpaiCPndv5CiJyOpbc/edit?tab=t.0#heading=h.ysxik8tpdylu) specific to TTS. 
+
+### Book rooms for meetings
+
+The 2400 wing has six small (3-4 people max) conference rooms that can be reserved directly in Google Calendar following [instructions on Insite](https://insite.gsa.gov/employee-resources/information-technology/apps-software/reserve-rooms-and-parking#availability). You can add the room calendars to your personal calendar to more easily view upcoming availability.
+
+There are also bookable rooms in the 7400 wing.
 
 ### Mail something to the office
 
 Send mail to:
 
 > (you can add "ATTN: Name" at top if desired) <br> General Services
-> Administration <br> 1800 F ST NW <br> Rm G100 <br> Washington, DC 20405-0001
+> Administration <br> 1800 F ST NW <br> Rm 2400 <br> Washington, DC 20405-0001
 
 ### Access the building after hours
 
 Go to the F Street entrance, where 24/7 access is available.
 Please note that the building closes at 6 pm, a GSA badge is required for after hours access and no visitors are permitted.
 
-### Book rooms for meetings
 
-Use [BookIt](https://bookit.gsa.gov) to reserve rooms. 
 
 ### Receive visitors
 

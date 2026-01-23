@@ -11,13 +11,19 @@ This guide covers the offboarding policy and process.
 
 These steps apply to all TTS employees: permanent employees, term employees who
 are at the end of their term, and term employees choosing to resign before their
-term ends.  These steps also apply to employees who will remain in federal government and other GSA offices.
+term ends.  These steps also apply to employees who will remain in federal 
+government and other GSA offices.
 **Begin this process at least two weeks before your last day of work.**
 Your last day at TTS cannot be a federal holiday.
 
-### 1. Fill out the [TTS Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSfviwI1hePL1oaw7A5hePEfHIgQJQwuheXaoUNVTky0SSx5zw/viewform)
+### 1. Email notice of your resignation
 
-The [TTS Offboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSfviwI1hePL1oaw7A5hePEfHIgQJQwuheXaoUNVTky0SSx5zw/viewform) provides PeopleOps essential information. Once you've submitted the form, you will receive an Offboarding Checklist email from PeopleOps. Your supervisor will be copied on the email.  
+Please send a separation email/letter to leavingTTS@gsa.gov, 
+cc'ing your supervisor with:
+- reason for leaving (e.g. resignation, term out, transfer, etc)
+- home address
+- home email
+- last day of work
 
 Note: once we receive your form, we will assume your departure is
 public knowledge. If you would like to tell folks yourself, please handle
@@ -59,8 +65,8 @@ supervisor that they've worked under for 120 days.
   and [Form SF 3106](https://www.opm.gov/forms/pdf_fill/sf3106.pdf) before your
   last day.
 - Check your leave balances.
-  - If you received [Award Leave]({% page "/travel-and-leave/leave/#award-leave" %}) from your end-of-year performance review or a Special Act Award, it **will not** be paid out. You must use it before you depart GSA, or you will forfeit it.
-  - Your Annual Leave **will** be paid out. If you are staying in the federal government and you are not taking a break in employment, then it will be automatically transferred to your next agency (but it often takes a few pay periods). We recommend printing a copy of your last Leave and Earnings statement before the end of your final day. 
+  - If you received [Award Leave]({% page "/travel-and-leave/leave/#award-leave" %}) from your end-of-year performance review or a Special Act Award, it **will not** be paid out. You must use it before you depart GSA, or you will forfeit it. Similarly, travel comp time **will not** be paid out. 
+  - Your Annual Leave **will** be paid out. If you are staying in the federal government and you are not taking a break in employment, then it will be automatically transferred to your next agency (but it often takes a few pay periods). We recommend printing a copy of your last Leave and Earnings statement before the end of your final day. Comp time and credit hours **will** also be paid out. 
   - Your Sick Leave **will not** be paid out; however, you will not lose it. If your next role is still within the federal government and you are not taking a break in service, it will be automatically transferred to your next agency (but it often takes a few pay periods). If you leave the federal government and later decide to rejoin, your Sick Leave will be reinstated. If you are eligible for the FERS retirement pension, unused Sick Leave may be added to your [monetary calculation upon retirement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-general-information/#:~:text=Sick%20Leave%20Used%20in%20the%20Computation%20of%20an%20Annuity).  
 - You may be entitled to
   [unemployment insurance](https://oui.doleta.gov/unemploy/unemcomp.asp) if you
@@ -92,10 +98,9 @@ document.
 - Make sure that you aren't the superuser, sole owner, approver, admin, etc. for
   Tock, important calendars, Google Groups, critical documents, or processes.
   - Move Google Drive files to shared folders, when appropriate.
-  - [Invision instructions]({% page "/tools/invision/#offboarding" %})
+  - Invision offboarding instructions are currently unavailable.
 - Move all calendar invites off your calendar. Nothing worse than an orphaned
   meeting!
-- Log your final Tock hours.
 - Make a list of the approved software that you downloaded or were issued (not
   necessary to note the pre-installed software).
   - Unregister the software that you're able to.
@@ -110,31 +115,16 @@ equipment is returned.
 
 ## Offboarding process
 
-A member of the People Ops Team will `Duplicate` the `Template` in the
-[Off-Boarding Tasks doc](https://docs.google.com/spreadsheets/d/1rp8n78tFHqyvvHzsYuBo_XE3Jg1LwOuOX-R9TMRnZI8/edit#gid=1916685737)
-to make a new checklist once **leavingTTS@gsa.gov** has been notified that a
-team member is leaving. If the checklist hasn't been created, please email
-[leavingTTS@gsa.gov](mailto:leavingTTS@gsa.gov) or ping #people-ops for help.
-More detail for certain tasks is below. Note that, per GSA policy, the
-"technical offboardings" (access to any work system) need to happen within 24
-hours of the person ending their work at GSA.
+A member of your team should give you instructions about offboarding for your specific
+team, including creating an IT ticket and completing a checklist on a Form 1655. Complete
+all requested steps and see [this Google Doc](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0)'s section under "Separations" for the 
+most current GSA process information.
 
 ### Supervisor
 
 - Work with the employee to transition the employee's workload to other team
   members.
-- Ensure they complete their last timesheet in Tock.
-
-### People-Ops Team
-
-- Provide
-  [TTS Exit Interview Questionnaire](https://forms.gle/PrHtjvkMy6jiMEtW9) to
-  offboarding employee.
-  - For offboarding interns, use
-    [this survey](https://goo.gl/forms/XOy7QO4zcnz6LyLh1).
-- Complete the
-  [Pre-Exit Clearance Checklist](https://www.gsa.gov/reference/forms/preexit-clearance-checklist)
-  with the employee.
+- Ensure that a PAR has been submitted for the resignation.
 
 ## Saying goodbye
 

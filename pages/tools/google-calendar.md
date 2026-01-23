@@ -24,17 +24,6 @@ The following calendars are used for internal communication:
 - [TTS Guilds and Working Groups](https://www.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com):
   Meetings and other events pertaining to working groups and guilds.
 
-**18F also uses these shared calendars:**
-
-- [18F Events](https://calendar.google.com/calendar/embed?src=gsa.gov_3rapmucstu32ma18da84el20ug%40group.calendar.google.com):
-  Team-wide events, start dates, standups, and so on.
-- 18F Interviews: New hire interviews.
-- [18F Out of office](https://calendar.google.com/calendar/embed?src=gsa.gov_bth7useo0eeiicjgos2di6ph8k%40group.calendar.google.com):
-  In addition to <em>officially</em> requesting time off in [HR
-  Links]({% page "/getting-started/classes/gsa-internal-tools/#hr-links" %}),
-  please also add an event on the Google calendar "18F Out of Office" and invite
-  yourself, so we all know when you’re gone.
-
 **Solutions also uses these shared calendars:**
 
 - [TTS Solutions Events](https://calendar.google.com/calendar?cid=Z3NhLmdvdl92Nm4xaDBlcTc3cHNwMjNzMnVjanFtcjE3c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)

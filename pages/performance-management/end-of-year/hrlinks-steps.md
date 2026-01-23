@@ -85,7 +85,7 @@ If modifications need to be made to an existing performance plan, a plan can be
 re-opened by the Supervisor and [resubmitted to the employee to
 acknowledge]({% page "/performance-management/end-of-year/hrlinks-steps/#submitting-a-performance-plan-for-employee-approval" %}).
 
-**_NOTE: 120 days must pass from the date the employee acknowledges the updated
+**_NOTE: 90 days must pass from the date the employee acknowledges the updated
 plan before they can be rated against it._**
 
 - Step-by-step instructions:

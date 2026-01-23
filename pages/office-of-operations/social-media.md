@@ -13,9 +13,10 @@ _Learn how TTS uses social media._
 As GSA employees, we all need to follow the
 [GSA Social Media Policy](https://www.gsa.gov/directives/files?file=2023-05%2FCC047328_final_Order_OSC_21062A%2C_GSA_Social_Media_Policy.pdf)
 when posting on social media; this policy includes guidance for both official
+
 TTS social media accounts and personal use of social media. If you'd like to
 engage in a discussion or comment thread in your professional capacity as a GSA
-employee, please let the TTS Outreach team know beforehand so they can provide
+employee, please let the [TTS Outreach & Stakeholder Engagement team](mailto:tts-outreach@gsa.gov) know beforehand so they can provide
 guidance. When posting on social media, always keep in mind the Hatch Act, FOIA,
 Ethics, and Code of Conduct.
 
@@ -40,17 +41,14 @@ retweets from a group highlighting a GSA principal’s appearance on a program
 Be careful to limit your tweet or retweet to only sharing facts rather than
 encouraging people or GSA employees to attend a conference. For example:
 
-- Don't: @18F's Angela Colter is speaking at this event - make sure to sign up
-  and go!
-- Do: @18F's Angela Colter is speaking about GSA priorities @GovMatters.
+- Don't: `@GSA-TTS` `@person` is speaking at this event - make sure to sign up and go!
+- Do: `@GSA-TTS` `@person` is speaking about GSA priorities @GovMatters.
 
 Also, avoid making any personalized statements as they would be considered an
 endorsement. For example:
 
-- Don't: This is my favorite fed IT event of the year! @codedotgov's Joe Castle
-  speech on code.gov priorities @GovMatters
-- Do: The GSA Administrator is speaking tomorrow: @codedotgov's Joe Castle
-  speech on code.gov priorities @GovMatters
+- Don't: This is my favorite fed IT event of the year! `@event` `@person` speech on `@product/program` priorities @GovMatters
+- Do: The GSA Administrator is speaking tomorrow: `@event` `@person` speech on `@product/program` priorities @GovMatters
 
 When tweeting an image from a TTS account, follow
 [Twitter’s directions](https://help.twitter.com/en/using-twitter/picture-descriptions)

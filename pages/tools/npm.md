@@ -13,12 +13,12 @@ distribute JavaScript libraries and programs for software development.
 ## How do I publish npm packages for TTS?
 
 Any npm packages published for work should be published under the
-[18f](https://www.npmjs.com/org/18f) npm organization. You may use your personal
-npm account for membership to the 18f organization. Ask
+[@gsa-tts](https://www.npmjs.com/org/gsa-tts) npm organization. You may use your personal
+npm account for membership to the gsa-tts organization. Ask
 {% slack_channel "tts-tech-operations" %} for how to get membership or a token for
 publishing.
 
 ## For admins
 
 Login with your npm account and remove the user from the
-[18f organization](https://www.npmjs.com/settings/18f/members).
+[gsa-tts organization](https://www.npmjs.com/settings/gsa-tts/members).

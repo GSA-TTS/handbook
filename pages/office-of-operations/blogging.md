@@ -21,17 +21,13 @@ idea that you think will help advance TTS’s mission, we’d love to hear it.
 
 ## Choosing a blog
 
-TTS has a number of blogs that employees can publish to. Normally folks will
+TTS has a number of blogs that employees can publish content to. Normally folks will
 publish to their team's blog. Depending on the content, however, it is possible
 that you could publish to the blog of a team that isn't your own. These are the
 TTS blogs:
 
 - [challenge.gov blog](https://www.challenge.gov/blog/)
-- [Citizen Science blog](https://www.citizenscience.gov/blog/)
-- [code.gov blog](https://medium.com/@CodeDotGov)
-- [data.gov blog](https://www.data.gov/meta/)
 - [digital.gov blog](https://digital.gov/posts/)
-- [18F blog](https://18f.gsa.gov/blog/)
 - [FedRAMP blog](https://www.fedramp.gov/blog/)
 - [GSA blog](https://www.gsa.gov/blog/)
 - [USAGov blog](https://blog.usa.gov/)
@@ -61,9 +57,7 @@ In sum, our goals are:
 
 ### Execution
 
-Our publications adhere to
-[18F’s Content Guide](https://content-guide.18f.gov/), actively promoting a
-unified style and a multitude of voices. The Outreach Team determines editorial
+The [TTS Outreach & Stakeholder Engagement Team]({{base.baseurl}}/office-of-operations/outreach/) determines editorial
 strategy; that team also oversees the drafting and editing processes.
 
 The blogs are further supported by volunteer writers across TTS/GSA. Team
@@ -175,7 +169,7 @@ of the linked examples only loosely follow these formats.
 
 ### Writing about products
 
-#### Grand idea project launch — [example](https://18f.gsa.gov/2015/10/29/welcome-to-betafec/)
+#### Grand idea project launch
 
 - What we launched
 - The problem we addressed
@@ -186,7 +180,7 @@ of the linked examples only loosely follow these formats.
 - What’s next
 - Call to action
 
-#### One detail product launch — [example](https://18f.gsa.gov/2016/04/20/a-clear-audience-makes-for-a-good-blog-post/)
+#### One detail product launch
 
 - What we launched
   - But I want to focus on this one detail
@@ -195,7 +189,7 @@ of the linked examples only loosely follow these formats.
 - Summary of other things people can find in the product
 - Call to action to explore product or otherwise engage
 
-#### Product update — [example](https://18f.gsa.gov/2017/02/02/cloud-gov-is-now-fedramp-authorized/)
+#### Product update
 
 - What’s the new feature
 - Link and summary of previous work
@@ -205,7 +199,7 @@ of the linked examples only loosely follow these formats.
 - Connect the feature back to the central mission of the partner or product
 - Next steps for the team
 
-#### One thing I learned — [example](https://18f.gsa.gov/2016/08/29/data-act-prototype-simplicty-is-key/)
+#### One thing I learned
 
 - Brief explanation of your project and your work on that project
 - Introduction of interesting thing you learned
@@ -215,7 +209,7 @@ of the linked examples only loosely follow these formats.
 - Point to documentation or artifact if it exists
 - Question or call to action
 
-#### Retrospective — [example](https://18f.gsa.gov/2016/07/07/when-a-micropurchase-doesnt-work-out-we-try-to-learn-from-it/)
+#### Retrospective
 
 - Explanation of agile retrospectives and why this was a notable one
 - Background on product/team/process that was being retroed
@@ -224,7 +218,7 @@ of the linked examples only loosely follow these formats.
 - How we’ve used that to change something
 - Next steps
 
-#### Technical explanation — [example](https://18f.gsa.gov/2016/04/08/how-we-get-high-availability-with-elasticsearch-and-ruby-on-rails/)
+#### Technical explanation
 
 - Explanation of the product or feature this technical explanation applies to
 - Your goal in developing this technical fix
@@ -237,7 +231,7 @@ of the linked examples only loosely follow these formats.
 
 ### Writing about non-TTS work
 
-#### Highlight of federal innovation separate from TTS work — [example](https://18f.gsa.gov/2016/05/24/the-user-centered-redesign-of-identitytheft-gov/)
+#### Highlight of federal innovation separate from TTS work
 
 - Brief introduction on the work
   - If TTS has worked with this agency on a separate project, mention our
@@ -247,7 +241,7 @@ of the linked examples only loosely follow these formats.
 - Connection to how TTS uses similar techniques or developed similar projects
 - Concluding paragraph on general trend/innovation in government
 
-#### Highlight of innovative work elsewhere in TTS or GSA — [example](https://18f.gsa.gov/2016/10/14/iterative-workplace-design-denver-federal-center/)
+#### Highlight of innovative work elsewhere in TTS or GSA
 
 - Explanation of what happened
 - Why this is great and connects to TTS principles or projects
@@ -255,7 +249,7 @@ of the linked examples only loosely follow these formats.
 - Hopes for positive outcome from this work
 - Call to action or link to additional work by TTS/GSA
 
-#### Outside adaptation or use of an TTS product — [example](https://18f.gsa.gov/2015/11/10/boston-is-using-gsa-calc-tool/)
+#### Outside adaptation or use of an TTS product
 
 - Who, what, when of someone reusing or adapting an TTS product
 - Original reason for this product. How it’s being reused/adapted
@@ -266,7 +260,7 @@ of the linked examples only loosely follow these formats.
 
 ### Writing about ideas and policies
 
-#### How to/Guide — [example](https://18f.gsa.gov/2015/11/20/how-we-use-a-lean-approach-to-product-design/)
+#### How to/Guide
 
 - What this guide will teach you
 - Who this guide is useful for
@@ -279,7 +273,7 @@ of the linked examples only loosely follow these formats.
   - And how it’s improved our projects
 - Call to action and links to additional resources
 
-#### Culture or principle explanation — [example](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)
+#### Culture or principle explanation
 
 - Brief explanation of cultural value and why it’s good
 - The cultural idea or practice you want to talk about
@@ -289,7 +283,7 @@ of the linked examples only loosely follow these formats.
 - Next steps or ways we want to refine this practice
 - Question for readers
 
-#### Announcement of large changes or new policies — [example](https://18f.gsa.gov/2016/11/22/a-vulnerability-disclosure-policy-for-the-technology-transformation-service/)
+#### Announcement of large changes or new policies
 
 - Announcement of new change
 - 2 additional important details
@@ -330,10 +324,7 @@ especially good for highlighting the innovative work happening around the
 government, getting a different perspective on TTS projects, and for showing how
 agencies are adapting our tools for their own use. Our blog team is happy to
 work with guest authors to develop an idea and edit their writing. We'll work to
-support their tone and voice, but all posts on the TTS blogs will follow our
-[Content Guide](https://content-guide.18f.gov/). Posts from guest authors will
-have to go through the communications approval process at their agency as well
-as at TTS and GSA.
+support their tone and voice. Posts from guest authors will have to go through the communications approval process at their agency as well as at TTS and GSA.
 
 ### No authors
 

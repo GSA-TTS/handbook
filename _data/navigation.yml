@@ -286,9 +286,6 @@ primary:
           - text: Onboarding Buddy Guide
             url: https://docs.google.com/document/d/1rO4TRcqYM-j70cHC1y8Vabfwp9TWwp5WFF7BraSUxLk/edit
             internal: false
-          - text: Psychological Safety
-            url: general-information-and-resources/psychological-safety/
-            internal: true
           - text: Reasonable Accommodations
             url: general-information-and-resources/reasonable-accommodations/
             internal: true
@@ -458,7 +455,7 @@ primary:
           - text: Portfolios
             children:
               - text: Data
-                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#DSP
+                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services
                 internal: false
               - text: Innovation
                 url: office-of-solutions/innovation-portfolio/
@@ -467,7 +464,7 @@ primary:
                 url: office-of-solutions/public-experience-portfolio/
                 internal: true
               - text: Smarter IT
-                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services/office-of-products-and-programs#SmarterITDelivery
+                url: https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services
                 internal: false
               - text: Secure Cloud
                 url: https://www.fedramp.gov/
@@ -561,7 +558,7 @@ primary:
             url: github/
             internal: true
           - text: Infrastructure (cloud.gov, AWS, etc.)
-            url: https://before-you-ship.18f.gov/infrastructure/
+            url: infrastructure/
             internal: false
           - text: Mural (collaborative whiteboard tool)
             url: tools/mural/
@@ -570,7 +567,7 @@ primary:
             url: qualtrics/
             internal: true
           - text: Security scanning
-            url: https://before-you-ship.18f.gov/security/scanning/
+            url: launching-software/security/
             internal: false
           - text: Smartsheet
             url: tools/smartsheet/

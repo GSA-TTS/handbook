@@ -46,6 +46,8 @@ cSpell: ignore Heppner,Buren,chitown
   </table>
 </div>
 
+The official guide to GSA's office at 230 S Dearborn can be found [here](https://insite.gsa.gov/employee-resources/return-to-office-information/chicago-il-rto-instructions).
+
 ## Getting here from the airport
 
 ### From O'Hare
@@ -116,7 +118,7 @@ Your GSA ID grants you access to the building at any time between 7 a.m. and 6
 p.m. The gates are located by the elevator banks on the south side of the
 building.
 
-To set up turnstile access on your badge, make an appointment using the calendar [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUYtMlFDQlRoTG10fGRlZmF1bHR8NWY2YTg2MTQzZWIwMmVhNjFiZGI3YTEwNmZmOWM1NjU). You'll need to know
+To set up turnstile access on your badge, make an appointment using the calendar [here]([https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUYtMlFDQlRoTG10fGRlZmF1bHR8NWY2YTg2MTQzZWIwMmVhNjFiZGI3YTEwNmZmOWM1NjU](https://calendar.app.google/3Q83cazdYFkNeUaw5)). You'll need to know
 your PIN. If you don't know your PIN, or your badge is not activated, you'll
 need to [make an appointment online](https://portal.usaccess.gsa.gov/scheduler/select-agency?v=20803) for the badging office in room 212.
 
@@ -126,16 +128,15 @@ If you need after-hours access, you can complete [this form](https://drive.googl
 
 ### Book rooms for meetings?
 
-In Chicago, you can book rooms using
-[BookIt](https://bookit.gsa.gov/mobile/menuAction.do?pageForward=home).
+In Chicago, you can book rooms using Google calendar, similar to other GSA offices.
 
 ### Connect to the Wi-Fi
 
 See [Logging in &amp; Networks]({% page "/how-to-log-in/" %}) for details.
 
-### Who else from TTS usually works out of the Chicago office?
+### Where can I find other people from TTS?
 
-Most TTS Chicago-area staff work remotely full-time. However, you will often find Ethan Heppner (TTS Tech Operations) working from the Hub on the 35th floor Wednesdays. There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
+TTS has its own section on the northwest corner of 35 (look for the "Green line" TTS signs". There is also a list of the local leadership of other FAS divisions (outside of TTS) on [Insite](https://insite.gsa.gov/locations/region-5/about-us/federal-acquisition-service).
 
 ## Where are the...?
 
@@ -151,9 +152,9 @@ CSS is also the place to go for mail. You can have packages addressed to [Your n
 
 ### Lockers
 
-Lockers are available throughout the building. Reach out to clay.wilson@gsa.gov if you need an assigned locker.
+Lockers are available throughout the building. Reach out to tia.marshall@gsa.gov if you need an assigned locker.
 
-Day-use lockers are also available in a few areas. You can find some of these on your left if you enter the southwest corner of the 35th floor through the south-facing door. Instructions can be found on the lockers themselves.
+Day-use lockers are also available in the Hub. Instructions can be found on the lockers themselves.
 
 ### Printers
 
@@ -181,14 +182,8 @@ A more comprehensive guide of Chicago office amenities and policies can be found
 
 ## How do people dress?
 
-Feel free to dress how you like! If you wear a T-shirt and jeans, that's fine.
-Sometimes folks wear hoodies. If someone has a meeting with agency folks, they
-may dress up more. We care more that you are comfortable and confident as
-yourself rather than following someone’s particular rules of formality.
-
-We share our Chicago office space with other GSA folks who trend to dress
-business casual.
+There is no dress code officially, but business casual is what you'll encounter most commonly.
 
 ## Who can I contact if I have questions about the office space?
 
-TTS no longer has formal operations support for the Chicago office. However, [jckfieldoffice@gsa.gov](mailto:jckfieldoffice@gsa.gov) should be able to answer most of your building-related questions. [Janie Burmeister](mailto:janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.
+TTS no longer has formal operations support for the Chicago office. However, [r5wps@gsa.gov](mailto:r5wps@gsa.gov) should be able to answer most of your building management and workplace service questions. [Janie Burmeister](mailto:janie.burmeister@gsa.gov) may be able to help you with any questions specific to other FAS programs in Chicago and Region 5.

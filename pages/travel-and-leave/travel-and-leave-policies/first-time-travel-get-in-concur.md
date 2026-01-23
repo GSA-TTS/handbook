@@ -119,8 +119,6 @@ Q2AB:	OROS
 
 Q2AC:	IAE
 
-Q2ADA:	18F
-
 Q2ADB:	CoE
 
 Q2BA:	Acquisitions

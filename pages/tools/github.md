@@ -9,8 +9,7 @@ redirect_from:
 cSpell: ignore cloudfoundry,karn,usagov,eregs,digitalgov,ghad,fedramp,Githug,bizops,Zscaler,CISO
 ---
 
-GitHub is a closed-source platform for
-[open-source](https://github.com/18F/open-source-policy) communities. It allows
+GitHub is a closed-source platform for open-source communities. It allows
 us to collaborate on documentation and code, both internally and with a broader
 audience. If you're not familiar with how to use GitHub, see the
 [introduction]({% page "/intro-to-github/" %}).
@@ -97,7 +96,7 @@ https://github.com/orgs/<organization-name>/invitation?via_email=1 page.
 
 ### 5. Make your membership public
 
-Go to the [18F people page](https://github.com/orgs/18F/people). Click where it
+Go to the [GSA-TTS people page](https://github.com/orgs/GSA-TTS/people). Click where it
 says **private** next to your name. Change that to **public**.
 
 ### 6. Authorize CircleCI
@@ -131,8 +130,7 @@ your open pull request will trigger the release check.
   for repositories created on their behalf. Before you do anything, drop into
   {% slack_channel "admins-github" %} and explain what you'd like to do and why.
   Be sure to include a link in your repo README to a document that explains why
-  it is private. (See the **Exceptions** section of the
-  [18F Open Source policy](https://18f.gsa.gov/open-source-policy/).)
+  it is private.
 
 - **You do not need approval to create public repositories.**
 
@@ -173,16 +171,14 @@ Instead, we should manage repo access exclusively via teams.
 
 Here's our current process to address both operational and security concerns:
 
-1. If the user is a member of the federal government, confirm we have an active
-   [inter-agency agreement (IAA)](https://pages.18f.gov/iaa-forms/primer.html)
-   or other legal document authorizing the work.
+1. If the user is a member of the federal government, confirm we have an active inter-agency agreement (IAA) or other legal document authorizing the work.
 1. If the user is a contractor, confirm we have an active and valid contract
    with them, or their company.
 1. Ask the collaborator(s) to go through [the first three setup steps](#setup).
    - They will need to confirm they've done this before you continue.
    - They will also need to add an email address to the GitHub profile so we can
      contact them later when doing clean-up in our org.
-   - Do not ask the admins to add the collaborator to the 18F or OPP teams as
+   - Do not ask the admins to add the collaborator to the GSA-TTS teams as
      detailed in step 4.
 1. (Ask #admins-github to)
    [create a team](https://help.github.com/articles/setting-up-teams/) whose
@@ -238,21 +234,9 @@ Contractors or external government collaborators should only be added to teams
 with permissions to the repositories they're working on. You can create
 `<project>-feds` and `<project>-partners` teams, if necessary.
 
-#### For 18F projects
-
-The 18F engineering supervisors and principal engineers have write access and
-the "manage" role on all 18F repositories. If you need help permissions on a
-repository, such as someone to merge a pull request, please reach out to
-{% slack_channel "18f-eng-leadership" %} on Slack first. If they also don't have
-the necessary access to help you, they will work with you to get it resolved
-with {% slack_channel "admins-github" %}.
-
 ### Archiving
 
-As discussed in the
-[18F open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md),
-we
-[archive repositories](https://help.github.com/articles/archiving-repositories/)
+We [archive repositories](https://help.github.com/articles/archiving-repositories/)
 to deprecate them. In short, that means we are no longer maintaining them,
 including keeping dependencies up-to-date or actively supporting the effort. A
 repository that is no longer active and archived will have a banner at the top
@@ -296,8 +280,8 @@ security tasks.
 
 ### Creating a new GitHub organization
 
-[Create an issue](https://github.com/18F/tts-tech-operations/issues/new?template=github-org.md)
-and follow the steps.
+[GSA-TTS](https://github.com/GSA-TTS) is our default organization for TTS projects. If you
+need a new organization for a specific project, please reach out in `{% slack_channel "admins-github" %}`.
 
 ## Actions
 
@@ -311,12 +295,7 @@ reasons.
 - **Document your workflow.** There are many different ways to use GitHub, and
   each different team of people at TTS (likely) uses it differently. That said,
   teams should document their desired git workflow for each project, such as in
-  your repository's `contributing.md` file. The 18F-Site team offers a good
-  example with
-  [their GitHub wiki](https://github.com/18F/18f.gsa.gov/wiki/How-we-Git). In
-  TTS' [development guide](https://engineering.18f.gov/), there are
-  [code review questions](https://engineering.18f.gov/code-review) that your
-  team may want to go over as you think about documentation.
+  your repository's `contributing.md` file. 
 
 - **Do you fork or do you branch?** Git allows you to both "fork" and "branch"
   repositories to make a place to work on changes before you submit them for
@@ -368,27 +347,14 @@ be removed from all government-owned GitHub organizations.
 <sup>2</sup>: For the ones that are TTS-managed, get help in
 {% slack_channel "admins-github" %}.
 
-We automate some administration of our repositories - see
-[`ghad`](https://github.com/18F/ghad) for more info.
-
 ### Onboarding
 
-When people join TTS, they get added to [the 18F org](https://github.com/18F),
+When people join TTS, they get added to [the GSA-TTS org](https://github.com/GSA-TTS),
 and possibly others (in list above). Not everyone will end up using GitHub, but
 they are granted access by default. The following GitHub teams correspond to the
 different business units:
 
-- [18f-staff](https://github.com/orgs/18F/teams/18f-staff/members)
-- [COEs](https://github.com/orgs/18F/teams/coes/members) (Centers of Excellence)
-- [Outreach](https://github.com/orgs/18F/teams/outreach/members)
-- [PIF](https://github.com/orgs/18F/teams/pif/members) (Presidential Innovation
-  Fellows)
-- [AcqDiv](https://github.com/orgs/18F/teams/oa/members) (TTS Acquisition
-  Division)
-- [solutions](https://github.com/orgs/18F/teams/solutions/members) - portfolios
-  will handle adding them to the appropriate team(s) within there
-- [strategic-partnerships](https://github.com/orgs/18F/teams/strategic-partnerships/members)
-- [tts-bizops](https://github.com/orgs/18F/teams/tts-bizops/members)
+- [GSA-TTS Teams](https://github.com/orgs/gsa-tts/teams/)
 
 ## Resources
 

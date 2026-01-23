@@ -6,7 +6,7 @@ redirect_from:
   - /tools/figma/
 ---
 
-You can get started [immediately](https://www.figma.com) with a free account using your GSA email login credentials (**do not sign in with SSO**), and you’ll receive an email from Figma to verify your account. In order to request access to TTS team(s)/workspace(s), you'll need to email the 18F design tool owner. Ask your supervisor who's currently in this role. Visit {% slack_channel "figma" %} on Slack for help and sharing tips.
+You can get started [immediately](https://www.figma.com) with a free account using your GSA email login credentials (**do not sign in with SSO**), and you’ll receive an email from Figma to verify your account. In order to request access to TTS team(s)/workspace(s), you'll need to email the GSA-TTS design tool owner. Ask your supervisor who's currently in this role. Visit {% slack_channel "figma" %} on Slack for help and sharing tips.
 
 ## Plugins
 

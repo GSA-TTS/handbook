@@ -8,7 +8,7 @@ cSpell: ignore OTCRM, MD&P
 The Business Operations Division leads the day to day operations of the
 organization and delivers on the TTS strategy and operational plans.
 
-This division is made up of four teams and responsible for the following
+This division is made up of two teams and they are responsible for the following
 functions:
 
 ## Agreements
@@ -35,17 +35,13 @@ data-driven decision making.
 
 - Contact: {% slack_channel "finance" %}
 
-## People Ops
+## Other Functions
 
-The People Operations team owns the relationship and experience with staff and
-supervisors for all things employee related starting when an employee comes
-on-board through an employee off-boarding. We are experts in people related
-policy, regulations and bureaucratic requirements.
+The Business Operations division works with GSA’s Office of Human Resource Management (OHRM) to own the relationship and experience with staff and supervisors for all things related to or regarding employee management, beginning with on-boarding through to off-boarding. We are support related policy, regulations and bureaucratic requirements.
 
 ### People Ops Areas of Focus
 
 - [Performance Management]({% page "/performance-management/" %})
-  - Contact: TTS-PeopleOps@gsa.gov; {% slack_channel "people-ops" %}
 - [Events & Training Management]({% page "/conferences-events-training/" %})
   - Contact: tts-events@gsa.gov; {% slack_channel "training-conferences" %}
 - [Travel]({% page "/travel-guide-table-of-contents/" %})
@@ -56,24 +52,9 @@ policy, regulations and bureaucratic requirements.
   - [requesting a higher security clearance]({% page "/top-secret/" %})
   - [detailing within, to, and from an agency]({% page "/assignee-detail/" %})
   - [moving to a new duty station]({% page "/moving/" %})
-  - Contact: TTS-PeopleOps@gsa.gov; {% slack_channel "people-ops" %}
 - [Leave & Time Management]({% page "/leave/" %})
-  - Contact: TTS-PeopleOps@gsa.gov; {% slack_channel "people-ops" %}
 - [Benefits help]({% page "/benefits/" %})
-  - Contact: TTS-PeopleOps@gsa.gov; {% slack_channel "people-ops" %}
-
-## Talent
-
-The Talent team is dedicated to finding the best and the brightest. We partner
-closely with our leaders and managers, helping them to make better decisions and
-to solve their strategic talent acquisition issues. We will deliver an
-incredible candidate experience from the first time a candidate sees a job
-posting through their days onboarding at TTS.
-
 - Contact: jointts@gsa.gov; {% slack_channel "hiring" %}
-
-### Talent Areas of Focus
-
 - [Hiring]({% page "/hiring/" %})
   - [Refer
     someone]({% page "/office-of-operations/talent/#referring-a-person" %})

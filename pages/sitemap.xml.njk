@@ -6,9 +6,11 @@ layout: layouts/pure
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for page in collections.all %}
+  {%- if not page.data.outdated %}
   <url>
     <loc>{{ site.host }}{{ page.url }}</loc>
     <lastmod>{{ (page | mtime).toISOString() }}</lastmod>
   </url>
+  {%- endif %}
 {%- endfor %}
 </urlset>

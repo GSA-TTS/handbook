@@ -16,6 +16,13 @@ cSpell: ignore Lyvette,McAllister
           San Francisco, CA 94102
         </td>
       </tr>
+       <tr>
+        <td class="col-key"><strong>Business Hours</strong></td>
+        <td class="col-value">
+          6 a.m. to 6 p.m., Monday through Friday<br />
+         <a href="#access-the-building-after-hours">After hours access</a> must be requested in advance and requires approval
+        </td>
+      </tr>
       <tr>
         <td class="col-key"><strong>Points of contact</strong></td>
         <td class="col-value">
@@ -131,7 +138,7 @@ M–F. Fees vary but $4.50 to $2.00 per hour depending on when you enter garage.
 
 ### Enter the building for the first time?
 
-During business hours (6 a.m. to 6 p.m.), pass through security with your badge
+During business hours (6 a.m. to 6 p.m., Monday - Friday), pass through security with your badge
 visible. Your GSA ID grants you access to the building at any time during those
 hours.
 
@@ -198,7 +205,7 @@ advance notice, since the building will need time to update the guards’ list o
 approved guests. Once the form has been accepted, guests will be able to access
 the building without an escort.
 
-### Access the building after hours?
+### Access the building after hours? 
 
 If you're based in SF and would like to regularly access the building after
 hours (6pm-6am), fill out the
@@ -207,7 +214,9 @@ Have your supervisor ("Requesting Agency Official") sign it for you, then take i
 Coordinator in the [Building Manager's](#helpful-contacts) office, located in
 room 0651 in the Basement, which is open 8:00am - 4:30pm. They will send the form to the Golden Gate Security Office, and email you once your application has been approved. You'll then need to go in-person to
 his office to register your PIV card and choose an access code, which you'll be
-able to use at the SW entrance to the building.
+able to use at the SW (Hyde Street) entrance to the building.
+
+Please submit your After-Hours Access Request Form at least 24-48 hours in advance to the Building Coordinator. Last-minute requests may not be approved due to the time needed for processing and approval.
 
 If you're a visitor arriving outside business hours, you'll need to arrange for
 a TTS staff member inside the office to escort you.

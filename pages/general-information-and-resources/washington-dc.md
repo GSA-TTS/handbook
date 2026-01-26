@@ -116,8 +116,8 @@ Parking at nearby garages tends to cost ~$14 for the first hour and then ~$21
 for the second hour to a full day.
 
 ### Once inside GSA
-TTS is located on the second floor, in the 4th wing (also known as the "infill"). When entering from the F Street entrance, go up the stairs or elevator once you pass through security. Walk down the hallway towards E St and take a left into the fourth wing near the end of the hallway. Look for workspaces marked TTS.
 
+TTS is located on the second floor, in the 4th wing (also known as the "infill"). When entering from the F Street entrance, go up the stairs or elevator once you pass through security. Walk down the hallway towards E St and take a left into the fourth wing near the end of the hallway. Look for workspaces marked TTS.
 
 ## How do I...
 
@@ -161,9 +161,9 @@ You will find out the exact location once you arrive at orientation.
 
 The TTS space is in the 2400 wing. See [Once inside GSA](#once-inside-gsa) for directions.
 
-The 2400 wing has workstations with both Macs and PCs that are loosely assigned by TTS business unit. 2400 has six small, reservable conference rooms and two phone booths that cannot be reserved. The 7200 and 7400 wings also have unassigned workspaces and reservable conference rooms that you can work from. 
+The 2400 wing has workstations with both Macs and PCs that are loosely assigned by TTS business unit. 2400 has six small, reservable conference rooms and two phone booths that cannot be reserved. The 7200 and 7400 wings also have unassigned workspaces and reservable conference rooms that you can work from.
 
-You can reference the latest [2400 seating layout](https://docs.google.com/presentation/d/17fEVTVZBBSnq_p3PZ4IFtNz81DFd-dIGDZkNcIjlWio/edit?slide=id.g3789f611d41_1_0#slide=id.g3789f611d41_1_0) and this [1800F RTO Info document](https://docs.google.com/document/d/1JgP13xg19n6MdIRWXRwxQx8R-EpaiCPndv5CiJyOpbc/edit?tab=t.0#heading=h.ysxik8tpdylu) specific to TTS. 
+You can reference the latest [2400 seating layout](https://docs.google.com/presentation/d/17fEVTVZBBSnq_p3PZ4IFtNz81DFd-dIGDZkNcIjlWio/edit?slide=id.g3789f611d41_1_0#slide=id.g3789f611d41_1_0) and this [1800F RTO Info document](https://docs.google.com/document/d/1JgP13xg19n6MdIRWXRwxQx8R-EpaiCPndv5CiJyOpbc/edit?tab=t.0#heading=h.ysxik8tpdylu) specific to TTS.
 
 ### Book rooms for meetings
 
@@ -182,8 +182,6 @@ Send mail to:
 
 Go to the F Street entrance, where 24/7 access is available.
 Please note that the building closes at 6 pm, a GSA badge is required for after hours access and no visitors are permitted.
-
-
 
 ### Receive visitors
 

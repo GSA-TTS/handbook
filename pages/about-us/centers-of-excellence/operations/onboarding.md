@@ -14,12 +14,12 @@ In addition to the TTS portions of the handbook, refer to:
 
 During the onboarding process, a new staff member will interact with different people and organizations at the GSA, TTS, and TTS level.
 
-| Who | What they do |
-|-----|--------------|
-| **GSA’s Office of Human Resource Management (OHRM)** | Handles initial enrollment in benefits and systems, provides access to HRLinks and answers the new employee’s questions about benefits. <br><br> See the list of [HR support contacts]({% page "general-information-and-resources/employee-resources-policies/benefits-links/#human-resources-hr-contacts" %}).
-| **TTS People Ops Onboarding Leads** | Provide access to TTS applications, tools, calendars, and accounts. Invite the new employee to TTS onboarding classes. <br><br> Check the Slack channel {% slack_channel "onboarding" %} for names of current leads.
-| **Supervisor** | Facilitates onboarding to the individual’s chapter or center. Opens discussion of the new employee’s interests and growth plan.
-| **Onboarding buddy** | Serves as the new employee’s first point of contact for day-to-day questions about their team culture and getting set up to work. Helps direct the new employee to the right resources for learning more.
+| Who                                                  | What they do                                                                                                                                                                                                                                                                                                    |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **GSA’s Office of Human Resource Management (OHRM)** | Handles initial enrollment in benefits and systems, provides access to HRLinks and answers the new employee’s questions about benefits. <br><br> See the list of [HR support contacts]({% page "general-information-and-resources/employee-resources-policies/benefits-links/#human-resources-hr-contacts" %}). |
+| **TTS People Ops Onboarding Leads**                  | Provide access to TTS applications, tools, calendars, and accounts. Invite the new employee to TTS onboarding classes. <br><br> Check the Slack channel {% slack_channel "onboarding" %} for names of current leads.                                                                                            |
+| **Supervisor**                                       | Facilitates onboarding to the individual’s chapter or center. Opens discussion of the new employee’s interests and growth plan.                                                                                                                                                                                 |
+| **Onboarding buddy**                                 | Serves as the new employee’s first point of contact for day-to-day questions about their team culture and getting set up to work. Helps direct the new employee to the right resources for learning more.                                                                                                       |
 
 ## Guidance for supervisors
 
@@ -155,7 +155,6 @@ Conversations with your new employee should also cover topics specific to their 
 ##### CoE (all centers)
 
 - Refer to [Shareable CoE Onboarding May 2024](https://docs.google.com/presentation/d/13INHVwT6wrI_O_ct2qyVDj__dMrMbRYOF04w0z97kik/edit#slide=id.ge45d8b0279_0_0)
-
 
 ###### Acquisition
 

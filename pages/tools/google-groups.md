@@ -14,7 +14,7 @@ a list of
 
 ## Create a Google Group
 
-You will request a Google Group through the [GSA IT Self Service Portal](https://gsa.servicenowservices.com/now/nav/ui/classic/params/target/sp). Search for `Google Group` and the Google Groups creation request form will appear as an option. 
+You will request a Google Group through the [GSA IT Self Service Portal](https://gsa.servicenowservices.com/now/nav/ui/classic/params/target/sp). Search for `Google Group` and the Google Groups creation request form will appear as an option.
 
 ## Manage a Google Group
 

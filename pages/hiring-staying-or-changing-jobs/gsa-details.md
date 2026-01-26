@@ -86,7 +86,7 @@ date.
 
 Once the employee’s current supervisor agrees to the detail and a start date is
 selected, the Hiring Manager should email
-[PeopleOps](mailto:TTS-PeopleOps@gsa.gov), 
+[PeopleOps](mailto:TTS-PeopleOps@gsa.gov),
 [Finance](mailto:18F-Finance-CS@gsa.gov), and [Agreements](mailto:tts.agreements@gsa.gov) with the following information:
 
 - Employee Name

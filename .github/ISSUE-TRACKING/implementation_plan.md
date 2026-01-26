@@ -3,10 +3,12 @@
 This document captures prioritized issues and the current Linkinator scan results used for triage.
 
 ## Snapshot
+
 - **Total Open Issues (sample):** 33
 - **High priority examples:** #4214 (site-wide updates), #4201 (Trello decommission), #3951 (broken links)
 
 ## Important Action Items
+
 - Replace deprecated `before-you-ship.18f.gov` references.
 - Fix or archive failing `gsa.gov` links reported by Linkinator.
 - Restore or redirect missing internal pages (e.g., `psychological-safety`).
@@ -31,6 +33,7 @@ This document captures prioritized issues and the current Linkinator scan result
 - `/general-information-and-resources/psychological-safety/` (internal 404)
 
 **Recommended triage steps:**
+
 - Verify whether each `gsa.gov` failure is transient — re-check externally before changing content.
 - Replace `before-you-ship.18f.gov` links with archived notes or current TTS guidance.
 - Restore or redirect the internal `psychological-safety` page or update inbound links.
@@ -47,6 +50,7 @@ This file records the triage and implementation decisions for Linkinator runs an
 - **Triage drafts:** Converted into tracked items locally; follow-up Issue creation is available if you want issues opened in the repo.
 
 # Handbook Implementation Plan — Q2 FY 2025 Issue Backlog
+
 - Local parity: run the same command locally to replicate CI behavior:
 
 ```bash

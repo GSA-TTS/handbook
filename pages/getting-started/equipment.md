@@ -43,7 +43,7 @@ accustomed to MacOS or Linux — refer to this guide for
 
 Your MacBook will come preloaded with the latest, GSA-approved/supported
 operating system. Please wait to do any operating system upgrades (including
-patches) until notified by GSA IT. 
+patches) until notified by GSA IT.
 
 If you encounter any issues with your MacBook's local password (required when downloading OS updates), contact GSA IT and they can help you reset your password with a recovery key.
 
@@ -183,14 +183,15 @@ activating your iPhone.
 - **You can set up email using the Gmail app or Apple's default Mail app**
   - For the Gmail app: follow the directions in section 7 of the [Self Help Guide for iPhone Setup](https://docs.google.com/document/d/1ZnnwxMFoxA_giiwuGk-3HyMat5PMfWjxLLBT4nw2U14/edit)
   - For Apple's default Mail app: you will need to
-  [generate an App Password](https://support.google.com/accounts/answer/185833?hl=en)
-  in your Google account to use with your Mail app, instead of your normal email
-  password.
+    [generate an App Password](https://support.google.com/accounts/answer/185833?hl=en)
+    in your Google account to use with your Mail app, instead of your normal email
+    password.
 
 ### Tips
 
 - **[You should tether to your laptop to the iPhone](https://support.apple.com/en-us/HT204023)**
   for internet access when you're on the go.
+
 * If you are using Apple's Mail app and can't send email with your new work iPhone, create a new email and
   check the From field. If it's a jumble of letters and numbers
   `@secure.mass360.com`, tap on it to change it to your `@gsa.gov` email
@@ -244,7 +245,9 @@ For non-standard IT equipment, requestors must complete and submit an
 for review and approval.
 
 ### Printers
+
 #### Your own printer
+
 A separate justification process is required for printer requests. If you
 believe you have a business justification for a home printer, please discuss
 with your supervisor. This request will require approval from your supervisor
@@ -254,6 +257,7 @@ a
 via the GSA IT Service Desk.
 
 #### Office printer
+
 If you need to setup a printer while in the office, follow [the instructions](https://gsa.servicenowservices.com/sp?id=kb_article&sys_id=a0a4fcb91b7755903a6da8efe54bcb5c&table=kb_knowledge).
 
 ## Equipment to accommodate disability

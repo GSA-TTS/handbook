@@ -55,14 +55,14 @@ redirect_from:
     - Concur travel documentation,
     - Filing and resolving GSA IT service tickets,
     - Requesting leave in HR Links,
-    - Any time you cannot work because of GSA IT forced reboots or updates, etc.  
+    - Any time you cannot work because of GSA IT forced reboots or updates, etc.
   - Organizational meetings, including:
     - Cohort or chapter huddles,
     - GSA-TTS Team Coffee,
     - GSA-TTS Supervisor meetings,
     - GSA-TTS All Hands,
     - FAS Town Halls,
-    - GSA Town Halls, etc.  
+    - GSA Town Halls, etc.
   - Performance management/performance reviews, including:
     - Writing self-evaluations,
     - Collecting peer feedback,

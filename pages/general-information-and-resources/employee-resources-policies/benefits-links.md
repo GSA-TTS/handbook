@@ -11,18 +11,18 @@ reach out to if you have questions. For more in-depth benefits info, visit the
 
 ## Benefits links
 
-| Benefit                                                                | Link                                                                                                                                                     |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Leave and Earnings Statement; Federal, State and Local Tax Withholding | <https://www.employeeexpress.gov>                                                                                                                        |
-| Vacation Request                                                       | <https://hrlinks.gsa.gov/>                                                                                                                |
-| GSA Insite                                                             | <https://insite.gsa.gov>                                                                                                                                 |
-| Health and Life Insurance                                              | <https://www.opm.gov/insure>                                                                                                                             |
-| Retirement Planning                                                    | <https://www.opm.gov/retirement-services>                                                                                                                |
+| Benefit                                                                | Link                                                                                                                                                 |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Leave and Earnings Statement; Federal, State and Local Tax Withholding | <https://www.employeeexpress.gov>                                                                                                                    |
+| Vacation Request                                                       | <https://hrlinks.gsa.gov/>                                                                                                                           |
+| GSA Insite                                                             | <https://insite.gsa.gov>                                                                                                                             |
+| Health and Life Insurance                                              | <https://www.opm.gov/insure>                                                                                                                         |
+| Retirement Planning                                                    | <https://www.opm.gov/retirement-services>                                                                                                            |
 | Thrift Savings Plan (TSP)                                              | <https://www.tsp.gov> (contributions [updated through HR Links](https://drive.google.com/file/d/1BOSDKYnCFWKRiVfyaGs6W-JDLuxlZ7iL/view?usp=sharing)) |
-| Flexible Spending Account                                              | <https://www.fsafeds.com>                                                                                                                                |
-| Dental and Vision Insurance                                            | <https://www.benefeds.com>                                                                                                                               |
-| Long Term Care Insurance                                               | <https://www.ltcfeds.com>                                                                                                                                |
-| Public Service Student Loan Forgiveness Program                        | <https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service>                                                                       |
+| Flexible Spending Account                                              | <https://www.fsafeds.com>                                                                                                                            |
+| Dental and Vision Insurance                                            | <https://www.benefeds.com>                                                                                                                           |
+| Long Term Care Insurance                                               | <https://www.ltcfeds.com>                                                                                                                            |
+| Public Service Student Loan Forgiveness Program                        | <https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service>                                                                   |
 
 ## Human resources (HR) contacts
 

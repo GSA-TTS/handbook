@@ -16,9 +16,11 @@ Are our partners happy with our work? Would they work with us again? Would they 
 How we measure partner satisfaction:
 
 - **TTS Customer Listening Tour.** Beginning in FY24, the TTS director, along with some helpers, interviewed the primary points of contact for most of our active engagements. Questions focus on perceived value for the cost of our services and likelihood to use us again or recommend us. Respondents should be asked to quantify their satisfaction with TTS so we can track year-over-year improvement via Net Promoter Score, Customer Satisfaction Score, or equivalent score as defined by the TTS Director’s annual goals.
+
   - See: [Client Listening Tour 2024 in Google Drive](https://drive.google.com/drive/folders/1aWyWTFWi2lOUWZgU7tKHjQTNVWx96Zel)
 
 - **TTS Partner Satisfaction Surveys.** For several years, TTS account managers have conducted partner satisfaction surveys after an engagement ends. These surveys are structured interviews. In FY24, began collecting them throughout the delivery cycle: 90 days after the engagement/project starts, and for longer engagements, every six-months thereafter. The feedback from these interviews is analyzed and shared out in a quarterly cadence.
+
   - FY24 benchmarks were:
     - 50% or more of partner satisfaction survey respondents report being Likely or Very Likely to recommend TTS to others
     - 50% or more of partner satisfaction survey respondents report the value they received was at least equal to the budget spent
@@ -34,6 +36,7 @@ Do our deliverables represent our standard operating procedures? Does our work h
 How we measure delivery quality:
 
 - **Deliverables are consistent with the standard operating procedures in this handbook.** We’ve been helping modernize government for over ten years and know what approaches are likely to be successful. If your engagement needs to deviate from the SOPs in the handbook, you must be prepared to explain why.
+
   - See: [Engagements]({% page "about-us/centers-of-excellence/engagements/" %})
 
 - **Engagement impact assessment.** At every phase of an engagement, we should be assessing its potential for impact on the public or federal employees. Annually, TTS also reviews overall impact and highlights.
@@ -50,6 +53,7 @@ Are our staff stimulated by their work and content with our working conditions?
 How we measure employee engagement:
 
 - **TTS pulse check surveys** have been conducted separately within TTS. These help us identify areas for improving employee experience. Surveys are conducted three or four times per year. Results are compiled and synthesized by a working group.
+
   - See: [Example survey readout](https://docs.google.com/presentation/d/14z7kNBsc9PVaQ8rV8CATSpQw6KPOj3KHV5xEi0ejNKs/edit#slide=id.g22bc6aa6642_0_1288)
 
 - **Federal Employee Viewpoint Survey (FEVS)** is an organizational climate survey administered annually by the Office of Personnel Management. All TTS employees are encouraged to participate. . Data from FEVS is considered in SES performance plans and TTS strategic planning.

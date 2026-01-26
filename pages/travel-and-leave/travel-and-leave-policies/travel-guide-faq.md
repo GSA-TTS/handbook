@@ -300,9 +300,9 @@ Examples:
 - `NONBILLABLE: Cloud Adoption CoE`
 
 **Type Code:** "SINGLE TRIP". **Trip Purpose:** “Mission (Operational)” in most
-cases, unless attending a conference or training. 
+cases, unless attending a conference or training.
 
-**Document detail:** Brief summary of the purpose of the trip. You 
+**Document detail:** Brief summary of the purpose of the trip. You
 must also include the URL to the Salesforce Event Tracker record for trips
 requested via the events process.
 
@@ -452,6 +452,7 @@ paid out of another team's budget (list of budgets available in cell C5 of
 you will need a supervisor or director from that team to approve.
 
 If your travel is **billable**, you will need to have the Account Manager of the project or Director of the team overseeing the project verify the budget prior to submitting the travel request. Please use the following process to document the verification:
+
 - Project teams should send travel request(s) with estimated costs via email to the Account Manager
 - The Account Manager will reply with either "Approve" or "Reject" and provide additional context if they deem necessary
 - Once approved/rejected the Account Manager updates the comment session for the project in Airtable.
@@ -459,7 +460,7 @@ If your travel is **billable**, you will need to have the Account Manager of the
 
 The following list provides **Concur approvers** for billable travel:
 
-- TTS: 1st Line Supervisor (verify with the project's Account Manager first per instructions above) 
+- TTS: 1st Line Supervisor (verify with the project's Account Manager first per instructions above)
 - 10x: Nico Papafil
 - cloud.gov: Ashley Mahan until a new cloud.gov director is selected
 - login.gov: Dan Lopez
@@ -625,15 +626,15 @@ Upon selecting the **Local voucher** option, you will be taken to a blank
 - **Trip Name** This should follow
   [the same naming conventions you would use for a travel authorization](#how-to-complete-your-trip-information).
   - the request name and/or item description with the fiscal year and division/organization field
-  (e.g. FY25 CoE PyCon registration fee). Ensure you have
-  [an email from your authorizing official](#how-to-secure-authorizing-official-approval)
-  approving all of the expenses you'd like to claim sent to
-  [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
+    (e.g. FY25 CoE PyCon registration fee). Ensure you have
+    [an email from your authorizing official](#how-to-secure-authorizing-official-approval)
+    approving all of the expenses you'd like to claim sent to
+    [tts-travel@gsa.gov](mailto:tts-travel@gsa.gov).
 - **Type code** and **Trip purpose** If the voucher is for local travel (taxis,
   mileage, etc.), choose **Local travel**. For any other sort of reimbursement,
   choose **Misc voucher**.
 - **Document detail** Enter a brief description of what the reimbursement is for
-  here.  A PDF copy of the approved SF-182 (if you have one) and events request
+  here. A PDF copy of the approved SF-182 (if you have one) and events request
   number must be in the “Document Detail” section (i.e. events-25-3424).
 - Click on **Create Document**
 

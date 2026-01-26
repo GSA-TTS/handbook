@@ -9,9 +9,9 @@ sidebar:
 
 {% include "step-indicator.html" steps: healthy-conflict.steps current_step:current_step  %}
 
-Feedback matters. Research shows how feedback is crucial to accomplishing [organizational and team](https://tomgeraghty.co.uk/index.php/resilience-engineering-and-psychological-safety/#:~:text=Psychological%20safety%20is%20cited%20as%20the%20key%20factor%20in%20team%20performance) goals. In TTS, we recognize feedback as essential to living our [values of inclusion, integrity, and impact]({% page "/about-us/tts-history/#our-values" %}). 
+Feedback matters. Research shows how feedback is crucial to accomplishing [organizational and team](https://tomgeraghty.co.uk/index.php/resilience-engineering-and-psychological-safety/#:~:text=Psychological%20safety%20is%20cited%20as%20the%20key%20factor%20in%20team%20performance) goals. In TTS, we recognize feedback as essential to living our [values of inclusion, integrity, and impact]({% page "/about-us/tts-history/#our-values" %}).
 
-We strive to have a diverse workforce: therefore, we expect folks to have different ways of communicating, different [neurotypes](https://askearn.org/page/neurodiversity-evaluation), and different cultural beliefs about feedback and conflict. 
+We strive to have a diverse workforce: therefore, we expect folks to have different ways of communicating, different [neurotypes](https://askearn.org/page/neurodiversity-evaluation), and different cultural beliefs about feedback and conflict.
 
 Feedback takes practice; learning best practices for giving (and receiving!) feedback helps decrease tension in times of conflict and increases our ability to deliver messages that are truly heard by others.
 
@@ -23,7 +23,7 @@ The principles in this guide ask us to clarify why and how we are giving feedbac
 
 Listening is especially critical when we are giving feedback to someone with less power in the organization, and/or who has less societal power and opportunity. Working through the principles below can reduce the chance that our messages are rooted in bias or gut reactions.
 
-## Overcoming the fear of “can we talk?” 
+## Overcoming the fear of “can we talk?”
 
 If you haven’t given feedback to someone before (especially if you are their supervisor!), the first feedback conversation(s) may cause feelings of dread or anxiety - on _both_ sides, and especially for the receiver!
 

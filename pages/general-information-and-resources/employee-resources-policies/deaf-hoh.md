@@ -319,7 +319,7 @@ technology solutions through the
   captions, closed captioning is optional and activated by the viewer. (_See
   difference, subtitles_).
 - **Centralized Reasonable Accommodation Fund (CRAF):** A centralized funding pool
-  shared across departments to pay for services like interpretation. 
+  shared across departments to pay for services like interpretation.
 - **Hearing person:** A Deaf culture term identifying a person with a typical
   hearing ability.
 - **Federal Relay (FedRelay):** Provides telecommunications services for federal

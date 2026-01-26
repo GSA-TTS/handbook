@@ -76,7 +76,7 @@ decision between the different potential actions.
 3. The **Chief of Delivery** can help sort through tricky situations and clarify
    expectations around what is normal or out of the ordinary for 18F engagements
    and deliverables.
-5. The **Deputy** and **Executive Director** can provide another layer of top
+4. The **Deputy** and **Executive Director** can provide another layer of top
    cover. This is especially useful when executive level stakeholders are
    dissatisfied. Work with the Chief of Delivery to discuss pulling in this kind
    of support.

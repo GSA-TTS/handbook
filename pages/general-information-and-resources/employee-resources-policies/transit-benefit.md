@@ -8,7 +8,7 @@ redirect_from:
 cSpell: ignore Sabbers,approvable
 ---
 
-This page outlines how to sign up for and how to cancel the transit benefit. 
+This page outlines how to sign up for and how to cancel the transit benefit.
 
 ## Eligibility
 

@@ -90,7 +90,7 @@ information in code and TTS systems:
   directions on the [incident response handbook
   page]({% page "/security-incidents" %}). If you're unsure how to protect this
   information, consult with Infrastructure on GitHub or in the
-  {% slack_channel "admins-github" %} channel in Slack. 
+  {% slack_channel "admins-github" %} channel in Slack.
 - [Build Pipeline Security](https://sprocketfox.io/xssfox/2021/01/18/pipeline/)
   is a helpful resource for protecting sensitive information in CI/CD.
 

@@ -2,13 +2,13 @@ name: "Terraform manages Teams"
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
     paths:
-      - 'terraform/**'
+      - "terraform/**"
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
     paths:
-      - 'terraform/**'
+      - "terraform/**"
   workflow_dispatch:
 
 permissions:
@@ -24,39 +24,38 @@ jobs:
         working-directory: ./terraform
 
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-    - name: Setup Terraform
-      uses: hashicorp/setup-terraform@v2
-      with:
-        terraform_version: 1.0.0
-        
-    - name: Configure GitHub token
-      run: |
-        # Mask the token to prevent it from showing in logs
-        echo "::add-mask::${{ secrets.TF_GITHUB_TOKEN }}"
-        # Set the token as an environment variable for Terraform
-        echo "GITHUB_TOKEN=${{ secrets.TF_GITHUB_TOKEN }}" >> $GITHUB_ENV
-      
-    - name: Terraform Init
-      run: terraform init
-      
-    - name: Terraform Format Files
-      run: terraform fmt
-      
-    - name: Terraform Format Check
-      run: terraform fmt -check
-      
-    - name: Terraform Validate
-      run: terraform validate
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v2
+        with:
+          terraform_version: 1.0.0
 
-    - name: Terraform Plan
-      if: github.event_name == 'pull_request'
-      run: terraform plan
-      
-    # Only apply changes when PR touches terraform and when merged to main
-    - name: Terraform Apply
-      if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-      run: terraform apply -auto-approve
+      - name: Configure GitHub token
+        run: |
+          # Mask the token to prevent it from showing in logs
+          echo "::add-mask::${{ secrets.TF_GITHUB_TOKEN }}"
+          # Set the token as an environment variable for Terraform
+          echo "GITHUB_TOKEN=${{ secrets.TF_GITHUB_TOKEN }}" >> $GITHUB_ENV
 
+      - name: Terraform Init
+        run: terraform init
+
+      - name: Terraform Format Files
+        run: terraform fmt
+
+      - name: Terraform Format Check
+        run: terraform fmt -check
+
+      - name: Terraform Validate
+        run: terraform validate
+
+      - name: Terraform Plan
+        if: github.event_name == 'pull_request'
+        run: terraform plan
+
+      # Only apply changes when PR touches terraform and when merged to main
+      - name: Terraform Apply
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: terraform apply -auto-approve

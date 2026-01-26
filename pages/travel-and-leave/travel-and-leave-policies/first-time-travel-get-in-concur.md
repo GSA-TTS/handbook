@@ -71,7 +71,7 @@ GSA travel card]({% page "/first-time-travel-travel-card" %}).
 
 Ensure you have first completed the mandatory security and privacy training required
 of all GSA staff, assigned to you in [OLU](https://insite.gsa.gov/#:~:text=IT%20Support%20Request-,Online%20University,-Pegasys). [Follow the instructions]({% page "/training-and-development/olu/#help-with-olu" %})
-if you need help. 
+if you need help.
 
 You'll then need to complete this year's Travel Card Training course in OLU; this course will _not_ be assigned to you. You can find it by searching for "Travel Card Training". After completion, save a pdf copy of your certificate. Designated Travel Reviewers and Approvers must also complete the Temporary Duty Travel (TDY) Training course in OLU. Both training must be retaken every year.
 
@@ -84,13 +84,13 @@ by reading the_ _[FAQ below](#frequently-asked-questions)_
 
 ### 4. Email Completed Form(s) and Certificates(s) to TTS Travel (OLU)
 
-Standard Travelers: Please email the completed CGE Form and Travel Card Training Certificate to tts-travel@gsa.gov. 
+Standard Travelers: Please email the completed CGE Form and Travel Card Training Certificate to tts-travel@gsa.gov.
 
 Travel Reviewers and Approvers: Please email the completed CGE Form, Travel Card Training Certificate and TDY Training Certificate to tts-travel@gsa.gov.
 
 Do not email your request to cge-access-requests@gsa.gov, as the form specifies. Only email request to tts-travel@gsa.gov.
 
-Please allow 10 business days for your account setup. You will receive a welcome email when your account is active. 
+Please allow 10 business days for your account setup. You will receive a welcome email when your account is active.
 
 [Next Step: First-Time Travel - Get a Travel
 Card]({% page "/first-time-travel-travel-card" %})
@@ -99,43 +99,43 @@ Card]({% page "/first-time-travel-travel-card" %})
 
 #### What is my Correspondence/Office symbol?
 
-Q2:	Director and Staff
+Q2: Director and Staff
 
-Q2A0A:	Technology Operations Division
+Q2A0A: Technology Operations Division
 
-Q2AAA:	cloud.gov
+Q2AAA: cloud.gov
 
-Q2AAB:	Login.gov
+Q2AAB: Login.gov
 
-Q2AAC:	Platforms and Services Division
+Q2AAC: Platforms and Services Division
 
-Q2AAD:	Public Experience
+Q2AAD: Public Experience
 
-Q2AAE:	FedRAMP
+Q2AAE: FedRAMP
 
-Q2AAF:	Accelerators/10x
+Q2AAF: Accelerators/10x
 
-Q2AB:	OROS
+Q2AB: OROS
 
-Q2AC:	IAE
+Q2AC: IAE
 
-Q2ADB:	CoE
+Q2ADB: CoE
 
-Q2BA:	Acquisitions
+Q2BA: Acquisitions
 
-Q2BB:	Business Operations
+Q2BB: Business Operations
 
-Q2BC:	MD&P
+Q2BC: MD&P
 
-Q2BD:	Outreach
+Q2BD: Outreach
 
-Q2BEB:	Talent
+Q2BEB: Talent
 
-Q2BEC:	People Operations
+Q2BEC: People Operations
 
-Q2CA:	PIF
+Q2CA: PIF
 
-Q2CB:	USDC
+Q2CB: USDC
 
 #### What are my user roles?
 
@@ -167,5 +167,4 @@ Form][cgeform]:
 1. For "Type of Access Request", select "Revise Current User"
 2. For User Roles, select both "Traveler" and "Travel Approver".
 
-[cgeform]:
-  https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request
+[cgeform]: https://www.gsa.gov/forms-library/concur-government-edition-cge-access-request

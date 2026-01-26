@@ -1,6 +1,5 @@
 ---
-title:
-  Play 10 - Promote a healthy culture of improvement through constructive
+title: Play 10 - Promote a healthy culture of improvement through constructive
   feedback
 keywords: supervisor playbook, leadership
 ---

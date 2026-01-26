@@ -6,7 +6,7 @@ const yaml = require("js-yaml");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const { headingLinks } = require("./config/headingLinks");
 const baseurl = require("./config/baseurl");
-const fs = require('fs');
+const fs = require("fs");
 
 const HandbookPlugin = require("./config/HandbookPlugin.js");
 
@@ -16,7 +16,7 @@ module.exports = function (config) {
   config.addPlugin(HandbookPlugin);
 
   // Add filter for file mtime
-  config.addFilter('mtime', function(page) {
+  config.addFilter("mtime", function (page) {
     // Fallback: use page.date if available, otherwise current date
     const fallbackDate = page && page.date ? page.date : new Date();
 

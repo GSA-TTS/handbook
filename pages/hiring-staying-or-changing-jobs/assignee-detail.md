@@ -55,7 +55,7 @@ To post an internal application, the hiring manager will go through the followin
 6. Paperwork processing
 7. Notification of candidates/Providing feedback
 
-Detailed information for each of these steps can be found in the [Internal Hiring checklist](https://docs.google.com/spreadsheets/d/1RyQt20hs8ylFl_MmJwOxqEQeZ8AYquH24MFrLbtuFVw/edit#gid=0). 
+Detailed information for each of these steps can be found in the [Internal Hiring checklist](https://docs.google.com/spreadsheets/d/1RyQt20hs8ylFl_MmJwOxqEQeZ8AYquH24MFrLbtuFVw/edit#gid=0).
 
 ## Job posting
 
@@ -65,4 +65,4 @@ Once the posting is ready to go live, it will shared in {% slack_channel "tts-jo
 
 All candidates receive a copy of the interview questions prior to their interview. Sharing questions in
 advance helps to create a better and more informed interview experience. This is one way we build a fair, equitable, and transparent
-hiring process. 
+hiring process.

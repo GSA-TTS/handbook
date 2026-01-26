@@ -12,7 +12,7 @@ recommendations]({% page "tools/text-editors" %}) based on compliance
 requirements and approvals.
 
 {% alert %}
-  This guide currently assumes a level of familiarity with git and the command line. It does not explain how to use those things and instead simply tells you to do it. If you are looking for a place to contribute to the Handbook, expanding this page could be a good one!
+This guide currently assumes a level of familiarity with git and the command line. It does not explain how to use those things and instead simply tells you to do it. If you are looking for a place to contribute to the Handbook, expanding this page could be a good one!
 {% endalert %}
 
 After you have cloned the Handbook repo to your local computer, open it in the

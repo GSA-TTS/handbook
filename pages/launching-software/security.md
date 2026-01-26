@@ -197,10 +197,8 @@ versions will always be found in the repo.
 More advanced configuration options for all the tools can be found in their
 respective docs.
 
-[github-alerts]:
-  https://help.github.com/en/articles/about-security-alerts-for-vulnerable-dependencies#alerts-and-automated-security-fixes-for-vulnerable-dependencies
-[codeql]:
-  https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/enabling-code-scanning-for-a-repository#enabling-code-scanning-using-actions
+[github-alerts]: https://help.github.com/en/articles/about-security-alerts-for-vulnerable-dependencies#alerts-and-automated-security-fixes-for-vulnerable-dependencies
+[codeql]: https://docs.github.com/en/free-pro-team@latest/github/finding-security-vulnerabilities-and-errors-in-your-code/enabling-code-scanning-for-a-repository#enabling-code-scanning-using-actions
 
 ## Dynamic Scanning
 

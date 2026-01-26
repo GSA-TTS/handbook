@@ -11,15 +11,16 @@ This guide covers the offboarding policy and process.
 
 These steps apply to all TTS employees: permanent employees, term employees who
 are at the end of their term, and term employees choosing to resign before their
-term ends.  These steps also apply to employees who will remain in federal 
+term ends. These steps also apply to employees who will remain in federal
 government and other GSA offices.
 **Begin this process at least two weeks before your last day of work.**
 Your last day at TTS cannot be a federal holiday.
 
 ### 1. Email notice of your resignation
 
-Please send a separation email/letter to leavingTTS@gsa.gov, 
+Please send a separation email/letter to leavingTTS@gsa.gov,
 cc'ing your supervisor with:
+
 - reason for leaving (e.g. resignation, term out, transfer, etc)
 - home address
 - home email
@@ -65,9 +66,9 @@ supervisor that they've worked under for 120 days.
   and [Form SF 3106](https://www.opm.gov/forms/pdf_fill/sf3106.pdf) before your
   last day.
 - Check your leave balances.
-  - If you received [Award Leave]({% page "/travel-and-leave/leave/#award-leave" %}) from your end-of-year performance review or a Special Act Award, it **will not** be paid out. You must use it before you depart GSA, or you will forfeit it. Similarly, travel comp time **will not** be paid out. 
-  - Your Annual Leave **will** be paid out. If you are staying in the federal government and you are not taking a break in employment, then it will be automatically transferred to your next agency (but it often takes a few pay periods). We recommend printing a copy of your last Leave and Earnings statement before the end of your final day. Comp time and credit hours **will** also be paid out. 
-  - Your Sick Leave **will not** be paid out; however, you will not lose it. If your next role is still within the federal government and you are not taking a break in service, it will be automatically transferred to your next agency (but it often takes a few pay periods). If you leave the federal government and later decide to rejoin, your Sick Leave will be reinstated. If you are eligible for the FERS retirement pension, unused Sick Leave may be added to your [monetary calculation upon retirement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-general-information/#:~:text=Sick%20Leave%20Used%20in%20the%20Computation%20of%20an%20Annuity).  
+  - If you received [Award Leave]({% page "/travel-and-leave/leave/#award-leave" %}) from your end-of-year performance review or a Special Act Award, it **will not** be paid out. You must use it before you depart GSA, or you will forfeit it. Similarly, travel comp time **will not** be paid out.
+  - Your Annual Leave **will** be paid out. If you are staying in the federal government and you are not taking a break in employment, then it will be automatically transferred to your next agency (but it often takes a few pay periods). We recommend printing a copy of your last Leave and Earnings statement before the end of your final day. Comp time and credit hours **will** also be paid out.
+  - Your Sick Leave **will not** be paid out; however, you will not lose it. If your next role is still within the federal government and you are not taking a break in service, it will be automatically transferred to your next agency (but it often takes a few pay periods). If you leave the federal government and later decide to rejoin, your Sick Leave will be reinstated. If you are eligible for the FERS retirement pension, unused Sick Leave may be added to your [monetary calculation upon retirement](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/sick-leave-general-information/#:~:text=Sick%20Leave%20Used%20in%20the%20Computation%20of%20an%20Annuity).
 - You may be entitled to
   [unemployment insurance](https://oui.doleta.gov/unemploy/unemcomp.asp) if you
   lose your job, as long as it's not due to misconduct. The amount is small.
@@ -75,7 +76,6 @@ supervisor that they've worked under for 120 days.
   - [Entering Retirement FAQ](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/retirement/entering-retirement/entering-retirement-faqs)
   - [Retirement Specialists](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/benefits/benefits-and-retirement-specialists)
   - [Retirement Forms](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/retirement/entering-retirement/retirement-forms?term=retirement)
-
 
 If you have any questions, please email the GSA HR Benefits Contact found in the
 [Benefits & Support Contacts for TTS Employees](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit)
@@ -117,7 +117,7 @@ equipment is returned.
 
 A member of your team should give you instructions about offboarding for your specific
 team, including creating an IT ticket and completing a checklist on a Form 1655. Complete
-all requested steps and see [this Google Doc](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0)'s section under "Separations" for the 
+all requested steps and see [this Google Doc](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0)'s section under "Separations" for the
 most current GSA process information.
 
 ### Supervisor
@@ -138,6 +138,7 @@ respond to you directly without creating additional email noise for coworkers.
 
 As you leave, you’re encouraged to join
 {% slack_channel "alumni" "the alumni channel" %} on Slack. Once you have left TTS:
+
 - Keep conversations and questions visible within #alumni and don't DM staff. For
   direct communication, use methods available to the general public, such as
   email.
@@ -149,7 +150,6 @@ As you leave, you’re encouraged to join
   personally authored while you were here.
 - Don't share job postings (unless it is for a role at a government agency). Our #alumni channel should not
   provide advantages to any particular company due to someone's access to it. You can use email or other publicly accessible methods to share job postings.
-
 
 ### Writing a post on your personal blog
 

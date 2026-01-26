@@ -2,6 +2,7 @@
 title: Going out of office
 keywords: out of office
 ---
+
 ## Your overall responsibilities
 
 You must report to work or have an approved [leave request in HR Links]({% page "/tools/hrlinks/#using-leave" %}), every scheduled work day. You are also responsible for [submitting your timesheet]({% page "/tools/hrlinks/#submitting-your-timesheet" %}) at the end of every pay period.
@@ -28,7 +29,7 @@ Before taking leave, be sure to:
 
 1. Submit a leave request through HR Links. Discuss the dates with your supervisor, as needed.
 2. Mark your out of office time on your calendar (inviting your supervisor/colleagues as appropriate with the invite set to "free" so it doesn't block other scheduling) and any applicable team or project calendars.
-   1. [Google Calendar has an OOO setting](https://support.google.com/calendar/answer/7638168?hl=en\&co=GENIE.Platform%3DDesktop\&oco=0) that can auto-reject current and future meetings.
+   1. [Google Calendar has an OOO setting](https://support.google.com/calendar/answer/7638168?hl=en&co=GENIE.Platform%3DDesktop&oco=0) that can auto-reject current and future meetings.
 3. Decline, cancel, or reschedule any meetings you’ll miss.
 4. Tell team members or partners via Slack or email, and make sure your work is covered.
    1. Notify your Engagement Manager, Account Manager, and project lead, if applicable.
@@ -39,11 +40,11 @@ Before taking leave, be sure to:
 7. TTS team members should also:
    1. Submit [correct Tock entries]({% page "/tools/tock/#tocking-for-out-of-office-time" %})
    2. Update your Slack username and profile (ex: @username | OOO until 7/12 | she)
-   3. Product chapter members: add an event to the [All Things Product](https://calendar.google.com/calendar/embed?src=gsa.gov\_dkgkep8b6fj5ge1s2m0cn4srog%40group.calendar.google.com) calendar.
+   3. Product chapter members: add an event to the [All Things Product](https://calendar.google.com/calendar/embed?src=gsa.gov_dkgkep8b6fj5ge1s2m0cn4srog%40group.calendar.google.com) calendar.
 
 ### Returning from leave
 
 Upon returning from leave, remember to:
 
-* Change your Slack name/status back to normal
-* Turn off your email auto-response
+- Change your Slack name/status back to normal
+- Turn off your email auto-response

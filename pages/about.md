@@ -5,9 +5,9 @@ questions:
 ---
 
 {% alert "Under development" %}
-  This page is new and currently under development.
-  Its content is accurate, but it is lacking important information such as the
-  Handbook's governance structure.
+This page is new and currently under development.
+Its content is accurate, but it is lacking important information such as the
+Handbook's governance structure.
 {% endalert %}
 
 In a nutshell, the Handbook is our take on internal government documentation. It
@@ -31,4 +31,3 @@ The Handbook should always aim to be:
   searchable.
 - **Living**: Content is expected to change over time. Specifically, it should
   be kept up-to-date with TTS’s processes and policies.
-

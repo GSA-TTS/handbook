@@ -6,7 +6,7 @@ questions:
 ---
 
 {% alert %}
-  Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> to see what you can use your hours for.
+Current employees can use this <a href="https://docs.google.com/spreadsheets/d/1-dm0tptMsZ2FKhuta52RFEiN4Sfkd9coYN0_tjQCe9Y/edit?usp=sharing">leave comparison chart</a> to see what you can use your hours for.
 {% endalert %}
 
 You will need supervisor approval before working extra hours. Generally, do not expect to work extra hours unless you’re working on a high-profile project.
@@ -17,8 +17,8 @@ You will need to [manually request these hours in HR Links]({% page "/tools/hrli
 
 Your ability to use these options depends on your [salary level](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/):
 
-* The amount of overtime or comp time you can receive depends on your salary level. Refer to the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0) to see how much comp time you can earn.
-* If you make the maximum salary ($191,900 in 2024), you cannot receive overtime or comp time. You can only be compensated with credit hours on a flexible schedule.
+- The amount of overtime or comp time you can receive depends on your salary level. Refer to the [Bi-weekly Comp Time Cap Calculator](https://docs.google.com/spreadsheets/d/1q7wVWPWzBYljj87Wzl-ouVDJux9vplOP_zg3ryxz0iw/edit#gid=0) to see how much comp time you can earn.
+- If you make the maximum salary ($191,900 in 2024), you cannot receive overtime or comp time. You can only be compensated with credit hours on a flexible schedule.
 
 ### Overtime, depending on your salary level
 
@@ -44,11 +44,11 @@ Only people on [flexible work schedules]({% page "/general-information-and-resou
 
 You can be approved for credit hours if you want to voluntarily work additional hours to your normal/approved schedule. If you are required to work additional hours, you will receive overtime or comp time.
 
-* You can have up to 24 credit hours accrued, at any given time.
+- You can have up to 24 credit hours accrued, at any given time.
 
-* The hours will rollover from one pay period to the next, and they never expire.
+- The hours will rollover from one pay period to the next, and they never expire.
 
-* Credit hours cannot be converted to cash, unless you leave GSA (then they will be paid out).
+- Credit hours cannot be converted to cash, unless you leave GSA (then they will be paid out).
 
 Refer to OPM’s [Credit Hours Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/credit-hours-under-a-flexible-work-schedule/) for more detail.
 
@@ -64,7 +64,7 @@ Email your supervisor about the extra hours you plan to work before a religious 
 
 ## Travel comp time, for everyone
 
-You may request travel comp time when you are approved to travel for work and the travel occurs outside regular working hours. Travel comp time is for “temporary duty” aka “TDY” travel, *not* local travel or commuting. TDY travel is more than 12 hours long and requires a pre-approved authorization in Concur.
+You may request travel comp time when you are approved to travel for work and the travel occurs outside regular working hours. Travel comp time is for “temporary duty” aka “TDY” travel, _not_ local travel or commuting. TDY travel is more than 12 hours long and requires a pre-approved authorization in Concur.
 
 There are no limitations for earning travel comp time based on salary level or schedule type.
 
@@ -84,9 +84,9 @@ For calculating travel comp time hours, travel ends when you check in at the hot
 
 To accurately report travel time, we recommend keeping a log of:
 
-* When you departed your home and arrived at the airport
-* When your flights actually departed and arrived
-* When you left the destination airport and arrived at your hotel
+- When you departed your home and arrived at the airport
+- When your flights actually departed and arrived
+- When you left the destination airport and arrived at your hotel
 
 ### Using travel comp time
 

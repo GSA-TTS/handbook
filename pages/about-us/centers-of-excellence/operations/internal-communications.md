@@ -48,7 +48,7 @@ Slack is a primary communication space across TTS.
   - {% slack_channel "#g-research" %}
   - {% slack_channel "#dev-frontend" %}
 - Engineering
-  - {% slack_channel "#dev" %}  (TTS-wide)
+  - {% slack_channel "#dev" %} (TTS-wide)
   - {% slack_channel "#dev-frontend" %}
   - {% slack_channel "javascript" %}
   - {% slack_channel "python" %}
@@ -90,17 +90,17 @@ If you schedule recurring meetings for your engagement or other work, revisit th
 
 Several recurring meetings share information especially relevant to TTS staff:
 
-| Meeting  | Attendees | Timing |
-|----------|-----------|--------|
-| **TTS All Hands**<br> To share updates with all staff. Chat happens in the meeting chat and {% slack_channel "#townhall" %}. [Archive of past recordings, slide decks, and question docs](https://docs.google.com/spreadsheets/d/1KK1aU5fN0wiOtcHbVWm-FX4-ITFrY3Qohvny_Tazrl0/edit?gid=0#gid=0). | For all TTS staff  | 60 minutes every other month |
-| **TTS Project Snapshot**<br> To brief TTS leadership on current project work | TTS or CoE leadership, TTS leadership | 60 minutes for each monthly |
-| **TTS Monthly Program Review**<br> For TTS leadership to share with TTS leadership | TTS leadership, TTS front officer, TTS Ops representative | 60 minutes monthly |
+| Meeting                                                                                                                                                                                                                                                                                          | Attendees                                                 | Timing                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ---------------------------- |
+| **TTS All Hands**<br> To share updates with all staff. Chat happens in the meeting chat and {% slack_channel "#townhall" %}. [Archive of past recordings, slide decks, and question docs](https://docs.google.com/spreadsheets/d/1KK1aU5fN0wiOtcHbVWm-FX4-ITFrY3Qohvny_Tazrl0/edit?gid=0#gid=0). | For all TTS staff                                         | 60 minutes every other month |
+| **TTS Project Snapshot**<br> To brief TTS leadership on current project work                                                                                                                                                                                                                     | TTS or CoE leadership, TTS leadership                     | 60 minutes for each monthly  |
+| **TTS Monthly Program Review**<br> For TTS leadership to share with TTS leadership                                                                                                                                                                                                               | TTS leadership, TTS front officer, TTS Ops representative | 60 minutes monthly           |
 
 #### CoE-focused meetings
 
-| Meeting  | Attendees | Timing |
-|----------|-----------|--------|
-| **CoE weekly Management Update \[Internal\]**<br> Update on changes to CoE approach, strategy, upcoming plans, etc. | CoE PMO and supervisors | 2 hours every 2-3 months |
-| **CoE All Hands**<br> CoE-wide meeting on announcements, administrative updates, team events, and deadlines | All CoE Team Members  | 90 minutes every 4-6 weeks |
-| **Center Check-in**<br> Touch base in each CoE on announcements, strategy, and timely risks as well as sharing challenges and experiences | Center members with the supervisor  | 30 minutes weekly |
-| **State of Center**<br> Review each centers, location, utilization in staff needs to make sure the central lead is well equipped to act on them | Center lead and PMO | 30 minutes fortnightly |
+| Meeting                                                                                                                                         | Attendees                          | Timing                     |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | -------------------------- |
+| **CoE weekly Management Update \[Internal\]**<br> Update on changes to CoE approach, strategy, upcoming plans, etc.                             | CoE PMO and supervisors            | 2 hours every 2-3 months   |
+| **CoE All Hands**<br> CoE-wide meeting on announcements, administrative updates, team events, and deadlines                                     | All CoE Team Members               | 90 minutes every 4-6 weeks |
+| **Center Check-in**<br> Touch base in each CoE on announcements, strategy, and timely risks as well as sharing challenges and experiences       | Center members with the supervisor | 30 minutes weekly          |
+| **State of Center**<br> Review each centers, location, utilization in staff needs to make sure the central lead is well equipped to act on them | Center lead and PMO                | 30 minutes fortnightly     |

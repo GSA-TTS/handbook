@@ -119,15 +119,17 @@ instructions]({% page "/getting-started/how-to-log-in/#changing-your-ent-passwor
 use to send or receive a fax. RightFax has been bundled with Google for all GSA users.
 
 To request an inbound fax number:
+
 1. Send an email to edistat@gsa.gov including your email address/group email address
 2. You will receive a random inbound fax number, pulled from a pool of numbers
 3. Any faxes sent to this number will be received in your Gmail inbox
 
 To send an outbound fax:
+
 1. Compose a new email to /fax=0000000000@fax.gsa.gov, substituting the actual fax number for the 0s
 2. Include area code, but not country code in your fax number
 3. Write in the body of the email if you’d like to send a plain text fax, or attach
-files to the email to be faxed
+   files to the email to be faxed
 4. Current allowed attachments size limit is 25 MB
 
 ## Self Service

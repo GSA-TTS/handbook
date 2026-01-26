@@ -8,11 +8,11 @@ The mission of GSA's **Technology Transformation Service (TTS)** is to empower o
 
 TTS works with federal, state, local, and tribal agency partners to:
 
-* Find a starting point for digital modernization
-* Build staff capacity  
-* Modernize technology systems
-* Improve the public experience of government
-* Build and buy technology in better ways
+- Find a starting point for digital modernization
+- Build staff capacity
+- Modernize technology systems
+- Improve the public experience of government
+- Build and buy technology in better ways
 
 Our work resides within the overall GSA mission: "To deliver the best customer experience and value in real estate, acquisition, and technology services to the government and American people."
 

@@ -6,7 +6,7 @@ Supervisor responsibilities are generally outlined in the [TTS New Supervisor Pl
 
 At a high-level, TTS supervisors are expected to provide their direct reports with:
 
-- Being a thought partner and reviewer for engagement work, ensuring the deliverables meet quality standards *and* advance the engagement goals
+- Being a thought partner and reviewer for engagement work, ensuring the deliverables meet quality standards _and_ advance the engagement goals
 - Help completing administrative tasks
 - Providing context on our organization and ways of working
 - Collecting peer feedback and conducting performance reviews

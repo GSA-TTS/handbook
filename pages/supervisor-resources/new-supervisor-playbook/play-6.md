@@ -1,6 +1,5 @@
 ---
-title:
-  Play 6 - Be human; bring your authentic self to work, and get to know the
+title: Play 6 - Be human; bring your authentic self to work, and get to know the
   story of others
 keywords: supervisor playbook, leadership
 ---

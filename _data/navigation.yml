@@ -82,12 +82,10 @@ primary:
       - text: Online Learning University (OLU)
         url: training-and-development/olu/
         internal: true
-      - text:
-          Affinity groups, working groups, guilds, and communities of practice
+      - text: Affinity groups, working groups, guilds, and communities of practice
         url: training-and-development/working-groups-and-guilds-101/
         internal: true
-      - text:
-          Career Progression Framework (CPF) project description and overview
+      - text: Career Progression Framework (CPF) project description and overview
         url: career-progression-framework/overview/
         internal: true
       - text: TTS Career Progression Frameworks
@@ -366,8 +364,7 @@ primary:
               - text: Talent
                 url: office-of-operations/talent/
                 internal: true
-              - text:
-                  Top Secret/Sensitive Compartmented Information (TS/SCI)
+              - text: Top Secret/Sensitive Compartmented Information (TS/SCI)
                   Clearance
                 url: top-secret/
                 internal: true
@@ -394,6 +391,7 @@ primary:
             url: contractors/
             internal: true
       - text: TTS Centers of Excellence
+        href: /#tts-consulting
         main-file-path: /about-us/centers-of-excellence/
         use_section_menu: true
         children:

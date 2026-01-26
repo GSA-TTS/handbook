@@ -115,7 +115,7 @@ referrals for assistance beyond the six sessions, based on your needs, insurance
 coverage, location, and financial resources.
 
 To access the EAP, you can call them 24/7 at ​​1-800-222-0364 or 888-262-7848
-(TTY). You can also view EAP materials on the [EAP website](http://www.foh4you.com/). You'll need to click "Enter Site" and log in or register if it's your first time (the registration code can be found on the [GSA InSight page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/worklife-programs/employee-assistance-program?term=eap#:~:text=Use%20registration%20code)). You can also find more information in the 
+(TTY). You can also view EAP materials on the [EAP website](http://www.foh4you.com/). You'll need to click "Enter Site" and log in or register if it's your first time (the registration code can be found on the [GSA InSight page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/worklife-programs/employee-assistance-program?term=eap#:~:text=Use%20registration%20code)). You can also find more information in the
 [EAP Fact Sheet](https://drive.google.com/file/d/1P6KQ63uPROXZzNw76gi9W2VqMQxlbr1w/view).
 
 ### WorkLife4You
@@ -174,9 +174,9 @@ for additional support.
 Throughout the year, you can attend an EAP Orientation as well as free health &
 wellness sessions. Visit the
 [EAP InSite Page](https://insite.gsa.gov/employee-resources/hr-eeo-pay-and-leave/worklife-programs/employee-assistance-program)
-for current dates, times, and links. 
+for current dates, times, and links.
 
-The InSite page also lists GSA's EAP program manager, if you want to provide feedback about your experience with the program. 
+The InSite page also lists GSA's EAP program manager, if you want to provide feedback about your experience with the program.
 
 ## Flexible spending accounts
 
@@ -256,7 +256,7 @@ HR Links by taking the following steps:
 - Select "Health Benefits Election Form"
 
   - a list of event codes can be found by going to the side bar and clicking the
-    second to last bookmark titled "Tables of Permissable Changes..."
+    second to last bookmark titled "Tables of Permissible Changes..."
 
 - Once you click "Submit" the documents get sent to the cpc benefits team where
   they can review and process these actions.
@@ -500,23 +500,23 @@ service, that amount of time would be considered creditable service and would
 increase your “length of service”
 [FERS payment calculation](https://www.opm.gov/retirement-services/fers-information/computation/).
 
-To buy back your Peace Corps volunteer service, you will need to obtain a copy 
-of your [Peace Corps Certification of Service](https://www.peacecorps.gov/returned-volunteers/support/certifications-of-service/#:~:text=Certification%20of%20service%20for%20federal%20retirement), complete the form [SF-3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf), and 
+To buy back your Peace Corps volunteer service, you will need to obtain a copy
+of your [Peace Corps Certification of Service](https://www.peacecorps.gov/returned-volunteers/support/certifications-of-service/#:~:text=Certification%20of%20service%20for%20federal%20retirement), complete the form [SF-3108](https://www.opm.gov/forms/pdf_fill/sf3108.pdf), and
 submit these documents to the [HR specialist assigned](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0) to you.  
-Once the HR specialist has received your documents, they will complete the rest 
-of the SF-310 form and return it for you to sign.  When you return the 
+Once the HR specialist has received your documents, they will complete the rest
+of the SF-310 form and return it for you to sign. When you return the
 signed SF-3108 form to HR, they will send this form to OPM.  
-OPM will compute the amount owed based on what you would have paid for 
-retirement contributions including accrued interest and will mail you 
+OPM will compute the amount owed based on what you would have paid for
+retirement contributions including accrued interest and will mail you
 a “Civil Service Deposit Account Statement” to your home address.  
-Make sure to note the claim number (starting with CSD -) on the form, 
+Make sure to note the claim number (starting with CSD -) on the form,
 you will need this for any future correspondence with OPM.  
 The payment can be made by check or by credit card at [pay.gov](https://www.pay.gov).
 
-After you make the payment, you will need to [contact OPM](screceipts@opm.gov) to obtain 
+After you make the payment, you will need to [contact OPM](screceipts@opm.gov) to obtain
 a “Paid in full statement” , which you will need to submit to [GSA HR](https://docs.google.com/document/d/15glvq9UakKUN8XTRTa6gRkhBHm2whhQyAGmf8ibTtBs/edit?tab=t.0).  
 They will upload the Paid in Full statement to your eOPF.  
-Then, they will need to update your Service Computation Date (SCD) for Retirement 
+Then, they will need to update your Service Computation Date (SCD) for Retirement
 in HRLinks and on your SF-50 to show the additional time from your Peace Corps service.
 
 The calculations for FERS retirement can be complex, and there is paperwork to

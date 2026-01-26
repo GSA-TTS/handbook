@@ -46,7 +46,7 @@
     "sharp": "^0.34.5"
   },
   "devDependencies": {
-    "cheerio": "^1.1.2",
+    "cheerio": "^1.2.0",
     "cspell": "^6.31.3",
     "eslint": "^8.57.1",
     "eslint-config-airbnb-base": "^15.0.0",

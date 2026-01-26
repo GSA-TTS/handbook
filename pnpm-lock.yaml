@@ -61,8 +61,8 @@ importers:
         version: 0.34.5
     devDependencies:
       cheerio:
-        specifier: ^1.1.2
-        version: 1.1.2
+        specifier: ^1.2.0
+        version: 1.2.0
       cspell:
         specifier: ^6.31.3
         version: 6.31.3(encoding@0.1.13)
@@ -1207,8 +1207,8 @@ packages:
   cheerio-select@2.1.0:
     resolution: {integrity: sha512-9v9kG0LvzrlcungtnJtpGNxY+fzECQKhK4EGJX2vByejiMX84MFNQw4UxPJl3bFbTMw+Dfs37XaIkCwTZfLh4g==}
 
-  cheerio@1.1.2:
-    resolution: {integrity: sha512-IkxPpb5rS/d1IiLbHMgfPuS0FgiWTtFIm/Nj+2woXDLTZ7fOT2eqzgYbdMlLweqlHbsZjxEChoVK+7iph7jyQg==}
+  cheerio@1.2.0:
+    resolution: {integrity: sha512-WDrybc/gKFpTYQutKIK6UvfcuxijIZfMfXaYm8NMsPQxSYvf+13fXUJ4rztGGbJcBQ/GF55gvrZ0Bc0bj/mqvg==}
     engines: {node: '>=20.18.1'}
 
   chokidar@3.6.0:
@@ -2017,9 +2017,6 @@ packages:
         optional: true
       jest-snapshot:
         optional: true
-
-  htmlparser2@10.0.0:
-    resolution: {integrity: sha512-TwAZM+zE5Tq3lrEHvOlvwgj1XLWQCtaaibSN11Q+gGBAS7Y1uZSWwXXRe4iF6OXnaq1riyQAPFOBtYc77Mxq0g==}
 
   htmlparser2@10.1.0:
     resolution: {integrity: sha512-VTZkM9GWRAtEpveh7MSF6SjjrpNVNNVJfFup7xTY3UpFtm67foy9HDVXneLtFVt4pMz5kZtgNcvCniNFb1hlEQ==}
@@ -3618,12 +3615,12 @@ packages:
     resolution: {integrity: sha512-nWJ91DjeOkej/TA8pXQ3myruKpKEYgqvpw9lz4OPHj/NWFNluYrjbz9j01CJ8yKQd2g4jFoOkINCTW2I5LEEyw==}
     engines: {node: '>= 0.4'}
 
-  undici@7.18.2:
-    resolution: {integrity: sha512-y+8YjDFzWdQlSE9N5nzKMT3g4a5UBX1HKowfdXh0uvAnTaqqwqB92Jt4UXBAeKekDs5IaDKyJFR4X1gYVCgXcw==}
-    engines: {node: '>=20.18.1'}
-
   undici@7.19.0:
     resolution: {integrity: sha512-Heho1hJD81YChi+uS2RkSjcVO+EQLmLSyUlHyp7Y/wFbxQaGb4WXVKD073JytrjXJVkSZVzoE2MCSOKugFGtOQ==}
+    engines: {node: '>=20.18.1'}
+
+  undici@7.19.1:
+    resolution: {integrity: sha512-Gpq0iNm5M6cQWlyHQv9MV+uOj1jWk7LpkoE5vSp/7zjb4zMdAcUD+VL5y0nH4p9EbUklq00eVIIX/XcDHzu5xg==}
     engines: {node: '>=20.18.1'}
 
   unique-filename@5.0.0:
@@ -4853,18 +4850,18 @@ snapshots:
       domhandler: 5.0.3
       domutils: 3.2.2
 
-  cheerio@1.1.2:
+  cheerio@1.2.0:
     dependencies:
       cheerio-select: 2.1.0
       dom-serializer: 2.0.0
       domhandler: 5.0.3
       domutils: 3.2.2
       encoding-sniffer: 0.2.1
-      htmlparser2: 10.0.0
+      htmlparser2: 10.1.0
       parse5: 7.3.0
       parse5-htmlparser2-tree-adapter: 7.1.0
       parse5-parser-stream: 7.1.2
-      undici: 7.18.2
+      undici: 7.19.1
       whatwg-mimetype: 4.0.0
 
   chokidar@3.6.0:
@@ -5853,13 +5850,6 @@ snapshots:
       minimist: 1.2.8
       prompts: 2.4.2
       semver: 7.7.3
-
-  htmlparser2@10.0.0:
-    dependencies:
-      domelementtype: 2.3.0
-      domhandler: 5.0.3
-      domutils: 3.2.2
-      entities: 6.0.1
 
   htmlparser2@10.1.0:
     dependencies:
@@ -7711,9 +7701,9 @@ snapshots:
       has-symbols: 1.1.0
       which-boxed-primitive: 1.1.1
 
-  undici@7.18.2: {}
-
   undici@7.19.0: {}
+
+  undici@7.19.1: {}
 
   unique-filename@5.0.0:
     dependencies:

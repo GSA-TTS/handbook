@@ -55,7 +55,7 @@
     "html-validate": "^7.16.0",
     "linkinator": "^7.5.1",
     "markdownlint-cli": "^0.47.0",
-    "node-gyp": "^12.1.0",
+    "node-gyp": "^12.2.0",
     "prettier": "^2.8.8"
   },
   "prettier": {},

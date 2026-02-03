@@ -31,7 +31,7 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-img": "^3.1.8",
     "@uswds/uswds": "^3.13.0",
-    "autoprefixer": "^10.4.23",
+    "autoprefixer": "^10.4.24",
     "eleventy-plugin-svg-sprite": "^2.4.6",
     "esbuild": "^0.27.2",
     "esbuild-sass-plugin": "^3.6.0",

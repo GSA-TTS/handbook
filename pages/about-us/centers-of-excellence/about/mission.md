@@ -54,7 +54,7 @@ The TTS approach focuses on these tenets:
 - **Understand the problem.** Get a shared understanding of the problem first to build trust and guide us to better recommendations and solutions.
 - **Build often and iteratively.** Use cross-functional teams and agile methodologies to deliver working software early and often. We build, test, validate with real people, then iterate and build again. These feedback loops deliver value quickly and avoid big failures that can come with “all-at-once” launches.
 - **Build partner capacity.** Identify and empower product owners and advocates within partner agencies to promote and sustain best practices after TTS’s work has finished.
-- **Open by default.** We [code and design in the open](https://github.com/TTS), use open-source software, use and build open source code, and evangelize our methods and practices across the federal government.
+- **Open by default.** We [code and design in the open](https://github.com/GSA-TTS), use open-source software, use and build open source code, and evangelize our methods and practices across the federal government.
 
 ### History of TTS
 

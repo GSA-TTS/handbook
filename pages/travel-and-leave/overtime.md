@@ -58,7 +58,7 @@ There are two steps to earning credit hours. First, request to work the addition
 
 ### Credit hours example
 
-You are on a [Gliding schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/#gliding" %}), and you work 8 hours every day. You are not required to stay late, but if you are in a productive headspace and want to work an extra hour to finish work, you can ask your supervisor about working 1 more hour, therefore receiving 1 credit hour. 
+You are on a [Gliding schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/#gliding" %}), and you work 8 hours every day. You are not required to stay late, but if you are in a productive headspace and want to work an extra hour to finish work, you can ask your supervisor about working 1 more hour, therefore receiving 1 credit hour. You will need to request the 1 hour in HR Links, and your supervisor will need to approve it.
 
 ## Religious comp time, for everyone
 

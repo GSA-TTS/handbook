@@ -52,9 +52,13 @@ You can be approved for credit hours if you want to voluntarily work additional 
 
 Refer to OPM’s [Credit Hours Fact Sheet](https://www.opm.gov/policy-data-oversight/pay-leave/work-schedules/fact-sheets/credit-hours-under-a-flexible-work-schedule/) for more detail.
 
+### Credit hours mechanics
+
+There are two steps to earning credit hours. First, request to work the additional time in HR Links (under "Request Additional Time" on your timecard or "Additional Time Requests" on your self-service page). Your supervisor will need to approve this. Second, log the hours worked on your timesheet under time reporting code 036.
+
 ### Credit hours example
 
-You are on a [Gliding schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/#gliding" %}), and you work 8 hours every day. You are not required to stay late, but if you are in a productive headspace and want to work an extra hour to finish work, you can ask your supervisor about working 1 more hour, therefore receiving 1 credit hour. You will need to request the 1 hour in HR Links, and your supervisor will need to approve it.
+You are on a [Gliding schedule]({% page "/general-information-and-resources/employee-resources-policies/work-schedules/#gliding" %}), and you work 8 hours every day. You are not required to stay late, but if you are in a productive headspace and want to work an extra hour to finish work, you can ask your supervisor about working 1 more hour, therefore receiving 1 credit hour. 
 
 ## Religious comp time, for everyone
 

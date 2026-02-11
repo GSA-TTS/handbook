@@ -1,4 +1,5 @@
 # TTS Handbook
+[![DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/GSA-TTS/handbook)
 
 ![Build](https://github.com/gsa-tts/handbook/actions/workflows/pull-request.yml/badge.svg)
 

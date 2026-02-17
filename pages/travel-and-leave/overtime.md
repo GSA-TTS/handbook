@@ -54,7 +54,7 @@ Refer to OPM’s [Credit Hours Fact Sheet](https://www.opm.gov/policy-data-overs
 
 ### Credit hours mechanics
 
-There are two steps to earning credit hours. First, request to work the additional time in HR Links under "Request Additional Time" on your timecard or "Additional Time Requests" on your Self-service page. Your supervisor will need to approve this (while you're establishing a flexible work schedule is a good time to discuss if or how to notify them outside of HR Links). Second, log the extra hours you worked on your timesheet using time reporting code 036.
+There are two steps to earning credit hours. First, request to work the additional time in HR Links under "Request Additional Time" on your timecard or "Additional Time Requests" on your Self-service page. Your supervisor will need to approve this (while you're establishing a flexible work schedule is a good time to discuss if or how to notify them outside of HR Links). Second, log the extra hours you worked on your timesheet using time reporting code 036 (Credit Hours Earned).
 
 ### Credit hours example
 

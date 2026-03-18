@@ -65,6 +65,11 @@ const getDom = async (file) => {
   return dom;
 };
 
+const hashExists = (ids, targetId) => {
+  const decodedTargetId = decodeURIComponent(targetId);
+  return ids.includes(targetId) || ids.includes(decodedTargetId);
+};
+
 const run = async () => {
   const files = await getFiles(SITE_ROOT);
 
@@ -112,13 +117,7 @@ const run = async () => {
 
         const filePath = path.join(SITE_ROOT, pathname);
 
-        let targetFileExists = await exists(filePath);
-
-        // If the target file isn't in the pages map (maybe due to redirects), try
-        // to parse it directly as a fallback before reporting a missing file.
-        if (!targetFileExists) {
-          targetFileExists = await exists(filePath);
-        }
+        const targetFileExists = await exists(filePath);
 
         if (targetFileExists) {
           if (url.hash) {
@@ -140,18 +139,7 @@ const run = async () => {
               }
             }
 
-            const decodedTargetId = decodeURIComponent(targetId);
-
-            // Generate variant forms to handle different slugification of
-            // possessives/apostrophes (e.g. "other-people-s-money" vs
-            // "other-peoples-money"). We check the raw id, the decoded id,
-            // and a variant that collapses "-word-s-" into "-words-".
-            const variants = new Set([targetId, decodedTargetId]);
-            const collapsePossessive = (s) => s.replace(/-([^-]+)-s(?=-|$)/g, "-$1s");
-            variants.add(collapsePossessive(targetId));
-            variants.add(collapsePossessive(decodedTargetId));
-
-            const targetHashExists = targetIds.some((tid) => variants.has(tid));
+            const targetHashExists = hashExists(targetIds, targetId);
 
             if (!targetHashExists) {
               errors
@@ -163,20 +151,13 @@ const run = async () => {
           errors.get(page).push(`link to ${link}: target file does not exist`);
         }
       } else {
-          const targetId = link.replace(/^#/, "");
-          const decodedTargetId = decodeURIComponent(targetId);
+        const targetId = link.replace(/^#/, "");
+        const targetHashExists = hashExists(ids, targetId);
 
-          const variants = new Set([targetId, decodedTargetId]);
-          const collapsePossessive = (s) => s.replace(/-([^-]+)-s(?=-|$)/g, "-$1s");
-          variants.add(collapsePossessive(targetId));
-          variants.add(collapsePossessive(decodedTargetId));
-
-          const targetHashExists = ids.some((tid) => variants.has(tid));
-
-          if (!targetHashExists) {
-            errors.get(page).push(`link to ${link} - target hash does not exist`);
-          }
+        if (!targetHashExists) {
+          errors.get(page).push(`link to ${link} - target hash does not exist`);
         }
+      }
     }
   }
 

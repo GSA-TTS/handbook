@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 24
       - name: Install dependencies
-        run: npm install
+        run: npm ci
       - name: Build site
         env:
           ELEVENTY_ENV: production
@@ -97,7 +97,7 @@ jobs:
           name: site
           path: _site
       - name: Install dependencies
-        run: npm install
+        run: npm ci
       - name: Run Linkinator
         run: npm run test:linkinator
         continue-on-error: false

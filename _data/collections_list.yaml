@@ -1,7 +1,5 @@
-# We can add any kind of data in this _data folder and this file.
-# In this example, we create a simple array of options and then in the _pages/collections.md file we
-# Reference this data file in 'datafile' in the Front Matter and _layouts/list.html renders it
-# This is simple, hopefully provides you with a good enough example to make changes as needed
+# Collections data (renamed to avoid Eleventy reserved `collections` data property)
+# Use this filename in front matter as `datafile: collections_list` if needed.
 - name: GSA
   url: https://gsa.gov
   description:

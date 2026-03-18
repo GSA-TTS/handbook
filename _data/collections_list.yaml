@@ -3,27 +3,19 @@
 - name: GSA
   url: https://gsa.gov
   description:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus
-    interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui
-    suscipit rhoncus.
+    General Services Adminstration (GSA)
 
 - name: USDA
   url: http://usda.gov/
   description:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus
-    interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui
-    suscipit rhoncus.
+    United States Department of Agriculture (USDA)
 
 - name: Performance.gov
   url: http://performance.gov/
   description:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus
-    interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui
-    suscipit rhoncus.
+    Performance.gov is a platform that tracks the progress of federal agencies in achieving their strategic goals.
 
 - name: Login.gov
   url: https://login.gov
   description:
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus
-    interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui
-    suscipit rhoncus.
+    Login.gov is a secure platform that allows users to access multiple government services with a single account.

@@ -54,7 +54,7 @@
     "eslint-plugin-import": "^2.32.0",
     "html-validate": "^7.16.0",
     "linkinator": "^7.6.1",
-    "markdownlint-cli": "^0.47.0",
+    "markdownlint-cli": "^0.48.0",
     "node-gyp": "^12.2.0",
     "prettier": "^2.8.8"
   },

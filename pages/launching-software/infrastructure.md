@@ -182,6 +182,7 @@ There are a few special notes on using any "Infrastructure as a Service" in the
 Federal context.
 
 #### Other people's money
+#### Other people's money
 
 The federal government cannot pay one penny more than it is authorized to spend.
 There is no retroactive justification for spends. When government exceeds these

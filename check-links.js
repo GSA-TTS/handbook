@@ -100,26 +100,49 @@ const run = async () => {
     for (const link of links) {
       if (link.startsWith("/")) {
         const url = new URL(link, "https://tts.gsa.gov");
-        const pathComponents = [SITE_ROOT];
+        // Normalize the pathname by stripping the configured baseurl and
+        // leading slashes so path.join works reliably across platforms.
+        let pathname = url.pathname.replace(baseurl, "");
+        pathname = pathname.replace(/^\/+/, "");
 
-        // if(/^\/(images|))
-
-        pathComponents.push(url.pathname.replace(baseurl, ""));
-
-        // If the link does not include a file path, append index.html
-        if (!/\.[a-z]+/i.test(url.pathname)) {
-          pathComponents.push("index.html");
+        // If the link does not include a file extension, assume index.html
+        if (!/\.[a-z0-9]+$/i.test(pathname)) {
+          pathname = path.join(pathname, "index.html");
         }
 
-        const filePath = path.join(...pathComponents);
+        const filePath = path.join(SITE_ROOT, pathname);
 
-        const targetFileExists = await exists(filePath);
+        let targetFileExists = await exists(filePath);
+
+        // If the target file isn't in the pages map (maybe due to redirects), try
+        // to parse it directly as a fallback before reporting a missing file.
+        if (!targetFileExists) {
+          targetFileExists = await exists(filePath);
+        }
+
         if (targetFileExists) {
           if (url.hash) {
             const targetId = url.hash.replace(/^#/, "");
-            const targetHashExists = pagesMap
-              .get(filePath)
-              .ids.includes(targetId);
+
+            // Look up the target file's ids from the pages map; if missing,
+            // parse the file to collect ids directly.
+            let targetIds = pagesMap.get(filePath)?.ids;
+            if (!targetIds) {
+              try {
+                const targetDom = await getDom(filePath);
+                targetIds = targetDom("[id]")
+                  .map(function () {
+                    return targetDom(this).attr("id");
+                  })
+                  .get();
+              } catch (e) {
+                targetIds = [];
+              }
+            }
+
+            const decodedTargetId = decodeURIComponent(targetId);
+            const targetHashExists =
+              targetIds.includes(targetId) || targetIds.includes(decodedTargetId);
 
             if (!targetHashExists) {
               errors
@@ -132,7 +155,8 @@ const run = async () => {
         }
       } else {
         const targetId = link.replace(/^#/, "");
-        const targetHashExists = ids.includes(targetId.toLowerCase());
+        const decodedTargetId = decodeURIComponent(targetId);
+        const targetHashExists = ids.includes(targetId) || ids.includes(decodedTargetId);
 
         if (!targetHashExists) {
           errors.get(page).push(`link to ${link} - target hash does not exist`);

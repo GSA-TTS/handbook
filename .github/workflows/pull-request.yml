@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 24
       - name: Install dependencies
-        run: npm ci
+        run: npm install
       - name: Build site
         env:
           ELEVENTY_ENV: production
@@ -39,6 +39,7 @@ jobs:
     name: validate html
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
@@ -60,6 +61,7 @@ jobs:
     name: validate internal links
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
@@ -81,6 +83,7 @@ jobs:
     name: validate external links (linkinator)
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
@@ -94,7 +97,7 @@ jobs:
           name: site
           path: _site
       - name: Install dependencies
-        run: npm ci
+        run: npm install
       - name: Run Linkinator
         run: npm run test:linkinator
         continue-on-error: false
@@ -104,6 +107,7 @@ jobs:
     name: validate links use helper
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
@@ -123,6 +127,7 @@ jobs:
     name: "Check Spelling"
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}

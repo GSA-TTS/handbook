@@ -141,8 +141,17 @@ const run = async () => {
             }
 
             const decodedTargetId = decodeURIComponent(targetId);
-            const targetHashExists =
-              targetIds.includes(targetId) || targetIds.includes(decodedTargetId);
+
+            // Generate variant forms to handle different slugification of
+            // possessives/apostrophes (e.g. "other-people-s-money" vs
+            // "other-peoples-money"). We check the raw id, the decoded id,
+            // and a variant that collapses "-word-s-" into "-words-".
+            const variants = new Set([targetId, decodedTargetId]);
+            const collapsePossessive = (s) => s.replace(/-([^-]+)-s(?=-|$)/g, "-$1s");
+            variants.add(collapsePossessive(targetId));
+            variants.add(collapsePossessive(decodedTargetId));
+
+            const targetHashExists = targetIds.some((tid) => variants.has(tid));
 
             if (!targetHashExists) {
               errors
@@ -154,14 +163,20 @@ const run = async () => {
           errors.get(page).push(`link to ${link}: target file does not exist`);
         }
       } else {
-        const targetId = link.replace(/^#/, "");
-        const decodedTargetId = decodeURIComponent(targetId);
-        const targetHashExists = ids.includes(targetId) || ids.includes(decodedTargetId);
+          const targetId = link.replace(/^#/, "");
+          const decodedTargetId = decodeURIComponent(targetId);
 
-        if (!targetHashExists) {
-          errors.get(page).push(`link to ${link} - target hash does not exist`);
+          const variants = new Set([targetId, decodedTargetId]);
+          const collapsePossessive = (s) => s.replace(/-([^-]+)-s(?=-|$)/g, "-$1s");
+          variants.add(collapsePossessive(targetId));
+          variants.add(collapsePossessive(decodedTargetId));
+
+          const targetHashExists = ids.some((tid) => variants.has(tid));
+
+          if (!targetHashExists) {
+            errors.get(page).push(`link to ${link} - target hash does not exist`);
+          }
         }
-      }
     }
   }
 

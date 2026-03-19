@@ -2,20 +2,16 @@
 # Use this filename in front matter as `datafile: collections_list` if needed.
 - name: GSA
   url: https://gsa.gov
-  description:
-    General Services Adminstration (GSA)
+  description: General Services Administration (GSA)
 
 - name: USDA
-  url: http://usda.gov/
-  description:
-    United States Department of Agriculture (USDA)
+  url: https://usda.gov/
+  description: United States Department of Agriculture (USDA)
 
 - name: Performance.gov
-  url: http://performance.gov/
-  description:
-    Performance.gov is a platform that tracks the progress of federal agencies in achieving their strategic goals.
+  url: https://performance.gov/
+  description: Performance.gov is a platform that tracks the progress of federal agencies in achieving their strategic goals.
 
 - name: Login.gov
   url: https://login.gov
-  description:
-    Login.gov is a secure platform that allows users to access multiple government services with a single account.
+  description: Login.gov is a secure platform that allows users to access multiple government services with a single account.

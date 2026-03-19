@@ -66,8 +66,15 @@ const getDom = async (file) => {
 };
 
 const hashExists = (ids, targetId) => {
-  const decodedTargetId = decodeURIComponent(targetId);
-  return ids.includes(targetId) || ids.includes(decodedTargetId);
+  try {
+    const decodedTargetId = decodeURIComponent(targetId);
+    return ids.includes(targetId) || ids.includes(decodedTargetId);
+  } catch (e) {
+    // decodeURIComponent can throw on malformed percent-encoding (e.g., stray '%')
+    // In that case, fall back to the raw targetId so the checker continues
+    // and reports a missing hash instead of crashing the process.
+    return ids.includes(targetId);
+  }
 };
 
 const run = async () => {

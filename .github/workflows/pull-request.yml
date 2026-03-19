@@ -17,31 +17,43 @@ jobs:
       - uses: actions/cache@v5
         id: cache
         with:
-          path: .
+          path: node_modules
           key: ${{ steps.cache_key.outputs.cache_key }}
-      - if: steps.cache.outputs.cache-hit != true
-        uses: actions/setup-node@v6
+      - uses: actions/setup-node@v6
         with:
           node-version: 24
-      - if: steps.cache.outputs.cache-hit != true
-        run: npm install
-      - if: steps.cache.outputs.cache-hit != true
+      - name: Install dependencies
+        run: npm ci
+      - name: Build site
         env:
           ELEVENTY_ENV: production
         run: npm run build
+      - name: Upload built site artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
 
   validate_html:
     needs: [build]
     name: validate html
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
-          path: .
+          path: node_modules
       - uses: actions/setup-node@v6
         with:
           node-version: 24
+      - name: Download built site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: HTML count
+        run: find _site -name '*.html' | wc -l
       - run: npm run test:html-validation
 
   validate_internal_links:
@@ -49,13 +61,21 @@ jobs:
     name: validate internal links
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
-          path: .
+          path: node_modules
       - uses: actions/setup-node@v6
         with:
           node-version: 24
+      - name: Download built site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: HTML count
+        run: find _site -name '*.html' | wc -l
       - run: npm run test:internal-links
 
   validate_external_links:
@@ -63,13 +83,19 @@ jobs:
     name: validate external links (linkinator)
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
-          path: .
+          path: node_modules
       - uses: actions/setup-node@v6
         with:
           node-version: 24
+      - name: Download built site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
       - name: Install dependencies
         run: npm ci
       - name: Run Linkinator
@@ -81,13 +107,19 @@ jobs:
     name: validate links use helper
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
-          path: .
+          path: node_modules
       - uses: actions/setup-node@v6
         with:
           node-version: 24
+      - name: Download built site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
       - run: npm run test:prefixed-links
 
   check_spelling:
@@ -95,13 +127,19 @@ jobs:
     name: "Check Spelling"
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
       - uses: actions/cache/restore@v5
         with:
           key: ${{ needs.build.outputs.cache_key }}
-          path: .
+          path: node_modules
       - name: Setup node
         uses: actions/setup-node@v6
         with:
           node-version: 24
+      - name: Download built site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
       - name: Install cSpell
         run: npm run test:spelling

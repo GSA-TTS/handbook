@@ -389,7 +389,7 @@ do on these systems is subject to monitoring and auditing.
 
 Tagging resources in AWS is essential for identifying and tracking resources
 deployed. A tagged resource makes it easier for reasoning from a
-[billing perspective](#other-people-s-money) and aids in determining if a system
+[billing perspective](#other-peoples-money) and aids in determining if a system
 is in a particular environment (ex. production). See the
 [sandbox](#sandbox-accounts) environment to see how tagged resources enables
 lifecycle management of resources in AWS.

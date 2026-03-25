@@ -112,4 +112,4 @@ Follow [TTS Incident Response Plan]({% page "/general-information-and-resources/
 **In the event of an outage:**
 
 1. Sign up for [cloud.gov Pages Status](https://cloudgov.statuspage.io/) notifications
-1. Follow [cloud.gov Contingency Plan](https://cloud.gov/docs/ops/contingency-plan/)
+1. Follow [cloud.gov Contingency Plan](https://docs.cloud.gov/platform/compliance/incident-response-planning/)

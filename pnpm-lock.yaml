@@ -30,8 +30,8 @@ importers:
         specifier: ^0.27.3
         version: 0.27.3
       esbuild-sass-plugin:
-        specifier: ^3.6.0
-        version: 3.6.0(esbuild@0.27.3)(sass-embedded@1.97.2)
+        specifier: ^3.7.0
+        version: 3.7.0(esbuild@0.27.3)(sass-embedded@1.97.2)
       glob:
         specifier: ^10.5.0
         version: 10.5.0
@@ -1638,11 +1638,11 @@ packages:
     resolution: {integrity: sha512-w+5mJ3GuFL+NjVtJlvydShqE1eN3h3PbI7/5LAsYJP/2qtuMXjfL2LpHSRqo4b4eSF5K/DH1JXKUAHSB2UW50g==}
     engines: {node: '>= 0.4'}
 
-  esbuild-sass-plugin@3.6.0:
-    resolution: {integrity: sha512-lzPJQSEXcnj5amBPPib5lBjsDNPzvdMnX+1Rf7eha9BIpLSM5Ad2pi+Rqg5CAlWMduCgLntS2hLAqG7v1fxWGw==}
+  esbuild-sass-plugin@3.7.0:
+    resolution: {integrity: sha512-vxNSXFx3/0ZFApKo9036ek2iRfsT+yVO99qIYqa+JaDSuJuId2/N4s1TY+xfK+5LRpAMQkfdBVUTxb/1r2bq1A==}
     peerDependencies:
-      esbuild: '>=0.27.2'
-      sass-embedded: ^1.97.2
+      esbuild: '>=0.27.3'
+      sass-embedded: ^1.97.3
 
   esbuild@0.27.3:
     resolution: {integrity: sha512-8VwMnyGCONIs6cWue2IdpHxHnAjzxnw2Zr7MkVxB2vjmQ2ivqGFb4LEG3SMnv0Gb2F/G/2yA8zUaiL1gywDCCg==}
@@ -2069,9 +2069,6 @@ packages:
     resolution: {integrity: sha512-rH+46sQJ2dlwfjfhCyNx5thzrv+dtmBIhPHk0zgRUukHzZ/kRueTJXoYYsclBaKcSMBWuGbOFXtioLpzTb5euw==}
     engines: {node: '>=16.x'}
     hasBin: true
-
-  immutable@5.1.4:
-    resolution: {integrity: sha512-p6u1bG3YSnINT5RQmx/yRZBpenIl30kVxkTLDyHLIMk0gict704Q9n+thfDI7lTRm9vXdDYutVzXhzcThxTnXA==}
 
   immutable@5.1.5:
     resolution: {integrity: sha512-t7xcm2siw+hlUM68I+UEOK+z84RzmN59as9DZ7P1l0994DKUWV7UXBMQZVxaoMSRQ+PBZbHCOoBt7a2wxOMt+A==}
@@ -5412,7 +5409,7 @@ snapshots:
       is-date-object: 1.1.0
       is-symbol: 1.1.1
 
-  esbuild-sass-plugin@3.6.0(esbuild@0.27.3)(sass-embedded@1.97.2):
+  esbuild-sass-plugin@3.7.0(esbuild@0.27.3)(sass-embedded@1.97.2):
     dependencies:
       esbuild: 0.27.3
       resolve: 1.22.11
@@ -5942,8 +5939,6 @@ snapshots:
   image-size@1.2.1:
     dependencies:
       queue: 6.0.2
-
-  immutable@5.1.4: {}
 
   immutable@5.1.5: {}
 
@@ -7352,7 +7347,7 @@ snapshots:
   sass@1.97.3:
     dependencies:
       chokidar: 4.0.3
-      immutable: 5.1.4
+      immutable: 5.1.5
       source-map-js: 1.2.1
     optionalDependencies:
       '@parcel/watcher': 2.5.6

@@ -21,7 +21,7 @@ const build = async () =>
     },
     minify: process.env.ELEVENTY_ENV === "production",
     sourcemap: process.env.ELEVENTY_ENV !== "production",
-    target: ["chrome58", "firefox57", "safari11", "edge18"],
+    target: ["chrome90", "firefox88", "safari14", "edge90"],
     plugins: [
       sassPlugin({
         loadPaths: [

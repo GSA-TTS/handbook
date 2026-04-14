@@ -28,7 +28,7 @@ How changes can be accommodated depends on when and how the changes occurred:
 
 - [Changes made after an authorization is approved in Concur, but before ticketing](#changes-made-after-an-authorization-is-approved-in-concur-but-before-ticketing)
 
-- [Changes made prior to an authorization's approval in Concur](#changes-made-prior-to-an-authorization-s-approval-in-concur)
+- [Changes made prior to an authorization's approval in Concur](#changes-made-prior-to-an-authorizations-approval-in-concur)
 
 - [Making a change to a blank authorization in Concur (with no flights, rail, hotel, or rental car)](#manually-amending-an-authorization-in-concur)
 

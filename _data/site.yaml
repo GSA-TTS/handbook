@@ -37,4 +37,5 @@ searchgov:
 
   # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
   # If you do not want to present search suggestions, set this value to false.
-  suggestions: true
+  # NOTE: The remote.loader.js script is currently unavailable from search.gov (404), so suggestions are disabled.
+  suggestions: false

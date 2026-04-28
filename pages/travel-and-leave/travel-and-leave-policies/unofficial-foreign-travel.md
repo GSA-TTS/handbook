@@ -10,6 +10,9 @@ questions:
     url: https://calendar.google.com/calendar/u/0/selfsched?cid=ZGplbWlsYS5tY2NyYXlAZ3NhLmdvdg 
 redirect_from:
   - /unofficial-foreign-travel/
+sidebar:
+  navigation: travel
+  current: Unofficial foreign travel
 cSpell: ignore Trav,DeLeve,Brydges,Nico,Papafil,Mahan,Rostami,Krzystan
 ---
 
@@ -26,7 +29,6 @@ cSpell: ignore Trav,DeLeve,Brydges,Nico,Papafil,Mahan,Rostami,Krzystan
 ### When You Return 
 
 1. Within five days of your return from foreign travel, complete the [Foreign Travel De-briefing form](https://docs.google.com/forms/d/e/1FAIpQLSeTeqBBLYs3zGLBKepxpmu7vqhSDxNUYo7n4tEk3A6vDn9yXQ/viewform). If you have issues with the form, please email [threat-management-office@gsa.gov](threat-management-office@gsa.gov).
-
 
 ### For More Information
 

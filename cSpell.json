@@ -196,6 +196,7 @@
     "timeframes",
     "timesheet",
     "timesheets",
+    "TTSers",
     "Tock",
     "Tocked",
     "Tocking",
@@ -227,7 +228,8 @@
     "workshopping",
     "workstreams",
     "XKCD",
-    "Yamashiro"
+    "Yamashiro",
+    "Español"
   ],
   "ignoreWords": [],
   "patterns": [

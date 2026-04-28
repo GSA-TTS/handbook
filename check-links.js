@@ -52,7 +52,7 @@ const getDom = async (file) => {
       SITE_ROOT,
       // Strip off any URL hashes and remove the base URL portion to get down
       // to just the target file.
-      realFile.replace(/\#.*$/, "").replace(baseurl, ""),
+      realFile.replace(/#.*$/, "").replace(baseurl, ""),
       path.basename(file)
     );
 
@@ -95,7 +95,7 @@ const run = async () => {
         return dom(this).attr("src") ?? dom(this).attr("href");
       })
       .get()
-      .filter((url) => /^[#\/]/.test(url))
+      .filter((url) => /^[#/]/.test(url))
       // Filter out /#top anchor since that is rendered by the browser
       .filter((url) => !/#top/i.test(url));
 

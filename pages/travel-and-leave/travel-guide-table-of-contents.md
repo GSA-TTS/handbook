@@ -103,6 +103,7 @@ On July 13, 2021, GSA published [updated travel guidance]({% page "/july-13-trav
     reimbursement]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#issues-with-reimbursement" %})
   - [Amending
     vouchers]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-faq/#how-do-i-amend-my-voucher-after-it-is-approved" %})
+- [Unofficial Foreign Travel]({% page "/travel-and-leave/travel-and-leave-policies/unofficial-foreign-travel" %})
 - [Appendix A: Amended
   authorizations]({% page "/travel-and-leave/travel-and-leave-policies/travel-guide-a-amended-authorizations" %})
 - [Appendix B: After hours and emergency travel

@@ -37,7 +37,7 @@
     "esbuild-sass-plugin": "^3.7.0",
     "glob": "^10.5.0",
     "js-yaml": "^4.1.1",
-    "jsdom": "^21.1.2",
+    "jsdom": "^29.1.0",
     "markdown-it": "^14.1.1",
     "markdown-it-anchor": "^8.6.7",
     "markdown-it-attrs": "^4.3.1",

@@ -40,7 +40,7 @@ For **birth, adoption or placement of a new child**, you can use [paid parental 
 
 For **religious observances**, you can [request an adjustment to your work schedule]({% page "/travel-and-leave/overtime//#religious-comp-time-for-everyone" %}) for religious observances, instead of taking leave.
 
-To [**vote**](#voting-and-poll-volunteering), register to vote, participate in early voting, or volunteering as a poll worker, you can use Administrative Leave.
+To [**vote**](#voting-and-poll-volunteering), register to vote, participate in early voting, or volunteering as a poll worker, you generally must do so on your own time (i.e., either before or after work), or during work hours by using approved annual leave, compensatory time off, comp time for travel, or credit hours (for employees on flexible schedules).
 
 For **jury duty** and other court-related leave, use [Court Leave](#court-leave-jury-duty).
 
@@ -216,21 +216,15 @@ Administrative Leave is called “Other paid absences” in HR Links.
 
 #### Voting and poll volunteering
 
-You can receive Administrative Leave in order to vote, register to vote, and/or participate in early voting.
+GSA employees who wish to vote on election day in Federal, state, or local elections, and/or volunteer at polling places, generally must do so on their own time (i.e., either before or after work), or during work hours by using approved annual leave, compensatory time off, comp time for travel, or credit hours (for employees on flexible schedules).
 
-You can receive up to 4 hours for each election event. This includes primaries and caucuses, at the federal, state, local (i.e., county and municipal), tribal, and territorial level.
+In rare circumstances, authorized agency officials may approve limited amounts of administrative leave on election day when there is no reasonable opportunity for the employee to vote outside of regular working hours and only to the extent that such time off does not interfere with agency operations. Any such request should be directed by the employee to the appropriate supervisor only when (1) the employee will be unable to vote on the day of the election because of activities directly related to the agency’s mission (such as Temporary Duty (TDY) travel) and cannot vote by absentee ballot or by early voting on a nonworkday, or (2) early voting hours are the same as, or exceed, voting hours on the day of the election. 
 
-You should only enter the number of hours actually used, i.e. if you need less than 4, enter the appropriate amount in HR Links.
-
-You are also able to receive 4 hours of Administrative Leave per leave year to serve as a non-partisan poll worker or to participate in non-partisan observer activities. You can volunteer in an election at any level, as listed above. This leave is in addition to any administrative leave you use to vote.
+If granted, paid leave for voting is limited to the amount of time necessary to vote, not to exceed 3 work hours, and should be coded 84, Other Paid Leave, with “Administrative leave due to voting” placed into the comments box of the absence request within HR Links.
 
 OPM Fact Sheet:
 
 - [Administrative Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/administrative-leave/)
-
-OPM Memorandum:
-
-- [Executive Order on Promoting Access to Voting](https://www.chcoc.gov/sites/default/files/Voting%20Admin%20Leave%20Memo%20CPM%202022-05_508_0.pdf)
 
 #### Blood, bone marrow, and organ donation
 

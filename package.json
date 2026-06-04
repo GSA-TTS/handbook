@@ -8,6 +8,7 @@
     "debug": "DEBUG=* eleventy --serve --incremental",
     "format": "prettier -w .",
     "lint": "npm run lint:format && npm run lint:js",
+    "lint:fix": "prettier -w . && eslint check-*.js .eleventy.js js config _data/layout.js --fix",
     "lint:format": "prettier -c .",
     "lint:js": "eslint check-*.js .eleventy.js js config _data/layout.js",
     "pages": "npm run build",
